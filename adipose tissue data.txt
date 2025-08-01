@@ -1,0 +1,32 @@
+snRNA-seq analyses of breast tissues of healthy women of diverse genetic ancestry 2712
+GSM6592055 cancer_untreated have 30 adipose tissue in pathological annotation
+GSM6592054_M7 242 adipose tissue 
+GSM6592056_M9 221 adipose tissue
+
+visium spatial - sample v10 91 adipose tissue 
+
+visium spatial - sample v07 422 adipose tissue 
+
+snRNA-seq data - all cells 9780
+visium spatial - sample v03 130
+
+ visium spatial - sample v01 152
+visium spatial - sample v05 74 
+ visium UMAP - all samples 1773
+visium spatial - sample v09 249
+visium spatial - sample v04 162
+visium spatial - sample v02 91
+visium spatial - sample v06 241
+
+visium spatial - sample v08 161
+ 
+Total 16531
+
+ 
+
+
+
+
+
+
+ 

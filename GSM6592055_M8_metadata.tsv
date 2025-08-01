@@ -1,0 +1,918 @@
+CellID	orig.ident	nCount_Spatial	nFeature_Spatial	annotations	sampleid	patient_id	suffix	new_patient_id	condition	percent.mt	nCount_SCT	nFeature_SCT	SCT_snn_res.0.5	seurat_clusters
+AAACACCAATAACTGC-1	SeuratProject	1603	1011	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.79787897691828	3815	1118	1	1
+AAACCGGGTAGGTACC-1	SeuratProject	1632	1044	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96323529411765	3873	1140	0	0
+AAACCGTTCGTCCAGG-1	SeuratProject	5753	2427		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.95393707630801	5265	2401	0	0
+AAACGGTTGCGAACTG-1	SeuratProject	5957	2513		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.2398858485815	5361	2489	0	0
+AAACTCGGTTCGCAAT-1	SeuratProject	12550	4284	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.16733067729084	5577	2952	2	2
+AAAGGCTACGGACCAT-1	SeuratProject	10921	3396	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.68482739675854	5598	2712	4	4
+AAAGTAGCATTGCTCA-1	SeuratProject	1922	1051	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.21436004162331	4254	1122	0	0
+AAATAGGGTGCTATTG-1	SeuratProject	6793	3113		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.21536876196084	5687	3092	3	3
+AAATCGCGGAAGGAGT-1	SeuratProject	3142	1755	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.54296626352642	4107	1746	1	1
+AAATCGTGTACCACAA-1	SeuratProject	21797	4414	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.95453502775611	4502	1290	4	4
+AAATGGCCCGTGCCCT-1	SeuratProject	2296	1070		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.31533101045296	4471	1098	1	1
+AAATTAACGGGTAGCT-1	SeuratProject	2759	1480	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.58173251177963	4057	1478	0	0
+AAATTGATAGTCCTTT-1	SeuratProject	1737	992		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.16637881404721	4054	1084	0	0
+AAATTTGCGGGTGTGG-1	SeuratProject	10069	3784	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.47978945277585	5941	3382	2	2
+AACAATACATTGTCGA-1	SeuratProject	32046	7488	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.86344629594957	5412	2925	3	3
+AACACGAGACGCGGCC-1	SeuratProject	1700	1007	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.88235294117647	3932	1121	1	1
+AACAGCTGTGTGGCAA-1	SeuratProject	3562	1707	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41437394722066	4269	1694	1	1
+AACATTGTGACTCGAG-1	SeuratProject	4531	2108	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.11189582873538	4627	2090	0	0
+AACCAAGACTTCTCTG-1	SeuratProject	1209	803		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.21091811414392	3495	1033	1	1
+AACCCATCCCATGATC-1	SeuratProject	3267	1656	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.58126721763085	4204	1647	1	1
+AACCTTTAAATACGGT-1	SeuratProject	8185	3301	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.8069639584606	5684	3196	0	0
+AACGTACTGTGGGTAC-1	SeuratProject	7675	2839		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.9185667752443	5567	2777	4	4
+AACTAGGCTTGGGTGT-1	SeuratProject	4402	2018	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.56565197637438	4568	1999	0	0
+AACTCAAGTTAATTGC-1	SeuratProject	10750	3838	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.24651162790698	5937	3246	2	2
+AACTCTCAGTGTGCTC-1	SeuratProject	6510	2688	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.12903225806452	5503	2657	0	0
+AAGACCCAACTGAACA-1	SeuratProject	14309	4811	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.197637850304	5146	2623	3	3
+AAGAGGATGTACGCGA-1	SeuratProject	1583	947	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.91661402400505	3881	1075	0	0
+AAGATGGCACCGGACC-1	SeuratProject	29209	7095	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.09743572186655	5444	2867	3	3
+AAGCACCCTGCGTATC-1	SeuratProject	30418	7000	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.22000131501085	5251	2662	3	3
+AAGCATACTCTCCTGA-1	SeuratProject	9290	3573	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.32938643702906	5829	3284	0	0
+AAGCGCAGGGCTTTGA-1	SeuratProject	12626	4771	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.01964200855378	5762	3363	2	2
+AAGCGTCCCTCATCGA-1	SeuratProject	8621	3600		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.09465259250667	5821	3460	2	2
+AAGGGACTATGCATTC-1	SeuratProject	1728	1110	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.87731481481481	3877	1202	1	1
+AAGTGACGACCGAATT-1	SeuratProject	2193	1231	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.83356133150935	4271	1268	1	1
+AAGTGAGTCGGGTTTA-1	SeuratProject	18716	3999	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.892284676212866	4454	1224	4	4
+AAGTGCGTTAGAATCT-1	SeuratProject	2840	1432	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.87323943661972	4145	1426	0	0
+AAGTGTTTGGAGACGG-1	SeuratProject	5340	2662		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.40449438202247	5132	2633	0	0
+AAGTTCGGCCAACAGG-1	SeuratProject	17883	5284	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.94039031482413	4974	2319	2	2
+AATAACACTAGAACAA-1	SeuratProject	6180	2656	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.33333333333333	5430	2622	0	0
+AATAGAACAGAGTGGC-1	SeuratProject	28359	5534	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.50858633943369	4609	1637	4	4
+AATAGTCCGTCCCGAC-1	SeuratProject	3427	1720	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.37700612780858	4230	1706	0	0
+AATATTGGAGTATTGA-1	SeuratProject	1235	654		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.36842105263158	3851	879	0	0
+AATCGCCTCAGCGCCA-1	SeuratProject	2145	1197		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.66666666666667	4282	1224	0	0
+AATGACAGCAATGTCT-1	SeuratProject	2463	1419	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.06008932196508	4169	1435	0	0
+AATGTGCCCGAGGTGT-1	SeuratProject	4407	1957	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.4263671431813	4580	1934	1	1
+AATTAAAGGTCGGCGT-1	SeuratProject	1559	927		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.02950609364978	3873	1051	0	0
+AATTAACGGATTTCCA-1	SeuratProject	21294	6288	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.5030525030525	5349	2883	3	3
+AATTAGCGCTGCAGCG-1	SeuratProject	9234	3386		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.80831708901884	5768	3109	0	0
+AATTCCAAGCATGTAC-1	SeuratProject	5322	2492		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.00638857572341	5098	2463	0	0
+AATTCTAGAGTTAGGC-1	SeuratProject	20417	4614	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.33712102659548	4699	1639	4	4
+ACAAATGGTAGTGTTT-1	SeuratProject	5945	2575		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.8107653490328	5332	2540	0	0
+ACAATAGTCGTACGTT-1	SeuratProject	910	630	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.71428571428571	3522	979	0	0
+ACAATGAATACGGAGA-1	SeuratProject	4950	2153		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.98989898989899	4901	2134	1	1
+ACACCTTAAGTAGGGC-1	SeuratProject	700	455		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.71428571428571	3509	887	0	0
+ACACTGATCAAGGTGT-1	SeuratProject	37022	7465	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.08886607962833	5315	2467	3	3
+ACAGAACTGAGAACAA-1	SeuratProject	3337	1606	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.27419838178004	4207	1589	1	1
+ACAGGCTTGCCCGACT-1	SeuratProject	2120	1196		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.20754716981132	4290	1231	0	0
+ACAGGTGGAGGTGAGG-1	SeuratProject	7227	2895	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.73225404732254	5611	2849	3	3
+ACAGTAATACAACTTG-1	SeuratProject	3207	1232	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.11163080760836	4352	1226	4	4
+ACATCGATCGTTTACC-1	SeuratProject	26407	6503	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.31677206801227	5155	2534	3	3
+ACATCGGTCAGCCGCG-1	SeuratProject	2964	1588		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.18353576248313	4081	1575	0	0
+ACATTAGTTTATATCC-1	SeuratProject	5678	2449	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.34026065516027	5233	2426	0	0
+ACCATATCCGCAATAA-1	SeuratProject	23864	6107	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.51458263493128	5139	2503	3	3
+ACCATCGTATATGGTA-1	SeuratProject	2819	1501	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.46967009577864	4083	1496	0	0
+ACCCACCTACATGCTC-1	SeuratProject	1211	770		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.10156895127993	3605	987	0	0
+ACCCATCTTGAGGGTA-1	SeuratProject	4509	2265		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.77023730317143	4594	2241	1	1
+ACCCGAGCGAAATTAC-1	SeuratProject	6721	2937	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.50275256658235	5613	2895	1	1
+ACCCGGAAACTCCCAG-1	SeuratProject	12524	4423		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.5633982753114	5648	3093	3	3
+ACCCGGTTACACTTCC-1	SeuratProject	7323	3045	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.96012563157176	5715	3001	2	2
+ACCCGTGTCATCAGTA-1	SeuratProject	33569	7329	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.47436623074861	5319	2671	3	3
+ACCCTATGCCATATCG-1	SeuratProject	31555	6864	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.01521153541436	5312	2581	3	3
+ACCGAAGAGTCTGGTT-1	SeuratProject	2637	1516	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.57034508911642	4051	1528	0	0
+ACCGACACATCTCCCA-1	SeuratProject	11298	4358	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.51425030978934	5963	3523	3	3
+ACCGGTCAGGTACACC-1	SeuratProject	3861	2177	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.02460502460502	4261	2155	2	2
+ACCTAAGTACCTTTCA-1	SeuratProject	2239	1250	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.58284948637785	4407	1274	0	0
+ACCTGCGTGTCATGTT-1	SeuratProject	2266	1341	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.63371579876434	4267	1368	1	1
+ACGAGGATACCACTCT-1	SeuratProject	3760	1751		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.37234042553191	4310	1735	1	1
+ACGAGGTTTACAACGT-1	SeuratProject	3721	2096	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.90808922332706	4212	2080	2	2
+ACGATGCATATGTTAT-1	SeuratProject	5721	2551	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.70931655305017	5296	2518	2	2
+ACGCAAACTAATAGAT-1	SeuratProject	16973	5361	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.09792022624168	4720	2266	2	2
+ACGCATTCGTGAGTAC-1	SeuratProject	3000	1460	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.66666666666667	4141	1448	0	0
+ACGCGAAGTCAGACGA-1	SeuratProject	3006	1564	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.35395874916833	4136	1556	0	0
+ACGCGCTACACAGGGT-1	SeuratProject	1856	1185		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.87931034482759	4052	1261	0	0
+ACGCGGGCCAAGGACA-1	SeuratProject	8531	2982	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.51295276052045	5624	2831	4	4
+ACGGACTCTCAAAGCG-1	SeuratProject	22505	6275	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.799822261719618	5220	2690	2	2
+ACGGCACTTGCTTGGG-1	SeuratProject	9854	3257		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.8867464988837	5711	2843	4	4
+ACGGCCAACATGGACT-1	SeuratProject	16012	5113	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.23507369472895	4837	2322	2	2
+ACGGGAGTGTCGGCCC-1	SeuratProject	2832	1316	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.91949152542373	4213	1317	1	1
+ACGTGACAAAGTAAGT-1	SeuratProject	9982	4095	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.0254458024444	6062	3680	2	2
+ACGTTAATGTCGAAGA-1	SeuratProject	8983	3404		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.16174997216965	5796	3179	3	3
+ACGTTAGATTTGCCCG-1	SeuratProject	2795	1620	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.29338103756708	3993	1619	0	0
+ACGTTCGTTCAGGAAA-1	SeuratProject	13490	4408	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.79466271312083	5407	2655	2	2
+ACTACCAGCTCTCTGG-1	SeuratProject	1851	994		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.15775256618044	4064	1061	0	0
+ACTACGCGTTAGAATT-1	SeuratProject	14438	4931	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.57556448261532	5193	2724	3	3
+ACTATTTCCGGGCCCA-1	SeuratProject	18152	5570	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.49250771264874	4968	2422	3	3
+ACTCCCATTCCTAAAG-1	SeuratProject	2107	1143	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.21072615092549	4268	1189	1	1
+ACTCCCTAATGCTAAA-1	SeuratProject	32151	7348	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.6203539547759	5314	2824	3	3
+ACTCGTAACCCGTCCT-1	SeuratProject	8365	2777		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.98864315600717	5527	2618	1	1
+ACTGCTCGGAAGGATG-1	SeuratProject	11670	4275	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.08826049700086	5873	3290	2	2
+ACTGTCCAGGATTATA-1	SeuratProject	8318	2480	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.83722048569368	5449	2328	4	4
+ACTGTCTTCTTTAGAA-1	SeuratProject	656	451		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.99390243902439	3449	933	0	0
+ACTTATTAGGATCGGT-1	SeuratProject	1763	976	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.18264322178105	4105	1065	0	0
+ACTTGACTCCCTCTTT-1	SeuratProject	4638	2117	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.75679172056921	4686	2101	0	0
+ACTTTCCTATAGCTTC-1	SeuratProject	4207	2045		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.54005229379605	4415	2018	1	1
+AGAAGGTACACTTCAC-1	SeuratProject	1529	989	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.44735120994114	3725	1118	1	1
+AGAAGGTTGCCGAATT-1	SeuratProject	1658	1028	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.1869722557298	3936	1132	0	0
+AGAAGTGATTCGTGAT-1	SeuratProject	2476	1362	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.47334410339257	4180	1365	0	0
+AGACCAAACCACACCT-1	SeuratProject	2662	1444	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.40946656649136	4020	1453	1	1
+AGACCCACCGCTGATC-1	SeuratProject	25786	6168	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.56286356937873	5202	2413	2	2
+AGACCCGCCCTCCTCG-1	SeuratProject	608	414		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.21052631578947	3413	899	0	0
+AGACCGGGAAACCCTG-1	SeuratProject	1903	1093		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.77877036258539	3913	1174	1	1
+AGACGACGATGCCGCT-1	SeuratProject	1791	1096	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.46175321049693	4051	1186	0	0
+AGACTGTTACCGGGTC-1	SeuratProject	18219	5578	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.36253361874966	4936	2410	3	3
+AGAGAAGGAGTACAAT-1	SeuratProject	5327	2464	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.78693448470058	5102	2436	1	1
+AGAGATCTCTAAAGCG-1	SeuratProject	1092	685	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.6007326007326	3619	945	1	1
+AGATACCGGTGTTCAC-1	SeuratProject	2321	1346		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.99784575613959	4328	1374	0	0
+AGATATAATACGACTA-1	SeuratProject	23027	6499	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.36995700699179	5332	2871	2	2
+AGATGCAAGACGTGCA-1	SeuratProject	3569	1980	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.92266741384141	4118	1963	1	1
+AGATTATAGGACGTTT-1	SeuratProject	2582	1365	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.27420604182804	4128	1361	0	0
+AGATTCACAACCGATA-1	SeuratProject	2782	1656	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.37886412652768	3926	1640	1	1
+AGCAAAGGCCGCTAGT-1	SeuratProject	26062	4812	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.07581920036835	4564	1267	4	4
+AGCAACCGAAAGTAAT-1	SeuratProject	9043	3101	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.3933429171735	5670	2842	1	1
+AGCACTACCTCACCAG-1	SeuratProject	6671	3091		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.79493329335932	5610	3046	3	3
+AGCAGAAGGAGAAAGA-1	SeuratProject	12207	4302	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.59629720652085	5653	3072	2	2
+AGCAGCCAGATGAATA-1	SeuratProject	8388	3194	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.96089651883643	5649	3066	3	3
+AGCATCATTTCGAAAG-1	SeuratProject	11301	4188	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.40677816122467	5996	3366	2	2
+AGCCAAGCTTTGTGTC-1	SeuratProject	8108	3191	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.60335471139615	5650	3088	2	2
+AGCCCATACATGTAAG-1	SeuratProject	1673	1052	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.35206216377764	3904	1164	0	0
+AGCCCGGTAGCCTGTA-1	SeuratProject	10100	3903	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.98019801980198	5975	3489	4	4
+AGCCGTGGCTAAATGT-1	SeuratProject	2409	1270	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.94354503943545	4276	1293	1	1
+AGCGACAGGAACGGTC-1	SeuratProject	11324	3503	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.93853761921582	5557	2659	4	4
+AGCGCATAATGAATCG-1	SeuratProject	10034	3527	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.28224038269882	5771	3092	4	4
+AGCGGACACTTCGTAG-1	SeuratProject	2712	1454	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.68731563421829	4104	1462	0	0
+AGCGGCGGTTAGCGGT-1	SeuratProject	2653	1427	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.36788541274029	4005	1433	0	0
+AGCGGGTCTGACACTC-1	SeuratProject	3338	1819	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.96584781306171	4105	1803	0	0
+AGCTAACAAGCAATGT-1	SeuratProject	11314	3838	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.23616757998939	5739	3040	2	2
+AGCTCCTTCGCACATC-1	SeuratProject	3563	1892		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.60595004209936	4205	1877	0	0
+AGCTCTTTACTCAGTT-1	SeuratProject	887	623		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.6369785794814	3530	982	0	0
+AGCTGTAACCTCAATC-1	SeuratProject	3550	1829		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.77464788732394	4200	1815	1	1
+AGCTTGATCTTAACTT-1	SeuratProject	1932	1078	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88198757763975	4171	1133	0	0
+AGGAAGCTGTCCGCCG-1	SeuratProject	14948	4325	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41503880117742	4666	1947	4	4
+AGGACGACCCATTAGA-1	SeuratProject	3497	1736	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.86216757220475	4216	1715	0	0
+AGGATAAAGTCGGGAT-1	SeuratProject	6464	2773	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.32178217821782	5512	2752	0	0
+AGGATCACGCGATCTG-1	SeuratProject	6002	2256	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.01499500166611	5285	2226	1	1
+AGGCAGGGAGCGTACT-1	SeuratProject	9578	3668	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.47442054708707	5916	3351	2	2
+AGGCCCTAGAACGCCA-1	SeuratProject	2169	1167	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.44029506685108	4375	1208	0	0
+AGGCTTCCCGAAGAAG-1	SeuratProject	4046	1930	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.94117647058824	4427	1912	0	0
+AGGGACTCTACGCGAC-1	SeuratProject	29513	6971	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.23881001592519	5629	2943	3	3
+AGGGTTTAGTTCGGGA-1	SeuratProject	2368	1366	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.98141891891892	4228	1379	0	0
+AGGTAGATCGAGATAT-1	SeuratProject	16313	5590	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.96616195672163	4818	2488	3	3
+AGGTCAGGTGAGAGTG-1	SeuratProject	1419	832	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.2015503875969	3816	978	1	1
+AGGTGGTGACCTTCGC-1	SeuratProject	16610	5045	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.18603251053582	4912	2219	2	2
+AGGTTTCACACACCTT-1	SeuratProject	8765	3312	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.8876212207644	5726	3118	3	3
+AGTATACACAGCGACA-1	SeuratProject	11337	4070	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.21628296727529	5775	3175	2	2
+AGTATGCTGGAGACCA-1	SeuratProject	2223	1304	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.64372469635628	4242	1335	1	1
+AGTATTTGGCACGACC-1	SeuratProject	28617	6807	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.10595100814201	5675	2916	3	3
+AGTCAACACCACCATC-1	SeuratProject	2700	1430	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.18518518518519	4071	1443	0	0
+AGTCGGCCCAAACGAC-1	SeuratProject	545	358		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.90825688073395	3467	888	0	0
+AGTCGGCTCAACTTTA-1	SeuratProject	15788	2503	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.00076007093995	4430	729	4	4
+AGTCGTGGGCATTACG-1	SeuratProject	1433	841	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.11723656664341	3869	1004	0	0
+AGTCTCACAAGACTAC-1	SeuratProject	2073	1171		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.84611673902557	4318	1221	0	0
+AGTCTTTAAAGTGTCC-1	SeuratProject	17003	5354		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.88719637710992	4907	2407	2	2
+AGTGACCTACTTTACG-1	SeuratProject	21644	5374	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.55756791720569	4952	2109	3	3
+AGTGATAACCTGCGCG-1	SeuratProject	13141	4505		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.25835172361312	5495	2835	2	2
+AGTGATATGAGTAGTT-1	SeuratProject	24132	6360	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.824631195093652	5384	2718	2	2
+AGTGCGTAGCTCGTAA-1	SeuratProject	15393	3508		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.42967582667446	4442	1255	4	4
+AGTTAAACACTTGCGA-1	SeuratProject	2819	1456	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.46293011706279	4154	1451	0	0
+AGTTAAGTCAACCGCT-1	SeuratProject	2569	1262	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.42545737641105	4190	1272	1	1
+AGTTCCTATTTATGTT-1	SeuratProject	11813	3843		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.86641835266232	5629	2831	3	3
+AGTTGACGGTCCTTGC-1	SeuratProject	1048	674		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.67557251908397	3614	968	0	0
+AGTTTGCACCTGCCTC-1	SeuratProject	14720	3920	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.29755434782609	4665	1667	4	4
+AGTTTGGCCAGACCTA-1	SeuratProject	10632	3855	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.74003009781791	5880	3279	2	2
+ATAAACGGACCCGTAA-1	SeuratProject	7704	3138	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.42627206645898	5666	3066	0	0
+ATAAAGGCTCGGTCGT-1	SeuratProject	953	559		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.14165792235047	3754	904	0	0
+ATAAATATTAGCAGCT-1	SeuratProject	1122	717	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.23885918003565	3636	973	0	0
+ATAAGTTACCGCGACG-1	SeuratProject	26650	5052	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.975609756097561	4792	1596	4	4
+ATAATAGCTGTTGAAT-1	SeuratProject	13390	4112	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.10530246452577	5183	2433	4	4
+ATAATTAGCTAAGTAG-1	SeuratProject	2273	1300	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.87153541575011	4442	1342	0	0
+ATACAGGCCCTCCAAT-1	SeuratProject	16906	5173	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.11688158050396	4771	2199	0	0
+ATACCTAACCAAGAAA-1	SeuratProject	8454	3527		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.76792051100071	5781	3398	2	2
+ATACGCCGGCGAAACC-1	SeuratProject	2844	1395		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.20393811533052	4175	1400	0	0
+ATACGGAACGTCGTTT-1	SeuratProject	3310	1752		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.41087613293051	4144	1741	1	1
+ATACGTTATGCACGGA-1	SeuratProject	4588	2253	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.79250217959895	4630	2218	0	0
+ATACTTGTTCTCGAGC-1	SeuratProject	505	353		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.51485148514852	3369	947	0	0
+ATAGGCGGCTATAGAA-1	SeuratProject	12533	4338	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.58780818638794	5671	3056	2	2
+ATATAAAGCGCTCGTG-1	SeuratProject	18477	5121	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.52746658007252	4832	2105	2	2
+ATATAAATGTAGCTGC-1	SeuratProject	5385	2457		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.11234911792015	5125	2433	0	0
+ATATCAATTCCAGCCT-1	SeuratProject	1945	1198	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.10025706940874	4090	1252	0	0
+ATATCTTAGGGCCTTC-1	SeuratProject	15482	4788	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.67407311716832	4930	2231	2	2
+ATATTCAGTTAAACCT-1	SeuratProject	4854	1991	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.60527400082406	4839	1978	4	4
+ATCAAACGAAGGTTTG-1	SeuratProject	8096	3185	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.48270750988142	5621	3087	0	0
+ATCAATCTGGGCTGCA-1	SeuratProject	2606	1472	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.36531082118189	4067	1479	0	0
+ATCACGTGCTAATTAA-1	SeuratProject	9497	3661	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.11677371801622	5892	3343	2	2
+ATCAGACGGCACGCCG-1	SeuratProject	4976	2163	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.0040192926045	4924	2149	0	0
+ATCAGCTCGTCCACTA-1	SeuratProject	1338	756		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.847533632287	3798	924	1	1
+ATCATCCAATATTTGT-1	SeuratProject	20507	5686	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.62871214707173	5029	2371	2	2
+ATCCAATGGAGGGTCC-1	SeuratProject	1429	904	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.29811056682995	3728	1075	0	0
+ATCCACATCGACAGAA-1	SeuratProject	14177	4928	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.83176976793398	5207	2751	2	2
+ATCCAGAGCAACAACC-1	SeuratProject	10543	3731	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.26140567200986	5879	3166	3	3
+ATCCAGGATTCGTGAA-1	SeuratProject	1494	858	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.49263721552878	3895	995	0	0
+ATCCTGAATCGCTGCG-1	SeuratProject	514	380	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.22568093385214	3350	946	0	0
+ATCGCACGCCGGGAGA-1	SeuratProject	630	427		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.50793650793651	3394	907	0	0
+ATCGGAGACAGACGGC-1	SeuratProject	6244	2713		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.46316463805253	5468	2686	0	0
+ATCTAATATCCTACGG-1	SeuratProject	7114	2989		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.45206634804611	5657	2956	0	0
+ATCTAGCTTGTGAGGG-1	SeuratProject	1969	1197		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.80904012188928	4071	1243	1	1
+ATCTGACATGGAAGGA-1	SeuratProject	2791	1568	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.5145109279828	4036	1569	0	0
+ATCTGCTGTTATCGCC-1	SeuratProject	8226	3376		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.59518599562363	5720	3284	2	2
+ATCTGGGCTGTTCTTG-1	SeuratProject	8854	3541	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.06076349672464	5835	3364	2	2
+ATGACGCGTTCTATCC-1	SeuratProject	3008	1517	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.19148936170213	4183	1517	0	0
+ATGACTATCAGCTGTG-1	SeuratProject	13317	4501	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.64819403769618	5351	2766	2	2
+ATGGAAATTTAAGGAG-1	SeuratProject	12478	4564		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.43003686488219	5765	3208	2	2
+ATGGATTGACCAAACG-1	SeuratProject	776	530		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.08762886597938	3491	937	0	0
+ATGGGACCTGCTGAAC-1	SeuratProject	6335	2356		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.49960536700868	5400	2334	1	1
+ATGTACGATGACGTCG-1	SeuratProject	1609	1001		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.8533250466128	3853	1116	1	1
+ATGTGAAAGCCTAATG-1	SeuratProject	6189	2394	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.76296655356277	5352	2352	1	1
+ATGTTGTAGTCTGTTT-1	SeuratProject	9077	3193	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.74319709155007	5687	2955	4	4
+ATTACGCGCTGGCAGG-1	SeuratProject	926	675	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.56371490280778	3501	1035	0	0
+ATTATTATGTCCGTCA-1	SeuratProject	30844	7218	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96693035922708	5433	2847	3	3
+ATTCACTGATGTTGGA-1	SeuratProject	30086	7131	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.34893305856545	5467	2899	3	3
+ATTCATATACTGTCCA-1	SeuratProject	14103	4530	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.53137630291427	5173	2528	2	2
+ATTCATCGTTGAGGCA-1	SeuratProject	8818	3354		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.68564300294851	5790	3163	2	2
+ATTGATCACCACATTT-1	SeuratProject	6129	2775	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.88790993636809	5466	2747	2	2
+ATTGCTGCTCCTCCAT-1	SeuratProject	491	347		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.94297352342159	3365	922	0	0
+ATTTCCGGGTTCTGCG-1	SeuratProject	3639	1809	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41824677109096	4269	1791	0	0
+ATTTGCGCGAGTAGCT-1	SeuratProject	2460	1406	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.2520325203252	4146	1417	1	1
+CAAAGATTATTGGGCC-1	SeuratProject	5362	2226		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.0585602387169	5069	2193	0	0
+CAAATCTCTCACAAGG-1	SeuratProject	1312	813	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.64939024390244	3774	1017	0	0
+CAAATGTCCTTCCGTG-1	SeuratProject	21659	5204	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.73327485110116	4777	1937	4	4
+CAACTGCTCATCCGAT-1	SeuratProject	34952	7311	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.63057907988098	5567	2718	3	3
+CAAGCGGCACATAATT-1	SeuratProject	12321	4246		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.28025322619917	5676	3002	3	3
+CAAGGATCGCATGTTC-1	SeuratProject	30850	7012	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.48784440842788	5444	2687	3	3
+CAATATTCTTGACCTA-1	SeuratProject	3811	1798	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.78142219889793	4348	1785	0	0
+CAATTTCGTATAAGGG-1	SeuratProject	11070	3952	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.49503161698284	5872	3255	0	0
+CACAATGAGCTGCTAT-1	SeuratProject	9665	3215	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.24883600620797	5743	2894	2	2
+CACAGGGCCGTTGTCA-1	SeuratProject	2514	1469	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.76213206046142	4061	1483	0	0
+CACATCGTGCACGCGC-1	SeuratProject	21032	6036	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.7358311144922	5196	2677	3	3
+CACATGATTCAGCAAC-1	SeuratProject	7898	3149	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.77437325905292	5661	3083	3	3
+CACCAATCATCCGTCT-1	SeuratProject	4572	2345	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.71216097987752	4623	2326	2	2
+CACCAGTCAGCATGCA-1	SeuratProject	1281	766	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.71350507416081	3658	966	1	1
+CACCCGGTTTGTGACT-1	SeuratProject	2163	1178	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.3166897827092	4323	1212	0	0
+CACCGCCAGAAGGTTT-1	SeuratProject	586	408		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.84982935153584	3312	921	0	0
+CACCGTTAGGGATCAC-1	SeuratProject	2695	1401	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.60111317254174	4090	1403	0	0
+CACCGTTGCGCGATAT-1	SeuratProject	2464	1367	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.93668831168831	4179	1381	0	0
+CACTAAAGTTGCCTAT-1	SeuratProject	1228	738	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.88599348534202	3743	954	0	0
+CACTCCTATGTAAGAT-1	SeuratProject	7075	3068	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.1660777385159	5668	3030	2	2
+CACTGACGATTGTGGA-1	SeuratProject	4050	1860		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.54320987654321	4429	1841	0	0
+CACTTAATCAGACGGA-1	SeuratProject	599	433		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.01001669449082	3305	947	0	0
+CAGAACTTAGCCCTCT-1	SeuratProject	4807	2206		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.11608071562305	4789	2185	0	0
+CAGACGAACCTGATAC-1	SeuratProject	5454	2321	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.28052805280528	5146	2307	0	0
+CAGAGACGGTCACCCA-1	SeuratProject	12935	4215		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.46617703904136	5338	2676	2	2
+CAGATCCTGGTTTGAA-1	SeuratProject	2831	1533	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.35817732250088	4053	1529	1	1
+CAGATGTTTGTCCCAA-1	SeuratProject	4991	2413	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.29312762973352	4935	2390	2	2
+CAGCAGTCTGTGCTGC-1	SeuratProject	14276	4751	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.15914822079014	5127	2618	2	2
+CAGCGATTCCCTTCAA-1	SeuratProject	11082	3693		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.41580942068219	5696	2925	3	3
+CAGCTCACTGAGACAT-1	SeuratProject	1197	752	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.09857978279031	3671	976	0	0
+CAGCTGGCGTAACCGT-1	SeuratProject	4392	1446	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.82331511839709	4653	1430	4	4
+CAGGCCGTTTGGGTGT-1	SeuratProject	3188	1679	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.67377666248432	4143	1668	0	0
+CAGGCGCACGGTGGTC-1	SeuratProject	2682	1172	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.4675615212528	4257	1179	1	1
+CAGTACCAGTTTACGT-1	SeuratProject	1904	997	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.35714285714286	4178	1062	1	1
+CAGTCTGTATACTGGG-1	SeuratProject	12722	3809	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.84200597390347	5340	2424	4	4
+CATAAGAAGCTTGGCT-1	SeuratProject	19705	5284	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.01446333417914	4720	2017	4	4
+CATACACGGTTCCCAC-1	SeuratProject	11375	4061	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.20879120879121	5809	3186	2	2
+CATACCCGTACCCAGT-1	SeuratProject	1407	917		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.61975835110163	3620	1070	1	1
+CATACGGCGTCTGGGC-1	SeuratProject	16558	5182	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.42336030921609	4815	2263	2	2
+CATACTATGTAATTGT-1	SeuratProject	3222	1720	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.1415270018622	4135	1707	0	0
+CATAGCGTTGCCCACC-1	SeuratProject	9893	3591	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.56959466289295	5902	3221	3	3
+CATAGTCCACAAGAAC-1	SeuratProject	31791	7012	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.34343053065333	5466	2739	2	2
+CATATAGGTACAGTCA-1	SeuratProject	12425	3361	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.55734406438632	5183	2111	4	4
+CATATGTCAGGCTACG-1	SeuratProject	4992	1592		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.12339743589744	4903	1578	4	4
+CATCGGACGGGTTAAT-1	SeuratProject	40604	6984	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.22391882573146	4602	1648	4	4
+CATGCCAACTCGCAAA-1	SeuratProject	1259	824	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.60683081810961	3580	1018	1	1
+CATGGTATTAGTTTGT-1	SeuratProject	1952	1150	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.63114754098361	4138	1219	0	0
+CATGTCTCATTTATGG-1	SeuratProject	5326	2398		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.57641757416448	5105	2381	0	0
+CATTTGAGTGGTACGT-1	SeuratProject	4843	1979	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.84947346685938	4827	1964	4	4
+CCAATGTCACAGCAAG-1	SeuratProject	1629	1006	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.62185389809699	3891	1113	0	0
+CCACACTGAGATATTA-1	SeuratProject	1142	772		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.55341506129597	3559	1009	0	0
+CCACATGGCTCTTTAT-1	SeuratProject	3279	1779	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.80085391887771	4121	1773	2	2
+CCACCAACTTTACTGT-1	SeuratProject	5044	2217	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.38144329896907	4948	2188	0	0
+CCACGGAGCCATAAGA-1	SeuratProject	3026	1600	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.63516192994052	4124	1597	0	0
+CCACTGGTGGCTGGTT-1	SeuratProject	2631	1356	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.99087799315849	4086	1356	1	1
+CCAGAAAGCAACTCAT-1	SeuratProject	4150	1984	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.71084337349398	4460	1966	0	0
+CCAGCTCGAACGCATT-1	SeuratProject	7383	2973	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.02045239062712	5646	2936	2	2
+CCAGCTGATGGTACTT-1	SeuratProject	3437	1788		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.07331975560081	4147	1769	1	1
+CCAGTCTTGTCATAGA-1	SeuratProject	3942	1940	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.7037037037037	4362	1920	0	0
+CCATAACCTGTGCAGT-1	SeuratProject	7153	3038	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.71788060953446	5680	2996	2	2
+CCATCGCAGTTAAACT-1	SeuratProject	9761	3238	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.53447392685176	5705	2871	4	4
+CCATGCCTGTTTAGTA-1	SeuratProject	9034	2692	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.62718618552136	5471	2436	4	4
+CCATTTCTACCTATTA-1	SeuratProject	9733	3628	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.52419603411076	5871	3276	0	0
+CCCAACATACGTCGCG-1	SeuratProject	5794	2613	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.32896099413186	5304	2591	0	0
+CCCAATGAGATTTGCA-1	SeuratProject	8668	3642	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.17997231195201	5845	3490	2	2
+CCCAATTTCACAACTT-1	SeuratProject	2839	1686	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.05072208524128	3971	1678	0	0
+CCCAGTAAACTTGGGA-1	SeuratProject	3020	1599	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.83443708609272	4053	1588	1	1
+CCCGGGTCGTTCAGGG-1	SeuratProject	9178	3347	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.51449117454783	5740	3095	2	2
+CCCGGTGTATCGGAAT-1	SeuratProject	1805	1099		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.86703601108033	3966	1179	1	1
+CCCGTAAGTCTAGGCC-1	SeuratProject	894	644	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.26398210290828	3545	1029	0	0
+CCCTATGTAGAGCAGA-1	SeuratProject	1410	881		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.74468085106383	3662	1032	1	1
+CCCTGCCCAATCCGCT-1	SeuratProject	1142	726	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.16637478108581	3593	967	1	1
+CCCTTTGACAGGTCTT-1	SeuratProject	9159	3457	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.27153619390763	5789	3186	3	3
+CCGAACACTGGGCCTC-1	SeuratProject	1865	1153	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.66756032171582	3795	1218	1	1
+CCGACGGGCATGAGGT-1	SeuratProject	13162	4520	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.39325330496885	5705	2934	1	1
+CCGATTCGAGGGACCC-1	SeuratProject	2332	1279	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.54545454545455	4204	1301	1	1
+CCGCATGTGGTACGAT-1	SeuratProject	9016	3525		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.06521739130435	5820	3315	0	0
+CCGCCGGAACTTCTCG-1	SeuratProject	2079	1193	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.19480519480519	4231	1233	1	1
+CCGCGGAATGCGTCAC-1	SeuratProject	4650	1979	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.11827956989247	4704	1966	0	0
+CCGCTATCAGCACCAG-1	SeuratProject	15572	4791	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.11533521705626	4850	2187	3	3
+CCGCTTACCTCACTCT-1	SeuratProject	13879	4716		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.18466748324807	5257	2700	3	3
+CCGGAGCGTACTTTCT-1	SeuratProject	15423	3833		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.57556895545614	4533	1519	4	4
+CCGGGTTCGAGGTTAC-1	SeuratProject	1711	1092	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.50672121566335	3919	1183	0	0
+CCGGTTTGTAATTGTG-1	SeuratProject	37909	7481	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.14125933155715	5635	2651	3	3
+CCGTATCTCGTCGTAG-1	SeuratProject	2287	1273	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.32881504153913	4371	1297	1	1
+CCGTGTTAAATTCCAT-1	SeuratProject	21363	6143	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.23751345784768	5230	2694	3	3
+CCGTTCCGAATCTCGG-1	SeuratProject	9527	2846	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.85787761100032	5590	2535	4	4
+CCTAAATTAACGGTTC-1	SeuratProject	7572	2961	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.87110406761754	5641	2910	3	3
+CCTACATTCACAGACG-1	SeuratProject	3402	1643	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.61493239271017	4234	1629	0	0
+CCTAGGTAAAGGTAGC-1	SeuratProject	1939	1087		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.60134089736978	4108	1145	1	1
+CCTATATTTGTCCTGG-1	SeuratProject	12959	4378	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.74573655374643	5468	2818	2	2
+CCTATGGTCAAAGCTG-1	SeuratProject	5222	2372		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.94484871696668	5045	2348	0	0
+CCTCGCGCTGTGCGAT-1	SeuratProject	3813	1945	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.45502229215841	4310	1932	0	0
+CCTCTATCGATTAGCA-1	SeuratProject	2551	1324		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.60642885143081	4168	1335	1	1
+CCTCTGTACTATTCTA-1	SeuratProject	4146	1774		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.98166907863	4484	1754	0	0
+CCTGACCACCGATGGT-1	SeuratProject	23759	6170	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.5127320173408	5179	2510	2	2
+CCTGGTCGAATGTGGG-1	SeuratProject	15412	4379	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.33662081494939	4644	1839	4	4
+CCTGTAAGACATGATA-1	SeuratProject	1365	861	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88278388278388	3676	1044	0	0
+CCTGTACTCACGCCCA-1	SeuratProject	1975	1011	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.20253164556962	4299	1079	0	0
+CCTGTCGCCCGTAAAT-1	SeuratProject	17453	5306	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.90190798143586	4882	2324	2	2
+CCTTCAGTTAAAGTGA-1	SeuratProject	10992	4125	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.72852983988355	5990	3438	2	2
+CCTTCTCAGCGTTCCT-1	SeuratProject	1002	664	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.58083832335329	3446	976	1	1
+CCTTTAAGGGAGCACT-1	SeuratProject	32384	7146	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.91032608695652	5575	2784	3	3
+CGAAACGCAATTCATG-1	SeuratProject	4072	1995	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.16110019646365	4409	1972	0	0
+CGAACCCGCATGCGTC-1	SeuratProject	9455	2758	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.66049709148599	5515	2430	4	4
+CGAACGGCCGGACAAC-1	SeuratProject	1619	890	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.51204447189623	3930	1021	1	1
+CGAATGACGCATAATG-1	SeuratProject	5129	2460	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.20315851043088	5016	2441	2	2
+CGACAGTTCGCGTTAT-1	SeuratProject	937	637		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.33617929562433	3516	970	0	0
+CGAGGGTATCCAGGTG-1	SeuratProject	1504	936	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.8563829787234	3794	1065	0	0
+CGAGTACTAAAGAGGA-1	SeuratProject	19775	5751	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.99241466498104	5128	2542	2	2
+CGAGTGAAGGTACCAG-1	SeuratProject	1776	1043	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88513513513514	4019	1120	1	1
+CGATACCTCGCGGACA-1	SeuratProject	2045	1244		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.25427872860636	4218	1299	0	0
+CGATCCGACCCAGTGC-1	SeuratProject	1734	1063	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.55594002306805	4000	1159	0	0
+CGATCTGTTGGAGGAC-1	SeuratProject	3875	1501	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.43225806451613	4466	1485	1	1
+CGATGTTGTTATCTAC-1	SeuratProject	5026	2634	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.88857938718663	4948	2596	0	0
+CGATTAAATATCTCCT-1	SeuratProject	5750	2520		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.6	5280	2495	0	0
+CGATTCGCCTGGCTGC-1	SeuratProject	11622	4167	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.610910342453967	5729	3155	4	4
+CGCATGGTGCGATGCT-1	SeuratProject	12636	4257	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.64988920544476	5523	2860	3	3
+CGCCCAGCACGCCTAG-1	SeuratProject	13199	4350	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.08356693688916	5374	2715	2	2
+CGCCTGGCCTACGTAA-1	SeuratProject	912	663	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.49561403508772	3486	1025	0	0
+CGCGAGTCTGCCGGGT-1	SeuratProject	7283	3189	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.36166414938899	5771	3135	1	1
+CGCGCAAATGTCCAGA-1	SeuratProject	3169	1763	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.40801514673399	4081	1746	1	1
+CGCGCATGTTTGATTG-1	SeuratProject	9503	3584	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.41870988109018	5873	3291	3	3
+CGCGGGAATTAGGCAG-1	SeuratProject	551	396		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.98548094373866	3260	916	0	0
+CGCTACGGGACATTTA-1	SeuratProject	1380	891	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.05797101449275	3716	1051	0	0
+CGCTATTCTTAGGCTC-1	SeuratProject	23436	5585	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.26301416623997	4839	1995	4	4
+CGCTGTGACGCCGCAC-1	SeuratProject	2613	1408		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.08993494068121	3994	1423	1	1
+CGCTGTGTGGATGTTG-1	SeuratProject	16619	5074	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.26018412660208	4874	2243	2	2
+CGCTTAGTATTGATAC-1	SeuratProject	3822	1837		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.66875981161695	4344	1816	0	0
+CGCTTATTCCCGGTCG-1	SeuratProject	2379	1334		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.23665405632619	4280	1356	0	0
+CGGAACGTAAACATAG-1	SeuratProject	18771	4528	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.02972670608918	4530	1599	4	4
+CGGAGCAATTTAATCG-1	SeuratProject	4962	2142		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.87706569931479	4904	2124	0	0
+CGGATCCTCAAGGACT-1	SeuratProject	5064	2355		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.46445497630332	4969	2325	2	2
+CGGCAAACATCGTGCG-1	SeuratProject	10243	3750	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.8911451723128	5905	3303	0	0
+CGGCCACGCACAAAGT-1	SeuratProject	8734	3204	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.16762079230593	5692	3036	0	0
+CGGGAATTTATGTAAA-1	SeuratProject	22922	5520	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.17843120146584	4888	2061	3	3
+CGGGCAGCTAAACCGC-1	SeuratProject	2168	1133		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.68819188191882	4394	1174	0	0
+CGGGCCTTCTTTGTAA-1	SeuratProject	28421	4579	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.34759508813905	4369	982	4	4
+CGGTCCGTCGCAAGCC-1	SeuratProject	10377	3919	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96289871831936	5950	3432	2	2
+CGGTGCAGATAGAACG-1	SeuratProject	4339	1899	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.27264346623646	4581	1893	0	0
+CGGTTGACCTGGCATA-1	SeuratProject	861	594	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.8780487804878	3570	979	0	0
+CGTCACGTCCATTGGT-1	SeuratProject	29114	5407	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.947997526962973	4604	1451	4	4
+CGTCGGGTCTAAGCGC-1	SeuratProject	3150	1728	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.82539682539683	4113	1725	1	1
+CGTGACCAGTCCTCTG-1	SeuratProject	2641	1490	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.93790230973116	4063	1487	0	0
+CGTGCATTGTCGACGC-1	SeuratProject	962	662	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.3014553014553	3556	993	0	0
+CGTGCTTCTACCTAAA-1	SeuratProject	2159	1239	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.79805465493284	4250	1264	1	1
+CGTGTCTCGTTACGAC-1	SeuratProject	4272	2067	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41104868913858	4506	2053	0	0
+CGTTCAGACCCGCGAA-1	SeuratProject	1420	958	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.08450704225352	3701	1111	0	0
+CGTTCATGGTGCGCGT-1	SeuratProject	1955	987	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.98976982097187	4250	1037	1	1
+CGTTGCCCGCGTGGGA-1	SeuratProject	8795	3347	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.9107447413303	5718	3149	0	0
+CGTTGTCGGCAATTGA-1	SeuratProject	8321	3160	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.57180627328446	5628	3022	0	0
+CGTTTCGCTCATTACA-1	SeuratProject	1263	729	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.1464766429137	3736	918	0	0
+CGTTTGTGTAGAGGGT-1	SeuratProject	17324	4064	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.85292080350958	4482	1455	4	4
+CTAAATCCGGTGTACA-1	SeuratProject	19402	5757	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.03071848263066	5100	2558	2	2
+CTAACCGCGCGCCCGT-1	SeuratProject	2750	1456		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.70909090909091	4068	1446	0	0
+CTAACTGGTCCGGTTC-1	SeuratProject	34156	7054	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.78814849513995	5542	2545	3	3
+CTACGACTAGCTATAA-1	SeuratProject	543	387	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.76058931860037	3351	938	0	0
+CTACGCACGGAGTACC-1	SeuratProject	6788	2990	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.83028874484384	5634	2952	1	1
+CTACTATCATAGGTTT-1	SeuratProject	4706	2095	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.05992350191245	4720	2074	1	1
+CTACTCAAGGTATAGT-1	SeuratProject	11118	4243	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.52995143011333	5985	3513	3	3
+CTACTGCCACCTGACC-1	SeuratProject	645	469		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.35658914728682	3281	936	0	0
+CTAGATTTACGACGGC-1	SeuratProject	1739	1058		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.76308223116734	3925	1143	0	0
+CTAGGTTCGGACGTGA-1	SeuratProject	16333	4805	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.90001836772179	4572	1866	4	4
+CTAGTTACAACCCGGT-1	SeuratProject	5884	2635	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.61114887831407	5350	2615	0	0
+CTATAGGCGTTGATGT-1	SeuratProject	20960	6062	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.20324427480916	5220	2656	3	3
+CTATGCCCGAATGCAA-1	SeuratProject	2210	1240	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.02714932126697	4411	1275	0	0
+CTATGTGAGTCACGGC-1	SeuratProject	1638	1049	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.33455433455433	3754	1146	1	1
+CTATTCATGTGTCCCA-1	SeuratProject	4762	2138	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.94288114237715	4759	2116	0	0
+CTCAAACCACTGCCCG-1	SeuratProject	2237	1329		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.42556995976755	4350	1353	0	0
+CTCACATTTACTAAAT-1	SeuratProject	14569	5162	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.89347244148535	5122	2710	3	3
+CTCACTGTGATACTTA-1	SeuratProject	18388	5917	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.96649989123341	5002	2643	3	3
+CTCACTTGGCTGGTAA-1	SeuratProject	1050	718	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.23809523809524	3523	1004	0	0
+CTCATGGTAATTTGCG-1	SeuratProject	3206	1510	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.08796007485964	4226	1504	1	1
+CTCCCTCCTTTCGATC-1	SeuratProject	2014	1097	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.71698113207547	4258	1151	1	1
+CTCCGCCCACATGAGG-1	SeuratProject	4643	2022	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.10144303252208	4689	2000	4	4
+CTCCTCCAGCTCACAC-1	SeuratProject	11398	4021	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.06194069134936	5799	3212	2	2
+CTCGCCGAATGTAGGG-1	SeuratProject	2501	1414	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.55897640943623	4188	1425	0	0
+CTCGGGTTCTCTGGCC-1	SeuratProject	3093	1748	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.4917555771096	4039	1733	1	1
+CTCGGTTGTCGGCCCT-1	SeuratProject	2473	1386		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.44803881924788	4083	1397	1	1
+CTCGTCGAGGGCTCAT-1	SeuratProject	3741	1985	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.36193531141406	4245	1965	2	2
+CTCTACACTGGCGATT-1	SeuratProject	707	501	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.93069306930693	3278	949	1	1
+CTCTATTTGGCTGCAG-1	SeuratProject	35529	7422	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.99828309268485	5465	2613	3	3
+CTCTCTAACTGCCTAG-1	SeuratProject	2491	1479		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.97430750702529	4032	1493	1	1
+CTCTGGACGCCTGGTG-1	SeuratProject	1204	772	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.39202657807309	3622	988	0	0
+CTCTTCTGGAAGTTAG-1	SeuratProject	7249	3158	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.69761346392606	5724	3118	3	3
+CTGAATCCGAGACCTC-1	SeuratProject	18573	3238		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.909923006514833	4355	837	4	4
+CTGCACTCCAGTACAG-1	SeuratProject	10215	3764	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.54772393538913	5893	3298	0	0
+CTGCCATGCATCACAT-1	SeuratProject	17464	5366	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.33715071003207	4785	2221	3	3
+CTGGACGCAGTCCGGC-1	SeuratProject	1495	863	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.82608695652174	3833	1006	1	1
+CTGGATTTACACTTGA-1	SeuratProject	5406	2330	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.60266370699223	5122	2308	3	3
+CTGGCATCCGAATGAG-1	SeuratProject	3078	1515	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.7037037037037	4205	1512	1	1
+CTGGGCCTGCTATATC-1	SeuratProject	10471	3782	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.22519339127113	5910	3236	2	2
+CTGGGTTGAGTTAAAG-1	SeuratProject	2896	1628	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.17817679558011	3997	1622	1	1
+CTGTACTTCTTAGCAT-1	SeuratProject	1902	1124	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.83701366982124	4156	1193	0	0
+CTGTAGCCATCTCACT-1	SeuratProject	22877	6396	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.68592909909516	5359	2855	3	3
+CTGTGCAGGGTAGGTC-1	SeuratProject	4415	1933	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.36126840317101	4590	1913	3	3
+CTGTTACCCAATCTAG-1	SeuratProject	3085	1582	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.48784440842788	4129	1573	0	0
+CTTAAGCAGCGAGCCG-1	SeuratProject	3924	1928		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.15494393476045	4332	1912	2	2
+CTTCAACTCCACTTGG-1	SeuratProject	8688	3441		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.57090239410681	5798	3261	2	2
+CTTCAGTGGTCGCCTA-1	SeuratProject	4629	2229		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.2648520198747	4654	2201	1	1
+CTTCATTGTCAGTGGA-1	SeuratProject	22286	4971	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.80831014986987	4809	1776	4	4
+CTTCCGCTCCGTGAAG-1	SeuratProject	17835	5586	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.29885057471264	4983	2517	3	3
+CTTCGTAGATAGGTGA-1	SeuratProject	1916	1119	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.21920668058455	4120	1188	0	0
+CTTCTATGTTGAAGTA-1	SeuratProject	3404	1727	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.73090481786134	4217	1717	0	0
+CTTCTATTAATGCTAG-1	SeuratProject	12968	4046	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.27945712523134	5374	2548	3	3
+CTTGCAACCGCCTCCT-1	SeuratProject	1125	722	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.4	3619	983	0	0
+CTTGCCCAGGCTCTAC-1	SeuratProject	13319	3870	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.81267362414596	5178	2261	4	4
+CTTGGCCAAGCTGGGA-1	SeuratProject	4033	1923	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.38879246218696	4407	1911	0	0
+CTTGTCAACATTCGAG-1	SeuratProject	17416	5030	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41157556270096	4815	2049	2	2
+CTTTAATATTGGTCGA-1	SeuratProject	6238	2661		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.87111253606925	5462	2636	3	3
+CTTTAGTGCTATTATT-1	SeuratProject	13158	4199	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.93114455084359	5326	2526	3	3
+CTTTCTGTGCGGGCTT-1	SeuratProject	3424	1843		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.33761682242991	4170	1822	0	0
+CTTTGGGATTGTTGCA-1	SeuratProject	12163	4426	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.18054756227904	5780	3240	3	3
+GAAACATAGGAAACAG-1	SeuratProject	1384	871	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.38150289017341	3699	1017	1	1
+GAAACCTATACAAATG-1	SeuratProject	16097	4453	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.6586941666149	4552	1764	4	4
+GAAACTCGTGCGATGC-1	SeuratProject	2125	1202		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.67058823529412	4092	1239	1	1
+GAAAGCAGTGCACTTT-1	SeuratProject	38399	7236	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.71624261048465	4932	2143	3	3
+GAAATTGTCTCTATAA-1	SeuratProject	14071	3868	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.20012792267785	4926	1975	4	4
+GAACAGATTACTAAAT-1	SeuratProject	21992	5894	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.20116405965806	4995	2415	4	4
+GAACCCTCTGTGTTCT-1	SeuratProject	12410	4715	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.71474617244158	5775	3424	2	2
+GAACTGTGGAGAGACA-1	SeuratProject	3789	1746		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.79757191871206	4348	1725	1	1
+GAAGAAACGATATTGT-1	SeuratProject	1924	1160	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.53430353430353	4052	1231	1	1
+GAAGCCACTGATTATG-1	SeuratProject	9562	3247	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.60008366450533	5695	2915	4	4
+GAAGCCTGCACATTCC-1	SeuratProject	3554	1808	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.27687113111987	4244	1787	0	0
+GAAGCGTGAGGAATTT-1	SeuratProject	6310	2468	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.65927099841521	5411	2452	0	0
+GAAGCTCGGACCCGTC-1	SeuratProject	6043	2675	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.63114347178554	5404	2645	1	1
+GAAGGAGTCGAGTGCG-1	SeuratProject	1525	942		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.01639344262295	3835	1063	0	0
+GAAGTCAGTTGCACTA-1	SeuratProject	29392	7073	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.64044637996734	5516	2875	3	3
+GAAGTGATTTATCGTG-1	SeuratProject	1699	993	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.70924072984108	3984	1078	0	0
+GAAGTTTCCACTCAAT-1	SeuratProject	7075	3100	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.90812720848057	5681	3045	2	2
+GAATAGTGCTCGATTA-1	SeuratProject	14597	4677	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.48660683702131	4888	2262	2	2
+GAATCTGAACATTCTC-1	SeuratProject	15293	4450		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.51186817498202	4657	1904	4	4
+GAATGCGAATCGGTTC-1	SeuratProject	24757	6695	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.92733368340267	5345	2918	3	3
+GAATTCACCCGGGTGT-1	SeuratProject	4316	1668	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.10101946246525	4595	1659	4	4
+GACACTGAGTTCAGTG-1	SeuratProject	29088	6896	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.10519801980198	5337	2635	3	3
+GACAGGCACACACTAT-1	SeuratProject	859	570	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.58789289871944	3541	948	1	1
+GACATCCGTCGAACTG-1	SeuratProject	29024	6603	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.95011025358324	5173	2489	2	2
+GACCCAATTATGATAC-1	SeuratProject	5372	2425	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.91437081161579	5109	2395	1	1
+GACCGTGCTGACGGTG-1	SeuratProject	3474	1695	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.10880829015544	4249	1685	0	0
+GACCTTCCACGTCTAC-1	SeuratProject	24833	6607	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.49397978496356	5499	2921	2	2
+GACGACGATCCGCGTT-1	SeuratProject	13905	4424	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.12801150665228	5191	2456	0	0
+GACGCCGTAAAGGCTA-1	SeuratProject	20449	5730	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.1982004009976	5082	2476	2	2
+GACGCTTGCTTCTAAA-1	SeuratProject	6709	2964	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.03935012669548	5603	2923	0	0
+GACGGGTTGGCCCGTA-1	SeuratProject	10559	3782	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.09300123117719	5889	3213	2	2
+GACTACAAAGCGGTGG-1	SeuratProject	2234	1091	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.31244404655327	4481	1129	1	1
+GACTAGGCCGTTAGGT-1	SeuratProject	3897	2007		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.133692584039	4317	1993	0	0
+GACTCCTTCCAATTGA-1	SeuratProject	3525	1976	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.08510638297872	4139	1956	0	0
+GACTGCAAATCGAGCT-1	SeuratProject	15501	4670	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.92232759176827	4744	2085	4	4
+GAGAGGGCGCGAGGTT-1	SeuratProject	3286	1677	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.23432744978698	4182	1670	0	0
+GAGAGGTGCATTCTGG-1	SeuratProject	4043	1903		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.0563937670047	4420	1888	0	0
+GAGATGGGAGTCGACA-1	SeuratProject	8460	3366		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.3451536643026	5740	3226	3	3
+GAGCGCTGTTAGGTAA-1	SeuratProject	1176	746	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.86734693877551	3609	968	1	1
+GAGGCCCGACTCCGCA-1	SeuratProject	9826	4037		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.33055159780175	6099	3650	1	1
+GAGGGAGTCAGATCGC-1	SeuratProject	1290	877		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96124031007752	3592	1056	0	0
+GAGGGTAGTAACAAAG-1	SeuratProject	5759	2552		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.97638478902587	5294	2532	1	1
+GAGGTACGCGTGTCCC-1	SeuratProject	2440	1472	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.70491803278689	4121	1486	1	1
+GAGTAAGGCCACGGGA-1	SeuratProject	1528	853		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.90052356020942	3906	983	1	1
+GAGTAGATACTAGTTG-1	SeuratProject	7280	2782		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.39010989010989	5561	2733	4	4
+GAGTATGCCCGCCTTG-1	SeuratProject	3497	1676	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88904775521876	4260	1671	0	0
+GAGTATGCGCGTGCAT-1	SeuratProject	17709	5534	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.00259754926873	4907	2405	3	3
+GAGTCAGACCAGAATC-1	SeuratProject	16111	5230	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.79796412389051	4905	2443	3	3
+GAGTCCGCTTACCGGA-1	SeuratProject	5989	2654		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.82367674069127	5407	2641	0	0
+GAGTTGATGGCAATTT-1	SeuratProject	4283	1978	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.06654214335746	4501	1958	1	1
+GATACGATGGGAGTCA-1	SeuratProject	17169	4987		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.10041353602423	4748	2057	3	3
+GATAGGTAACGTTGAC-1	SeuratProject	3889	1912		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.70275134996143	4345	1897	0	0
+GATATCAAGCAGGAGC-1	SeuratProject	3162	1775	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.76786843769766	4093	1764	1	1
+GATCAACATAAAGGGA-1	SeuratProject	16453	5566	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.52197167689783	4788	2482	3	3
+GATCCCTTTATACTGC-1	SeuratProject	988	643		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.47773279352227	3517	939	0	0
+GATCCTCGACACTGGC-1	SeuratProject	4199	2158	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.7625625148845	4441	2134	0	0
+GATCGCGGGCTCTCCA-1	SeuratProject	2282	1185	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.69675723049956	4442	1204	0	0
+GATCGCTATATCTCAG-1	SeuratProject	1581	987	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.3010752688172	3793	1096	1	1
+GATCTAACCGTATTCA-1	SeuratProject	7974	3655	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.20391271632807	5830	3592	2	2
+GATCTGCTATCTAAGG-1	SeuratProject	3456	1657	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.02199074074074	4264	1648	0	0
+GATCTTTGCAGGGTAT-1	SeuratProject	871	585		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.61079219288175	3550	943	0	0
+GATGACAAGTAGGGCA-1	SeuratProject	2921	1542	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.28654570352619	4105	1535	0	0
+GATGCCTTCTGCGGCA-1	SeuratProject	10850	4801	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.23041474654378	6229	4142	2	2
+GATGCGTCCTGCATTC-1	SeuratProject	9457	3225	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.18737443163794	5687	2921	0	0
+GATGTAACGAACCACC-1	SeuratProject	3701	1848	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.18778708457174	4256	1825	1	1
+GATGTTCAATCCACGA-1	SeuratProject	1284	833	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.9190031152648	3662	1035	0	0
+GATTACTGAATTTGGG-1	SeuratProject	2652	1481		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.44947209653092	4067	1478	0	0
+GATTCGACGGTTCACG-1	SeuratProject	6239	2677	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.23849975957685	5474	2654	3	3
+GCAACACACTAGAACT-1	SeuratProject	2015	1158	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.59305210918114	4128	1200	1	1
+GCAACCACGGCCGCGT-1	SeuratProject	3786	1828		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.38087691494982	4342	1816	0	0
+GCAAGAATTCCTTGGC-1	SeuratProject	3883	2103	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.927118207571465	4292	2092	2	2
+GCAAGCTGGAAACCGC-1	SeuratProject	3842	1966	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.64133263925039	4293	1956	2	2
+GCACGCCTACTTAGAT-1	SeuratProject	8561	3151	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.44130358602967	5678	3013	0	0
+GCACTGCCTACCTTTA-1	SeuratProject	5036	2319	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.84670373312153	4962	2301	0	0
+GCAGATCCATAAGACT-1	SeuratProject	7987	3149		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.00050081382246	5662	3075	0	0
+GCAGATTAGGGATATC-1	SeuratProject	25433	6121	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.17827232335941	4999	2340	2	2
+GCAGCACACAGCCCAG-1	SeuratProject	5885	2595	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.56839422259983	5348	2555	2	2
+GCAGGAACTTAGATCT-1	SeuratProject	1768	1102	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.67420814479638	3893	1184	1	1
+GCATAGAGCACTCAGG-1	SeuratProject	26186	6212	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.52478423585122	5227	2508	2	2
+GCATTGACTTGCGGAA-1	SeuratProject	2052	1224	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.52826510721247	4130	1279	1	1
+GCATTGTAATTCATAT-1	SeuratProject	3604	1824	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.77358490566038	4216	1811	0	0
+GCCACAATTTAAGGAC-1	SeuratProject	9285	3182		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.48788368336026	5676	2926	4	4
+GCCATTAGCCTCAAAC-1	SeuratProject	2112	1204	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.54545454545455	4316	1262	0	0
+GCCCGACTTCTTCCCG-1	SeuratProject	3206	1448	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.86774797255147	4282	1438	0	0
+GCCCGATCTGTGGTCG-1	SeuratProject	5033	2211	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.35803695608981	4952	2189	0	0
+GCCCGCGCGTAAACGG-1	SeuratProject	8990	3084		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.21357063403782	5647	2844	4	4
+GCCCTAGCCGTCGCGA-1	SeuratProject	2180	1310	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.05504587155963	4249	1334	1	1
+GCCGAAATTCCTACGT-1	SeuratProject	1132	763		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.50530035335689	3559	1030	0	0
+GCCGACCCACGACTGC-1	SeuratProject	3939	1998	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.07184564610307	4341	1978	1	1
+GCCGCTTGTGAGAAAC-1	SeuratProject	715	486		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.99300699300699	3410	936	0	0
+GCGAAGCCATACCCGT-1	SeuratProject	652	432	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.82208588957055	3497	940	0	0
+GCGACCCAACCATCTG-1	SeuratProject	4870	2302		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.1006160164271	4843	2280	1	1
+GCGACGATAGTTGTAC-1	SeuratProject	3737	1666	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.52930157880653	4369	1654	0	0
+GCGAGGCCCGAGCAGA-1	SeuratProject	11181	4219	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.28789911456936	6031	3435	1	1
+GCGAGTTCTGCAAAGA-1	SeuratProject	19812	5304	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.05370482535837	4884	2127	2	2
+GCGCAAATATATTCAA-1	SeuratProject	2245	1263	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.62806236080178	4301	1292	1	1
+GCGCCGTTCCACGATA-1	SeuratProject	12307	4148	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.93044608759243	5625	2919	3	3
+GCGCTATGCCGAGGCA-1	SeuratProject	12348	4188		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.31648850016197	5658	2961	3	3
+GCGGACCGCGTTGTGG-1	SeuratProject	1907	1066	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.30361824855794	4160	1125	0	0
+GCGGAGAAACTTCGCA-1	SeuratProject	3610	1740		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.24376731301939	4279	1727	0	0
+GCGGCAAAGTATTGCC-1	SeuratProject	2434	1419	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.01232539030403	4079	1438	1	1
+GCGGCTCTGACGTACC-1	SeuratProject	7287	3224	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.66405928365583	5749	3169	1	1
+GCGGGCGAGCCTTACC-1	SeuratProject	10567	3891	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.29961199962146	5904	3318	3	3
+GCGTCCCTAAGACATA-1	SeuratProject	2464	1411	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.53084415584416	4180	1429	0	0
+GCGTCGCCAGGGTGAT-1	SeuratProject	4189	1999	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.58605872523275	4466	1976	0	0
+GCGTCTCTGCATTGGG-1	SeuratProject	3952	1872	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.21255060728745	4356	1857	2	2
+GCTAGCTTGAATAGCT-1	SeuratProject	5990	2286	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.67278797996661	5308	2268	4	4
+GCTAGGCACCACGGAG-1	SeuratProject	2214	1296		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.48509485094851	4355	1328	0	0
+GCTAGTAGAGCTTGTA-1	SeuratProject	10018	3628	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.57456578159313	5884	3239	3	3
+GCTCAATCCGTTTATT-1	SeuratProject	2488	1372		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.2604501607717	4158	1388	0	0
+GCTCAATGTAATACCG-1	SeuratProject	2018	1190	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.20317145688801	4223	1233	0	0
+GCTCCTGACATACTGG-1	SeuratProject	4796	1824	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.95996663886572	4787	1799	4	4
+GCTCTCGGGTACCGAA-1	SeuratProject	390	290		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.97435897435897	3229	952	0	0
+GCTCTTTCCGCTAGTG-1	SeuratProject	2910	1618	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.64948453608247	4066	1609	2	2
+GCTGAATCTTCCAATC-1	SeuratProject	2407	1301		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.77482343165766	4108	1315	1	1
+GCTGAGGCGTGAGTAT-1	SeuratProject	12817	4319	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.75282827494734	5394	2775	0	0
+GCTGCACGGTTTCTTA-1	SeuratProject	2726	1469		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.91415994130594	4074	1470	0	0
+GCTGCTAAGTAGTCGA-1	SeuratProject	15876	4682		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.27538422776518	4681	1993	3	3
+GCTGCTCTCCGGACAC-1	SeuratProject	710	484	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.01408450704225	3417	950	0	0
+GCTGGCGGCGCATGCT-1	SeuratProject	4937	2298	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.97528863682398	4893	2272	0	0
+GCTGTATTACTGGCCC-1	SeuratProject	14396	4861		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.20172270075021	5139	2644	3	3
+GGAACCGTGTAAATTG-1	SeuratProject	13041	3192		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.23142397055441	5006	1781	4	4
+GGAACCTTGACTCTGC-1	SeuratProject	1121	743	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.06601248884924	3538	993	1	1
+GGACCAACAGGATAAC-1	SeuratProject	19501	5531	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.2203989538998	5068	2391	2	2
+GGACCTCTAGGCCGCC-1	SeuratProject	2322	1301	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.7037037037037	4298	1318	1	1
+GGACTCGTGAGTGGTC-1	SeuratProject	4268	2236	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.97563261480787	4473	2223	0	0
+GGAGACCATCTACATA-1	SeuratProject	2182	1113	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.70760769935839	4281	1140	1	1
+GGAGACGACACCTTTG-1	SeuratProject	12420	4110		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.74718196457327	5531	2800	3	3
+GGAGCGAGGCCTACTT-1	SeuratProject	3466	1742		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.01961915753029	4222	1733	0	0
+GGATCTTGACTCAACC-1	SeuratProject	4596	1912	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.00261096605744	4684	1896	1	1
+GGATGACGCGAGTTTA-1	SeuratProject	13655	4514	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.06920541926034	5417	2655	2	2
+GGATGCTGGCGTTCCT-1	SeuratProject	1760	978	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.29545454545455	3958	1044	1	1
+GGCAAAGGCGCCAATA-1	SeuratProject	1925	1121		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.68831168831169	4181	1184	0	0
+GGCAAATTACTTTACT-1	SeuratProject	5768	2049		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.10332871012483	5186	2037	4	4
+GGCAAGCCCATAGTGG-1	SeuratProject	2428	1401		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.69522240527183	4172	1415	0	0
+GGCCCTCACCCACTTA-1	SeuratProject	10308	3764		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.23050058207218	6067	3299	1	1
+GGCCGAGACTCTGGTG-1	SeuratProject	4893	2230	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.59554465563049	4869	2212	0	0
+GGCCGTTTGGGTTTCA-1	SeuratProject	15975	4842		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.02816901408451	4890	2199	2	2
+GGCGAGCGAAACGGCA-1	SeuratProject	7749	3158		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.16827977803588	5698	3109	1	1
+GGCGCAGGACATCTTC-1	SeuratProject	595	443		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.04201680672269	3341	940	0	0
+GGCGCATGAATTGATG-1	SeuratProject	14817	3248	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.74009583586421	4569	1293	4	4
+GGCGCGTTCGAGTTTA-1	SeuratProject	6336	2785		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.58270202020202	5495	2754	0	0
+GGCGCTTCATTCCCTG-1	SeuratProject	10583	4011	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.6079561560994	5981	3480	2	2
+GGCTACTATACACTCC-1	SeuratProject	12150	3945	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.69547325102881	5446	2734	4	4
+GGCTCCTCCACCTGTT-1	SeuratProject	13906	4445	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.94879907953401	5105	2438	2	2
+GGCTTTCAATAAGGGT-1	SeuratProject	3839	1999		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.02162021359729	4289	1974	1	1
+GGGAACGGGAGGTTAG-1	SeuratProject	2334	1344		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.4987146529563	4294	1358	0	0
+GGGACAGAGTTACTCC-1	SeuratProject	3747	1812	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.77715505737924	4312	1800	1	1
+GGGACCCGTATATCTT-1	SeuratProject	14381	4665	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.40859467352757	5172	2488	3	3
+GGGACTGCATAGATAG-1	SeuratProject	1093	697	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.85544373284538	3656	964	0	0
+GGGAGAACTCACAGTA-1	SeuratProject	1489	910	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.93955674949631	3786	1041	0	0
+GGGAGGATGCCCGAAA-1	SeuratProject	2475	1359	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96969696969697	4174	1373	0	0
+GGGATGGTCGTAACCG-1	SeuratProject	9785	3257	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.87327542156362	5735	2907	4	4
+GGGCAACCGCACGTGC-1	SeuratProject	6847	2980	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.37374032422959	5645	2934	1	1
+GGGCAGAGCAATCGTT-1	SeuratProject	3932	1905	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.08646998982706	4370	1888	0	0
+GGGCCCGTCTTAAACA-1	SeuratProject	9167	2902		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.99258208792408	5545	2600	4	4
+GGGCGGCAAATGAATT-1	SeuratProject	5969	2109	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.02714022449321	5237	2094	4	4
+GGGCGGGTTCCCTACG-1	SeuratProject	5127	2105	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.89194460698264	4997	2094	4	4
+GGGCGTCACCACGTAA-1	SeuratProject	16106	3966	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.937538805414131	4482	1465	4	4
+GGGCTACTATTTCGTG-1	SeuratProject	2053	1212	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.11154408183147	4113	1251	1	1
+GGGTACTTCATGAACT-1	SeuratProject	4731	2193	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.91693088142042	4738	2180	2	2
+GGGTATTCTAGCAAAC-1	SeuratProject	1765	1034	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.28895184135977	3974	1130	1	1
+GGGTCACCGTGACGGT-1	SeuratProject	1514	882		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.07661822985469	3828	1013	0	0
+GGGTCAGGAGCTAGAT-1	SeuratProject	8283	3409	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.61777133888688	5720	3290	2	2
+GGGTGACACCTTAACT-1	SeuratProject	7594	2124	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.43613378983408	5397	2060	4	4
+GGGTTAACATTTGAGT-1	SeuratProject	25618	6389	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.08946834257163	5409	2672	3	3
+GGTAACCGGGAGGATA-1	SeuratProject	2671	1442	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.59415949082741	4073	1432	1	1
+GGTACAAACATGCTAT-1	SeuratProject	24920	5039		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.63723916532905	4639	1572	4	4
+GGTAGAAGACCGCCTG-1	SeuratProject	14746	4834		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.82585107825851	5009	2433	3	3
+GGTAGACCGTTGGGCG-1	SeuratProject	34655	7417	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.28350887317847	5651	2872	3	3
+GGTCAGTGGGTCCCAC-1	SeuratProject	10469	3797	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.1940013372815	5808	3239	2	2
+GGTCGTAAGCTCGCAC-1	SeuratProject	2296	1104	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.05052264808362	4458	1122	1	1
+GGTCTCTGAATGGACT-1	SeuratProject	3141	1654		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.66125437758676	4150	1643	0	0
+GGTCTGAGAATCTGGA-1	SeuratProject	544	367		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.00735294117647	3434	909	0	0
+GGTCTTGAGCGCTCTT-1	SeuratProject	2071	1181	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.31772090777402	4302	1235	0	0
+GGTGAAGTACAGGGAT-1	SeuratProject	25900	6483	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.48262548262548	5393	2703	3	3
+GGTGCTGGTACACATT-1	SeuratProject	2861	1621	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.60013981125481	4008	1619	0	0
+GGTTACCACCCTCGGG-1	SeuratProject	22993	5825	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.26560257469665	5318	2471	2	2
+GGTTAGTTACGGCGCC-1	SeuratProject	4281	2049		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.34034104181266	4453	2016	1	1
+GGTTTAATTACCATCG-1	SeuratProject	10011	4019	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.88682449305764	6063	3630	2	2
+GTAATCTGATTCTTCG-1	SeuratProject	2538	1310	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.62490149724192	4194	1327	0	0
+GTACACTTACCTGAAG-1	SeuratProject	14944	4963	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.31905781584582	5047	2561	2	2
+GTAGACACGCCTGACT-1	SeuratProject	17577	5734	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.10764066678045	4946	2612	3	3
+GTAGAGGGAGACAAGT-1	SeuratProject	2935	1569	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.20272572402044	4095	1560	0	0
+GTAGTCTACGATATTG-1	SeuratProject	23470	6683	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.66979122283766	5538	3101	3	3
+GTATCAAACGTTAGCT-1	SeuratProject	894	549		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.59955257270694	3626	898	0	0
+GTATCTCAGTCTTGAC-1	SeuratProject	3348	1894		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88291517323775	4063	1881	1	1
+GTATGAAATTTCACTC-1	SeuratProject	2500	1377	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.64	4113	1374	1	1
+GTCAAAGAAGTGGTGT-1	SeuratProject	4455	2071	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.13019079685746	4587	2050	1	1
+GTCAAGCGGACTCGGG-1	SeuratProject	2194	1186		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.79124886052871	4368	1229	0	0
+GTCATGCACCTCCGTT-1	SeuratProject	1696	976		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.36556603773585	3991	1077	0	0
+GTCATGGACATGACTA-1	SeuratProject	386	292		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.51295336787565	3239	943	0	0
+GTCCAATATTTAGCCT-1	SeuratProject	2960	1572		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.00675675675676	4132	1574	0	0
+GTCCGGACCTGAAATT-1	SeuratProject	1532	937		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.87728459530026	3848	1066	0	0
+GTCGCCGTTGTGTGTT-1	SeuratProject	26962	6642	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.24812699354647	5578	2803	3	3
+GTCGGGAAGCAGAAAC-1	SeuratProject	3616	1939	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.73783185840708	4216	1929	0	0
+GTCGTACCATCTCGGG-1	SeuratProject	7147	2904	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.33748425912971	5644	2862	0	0
+GTCTATCTGAGTTTCT-1	SeuratProject	1837	1122	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.06260206859009	4028	1184	0	0
+GTCTCAAGGCCCGGCT-1	SeuratProject	6193	2840	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.11642176651058	5492	2815	2	2
+GTCTCCTGCCAGTATG-1	SeuratProject	5275	2676	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.65402843601896	5107	2652	0	0
+GTCTGGGCGGTCGAGA-1	SeuratProject	12176	3757	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.70400788436268	5417	2564	4	4
+GTGACTTCAGTAGTGC-1	SeuratProject	23984	5990	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.96314209472982	5230	2444	2	2
+GTGAGTGGTACAACGC-1	SeuratProject	29797	6955	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.65167634325603	5410	2750	3	3
+GTGATCATAGATCTGC-1	SeuratProject	11011	3470		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.75079465988557	5625	2745	4	4
+GTGATTCGCCGCTCAA-1	SeuratProject	25358	6322	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.887293950627021	5220	2542	2	2
+GTGCACCAGCTTCAAC-1	SeuratProject	8264	3224		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.48063891577928	5652	3109	2	2
+GTGCCATCACACGGTG-1	SeuratProject	2738	1579	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.20525931336742	4062	1588	0	0
+GTGCCGCTTCAAAGGT-1	SeuratProject	6906	2682	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.30060816681147	5519	2650	0	0
+GTGCGAAATCGAACAC-1	SeuratProject	7202	2817	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.66564843099139	5575	2768	0	0
+GTGCTCAAGTACTGTC-1	SeuratProject	7169	2803		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.16208676244944	5625	2759	1	1
+GTGGACCAACCCGATT-1	SeuratProject	10328	3159	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.7428350116189	5648	2662	4	4
+GTGGACGCATTTGTCC-1	SeuratProject	3751	1884		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.17195414556118	4300	1864	0	0
+GTGGAGTCGGCGGTTG-1	SeuratProject	4276	2017	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.53133769878391	4510	1995	0	0
+GTGGCAAACAGCGGCA-1	SeuratProject	2742	1367	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.88694383661561	4152	1370	1	1
+GTGGCGGTCCCAGCGT-1	SeuratProject	3005	1303	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.86023294509151	4229	1298	0	0
+GTGGGAAGACTGAATC-1	SeuratProject	1812	1038	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.13245033112583	4068	1126	0	0
+GTGGGTACTGAGCGTA-1	SeuratProject	1776	1100	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.84009009009009	3934	1176	1	1
+GTGGTATAGTCTGCCG-1	SeuratProject	31523	6932	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.26209434381246	5428	2600	3	3
+GTGGTTTCCGCCTTTC-1	SeuratProject	2709	1472	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.36581764488741	4079	1481	0	0
+GTGTCGTATAGCGTTC-1	SeuratProject	1861	1153		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.13487372380441	3991	1213	0	0
+GTGTTACTATGCGTCC-1	SeuratProject	4074	2030		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.83014236622484	4396	2008	3	3
+GTTAACATCACTTAAA-1	SeuratProject	13041	4476	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.41645579326739	5528	2937	3	3
+GTTAAGGGTGCGATGT-1	SeuratProject	6803	2924	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.46993973247097	5616	2896	4	4
+GTTACAATTGGTGACG-1	SeuratProject	801	537		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.2434456928839	3549	949	0	0
+GTTACTTTGGGCCTAG-1	SeuratProject	16095	4766	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.32432432432432	4784	2054	3	3
+GTTAGCCCATGACATC-1	SeuratProject	6931	3099		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.9676814312509	5675	3057	2	2
+GTTAGGCTACCCGTTT-1	SeuratProject	1405	958	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.98220640569395	3616	1110	1	1
+GTTATATTATCTCCCT-1	SeuratProject	3425	1643	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.15328467153285	4246	1624	0	0
+GTTCGCCATAAGTGCC-1	SeuratProject	3669	1671	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.82420278004906	4312	1653	0	0
+GTTGAACCGGTTCCAT-1	SeuratProject	4067	1613	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.12269486107696	4509	1609	4	4
+GTTGAGTCCCGCCGGT-1	SeuratProject	6401	2814		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.95172629276676	5518	2777	0	0
+GTTGGATTTGCGTTGG-1	SeuratProject	1511	938	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.22104566512244	3814	1074	0	0
+GTTGGTCATGCTATCC-1	SeuratProject	7656	3198		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.12591431556949	5706	3140	0	0
+GTTTACGTTCCATCTG-1	SeuratProject	20605	4319	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.839602038340209	4599	1412	4	4
+GTTTCATATCGTCGCT-1	SeuratProject	536	382	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.85074626865672	3396	922	0	0
+GTTTCCTGGAGGGTGA-1	SeuratProject	379	287		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.33245382585752	3248	944	0	0
+GTTTGGGCTTGTGAGC-1	SeuratProject	14621	4398	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.60440462348677	4994	2178	2	2
+GTTTGGTAGGGTCAAC-1	SeuratProject	17370	5202		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.5831894070236	4750	2170	3	3
+GTTTGTTAGCCAAGTA-1	SeuratProject	5705	2826	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.36459246275197	5347	2804	2	2
+TAAACCCAGGAGGGCA-1	SeuratProject	2615	1388		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.79158699808795	4101	1391	0	0
+TAAAGCGGTATTTCCA-1	SeuratProject	9546	3597	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.59480410643201	5897	3309	0	0
+TAACAGCGTTTGTGCT-1	SeuratProject	24324	6742	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.5397138628515	5572	3077	3	3
+TAACATACACGCGATC-1	SeuratProject	2424	1297	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.24917491749175	4174	1312	1	1
+TAACTCATCCGCGCGG-1	SeuratProject	16626	4839	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.76362324070733	4841	2074	3	3
+TAAGGCCCGTCACCCT-1	SeuratProject	24672	6708	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.59046692607004	5320	2879	3	3
+TAAGTAACATCTTGAC-1	SeuratProject	16490	4860		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.63856882959369	4639	1979	4	4
+TAAGTCGCCGAGTATC-1	SeuratProject	2396	1349	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.13021702838063	4220	1363	0	0
+TAATAGGTCACCAGAA-1	SeuratProject	1932	1139		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.33333333333333	4075	1203	1	1
+TACAACGCACAACTCA-1	SeuratProject	4701	2177	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.9563922569666	4720	2161	0	0
+TACATAGGCATACACC-1	SeuratProject	20101	5714	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.53211283020745	4969	2401	3	3
+TACATCCCTATCCCTG-1	SeuratProject	1979	1148	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.47852450732693	4110	1197	1	1
+TACATTTCTAACGTGC-1	SeuratProject	26858	6120		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.41953980192122	5050	2267	3	3
+TACCAAATAGCCCAGA-1	SeuratProject	4168	2122	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.93474088291747	4436	2102	0	0
+TACCAGAAGTAGGTTC-1	SeuratProject	4731	2189		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.69245402663285	4734	2162	0	0
+TACCGGCTCACTGCCC-1	SeuratProject	29770	6815	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.66912999664091	5197	2566	3	3
+TACCGGTCGTTTCCAT-1	SeuratProject	12934	3566	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.0128343899799	5688	2491	2	2
+TACCGTAGGTTAACTA-1	SeuratProject	21000	6188	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41904761904762	5105	2637	3	3
+TACCGTGCCTCGGACC-1	SeuratProject	32550	7157	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.86635944700461	5425	2692	2	2
+TACCTACTCCCAGTAT-1	SeuratProject	4441	1999	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.18824589056519	4600	1982	0	0
+TACCTCAGTTGTCTGT-1	SeuratProject	13326	3937	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.08059432687978	5114	2255	4	4
+TACCTTAAGATTTCCC-1	SeuratProject	2513	1407	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.17827298050139	4147	1415	0	0
+TACGACGCTTGCTGCG-1	SeuratProject	12915	3248		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.34494773519164	5025	1859	4	4
+TACGACTGCCTCTTAG-1	SeuratProject	20036	5238	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.4905170692753	4818	2107	4	4
+TACGAGAACTTCACGT-1	SeuratProject	561	420		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.23885918003565	3332	941	0	0
+TACGCAGTTCTTTCCT-1	SeuratProject	3853	1778	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.42590189462756	4381	1763	0	0
+TACGCCATATTCTAAT-1	SeuratProject	31193	6990	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.96540890584426	5229	2580	3	3
+TACGCCGAGGGTACCC-1	SeuratProject	2649	1376	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.8882597206493	4129	1391	0	0
+TACGCCTCCATTCCGA-1	SeuratProject	6715	2677	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.41250930752048	5497	2653	0	0
+TACGTACTAGTGCTGA-1	SeuratProject	6358	2873	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.68858131487889	5535	2846	0	0
+TACGTGGGCCCAGGGC-1	SeuratProject	3193	1660		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.35327278421547	4162	1644	2	2
+TACGTTTACCGGCAAT-1	SeuratProject	1931	1205	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.66079751424133	4091	1281	0	0
+TACTATGGTTCCTCAG-1	SeuratProject	16120	5255	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.95657568238213	4900	2409	3	3
+TACTCCTCTAGTTGAC-1	SeuratProject	13262	4629	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.03694767003469	5496	2926	2	2
+TACTCGGCACGCCGGG-1	SeuratProject	1601	899		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.80699562773267	3798	997	1	1
+TACTCTTTCGTCTTCA-1	SeuratProject	19307	5739	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.32967317553219	5176	2553	3	3
+TACTGAACAGATTTAG-1	SeuratProject	29651	7021	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.09594954638967	5654	2909	3	3
+TACTTTCCGCACGCCA-1	SeuratProject	1951	1113	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.2793439261917	4185	1163	1	1
+TAGAGATCATGCAACT-1	SeuratProject	1772	1038	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.85327313769752	4051	1124	0	0
+TAGAGGTTCTACTTGT-1	SeuratProject	645	443		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.89147286821705	3471	945	0	0
+TAGATATGGACTGGAA-1	SeuratProject	4732	2122	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.76246830092984	4735	2102	3	3
+TAGCGTCCGGTGTGGT-1	SeuratProject	3980	1930		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.16582914572864	4365	1912	0	0
+TAGCTAGAAGGCATGA-1	SeuratProject	19689	4618		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.83406978515923	4648	1703	4	4
+TAGCTAGTGATGATGG-1	SeuratProject	13808	4474	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.10081112398609	5291	2549	2	2
+TAGCTCGCCTGATAAC-1	SeuratProject	6238	2644	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.9833279897403	5450	2621	3	3
+TAGGCGATGAGGTCTC-1	SeuratProject	2992	1648	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.60695187165775	4093	1642	0	0
+TAGGTGTTCCACAGAT-1	SeuratProject	2978	1589	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.90261920752183	4096	1584	0	0
+TAGTAGCTTATACCAG-1	SeuratProject	7818	3442	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.25709900230238	5737	3378	2	2
+TAGTCCCGGAGACCAC-1	SeuratProject	5419	2321		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.43587377744971	5120	2300	0	0
+TAGTCCGCAGAGAATG-1	SeuratProject	6788	2643	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.69593400117855	5466	2596	4	4
+TAGTCTAACAACGAGA-1	SeuratProject	4217	2162		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.46217690301162	4443	2146	1	1
+TATACACAGACGCCTT-1	SeuratProject	3349	1715	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.58375634517767	4166	1699	0	0
+TATACGCGTCATCACT-1	SeuratProject	6835	2886	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.52596927578639	5580	2856	0	0
+TATAGAGTCGCTTGAA-1	SeuratProject	4509	1687	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.36903969838102	4624	1680	2	2
+TATATAGGGCTTTACG-1	SeuratProject	12153	4196	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.02805891549412	5670	3020	2	2
+TATATATCGAGAAATG-1	SeuratProject	3189	1786	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.29601756036375	4079	1767	1	1
+TATCAGTGGCGTAGTC-1	SeuratProject	9417	3849	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.19995752362748	6011	3589	2	2
+TATCCAATTGGTTATC-1	SeuratProject	16387	5242		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.50356990297187	4794	2290	3	3
+TATCCGCACCGTCGGG-1	SeuratProject	17687	5435	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.49556171199186	4923	2396	3	3
+TATCTTGCAATACAAC-1	SeuratProject	3016	1647	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.63660477453581	4057	1641	1	1
+TATGGGACCGAGCAGG-1	SeuratProject	4853	2179	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.96600041211622	4833	2160	0	0
+TATGGGTACGTATCGT-1	SeuratProject	1030	676	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.51456310679612	3540	988	0	0
+TATGGTCTGAGTAACA-1	SeuratProject	9205	3115	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.99782726778925	5674	2869	0	0
+TATTAACACCAAAGCA-1	SeuratProject	6692	3066	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.40585774058577	5638	3042	2	2
+TATTAACCTGACCGCG-1	SeuratProject	28153	6893	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.80588214399886	5513	2866	3	3
+TATTATGTTTGCCTGC-1	SeuratProject	3609	1682	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.68523136602937	4322	1668	4	4
+TATTCCACTCAGCTCG-1	SeuratProject	5642	2437	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.38355193193903	5222	2413	3	3
+TATTCCGAGCTGTTAT-1	SeuratProject	1459	839		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.85400959561343	3940	982	0	0
+TATTCCTCCGCCCACT-1	SeuratProject	5348	2414	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.76738967838444	5116	2396	0	0
+TCAAAGAGCTATCTGT-1	SeuratProject	1352	871	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.98816568047337	3526	1059	1	1
+TCAAATTGTTGTGCCG-1	SeuratProject	2658	1548		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.89089541008277	4010	1542	0	0
+TCAAATTTGAGACTCA-1	SeuratProject	16502	4618	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.896860986547085	4541	1779	4	4
+TCAACAAAGATAATTC-1	SeuratProject	2376	1278	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.9983164983165	4215	1294	1	1
+TCAACATAGCGCCCTA-1	SeuratProject	17166	5343	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.67016194803682	4914	2397	3	3
+TCAACATCGACCGAGA-1	SeuratProject	1121	776	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.31489741302409	3438	1017	1	1
+TCAACGAGGAGACAAA-1	SeuratProject	36763	5910	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.15978021380192	4399	1200	4	4
+TCAACGCAGGAAATAA-1	SeuratProject	2638	1355	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.5489006823351	4140	1367	0	0
+TCAACGCGACCGGCAG-1	SeuratProject	1296	729	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.47530864197531	3899	930	0	0
+TCAATACGCCGTCATG-1	SeuratProject	1242	802	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.91143317230274	3659	1019	0	0
+TCACAGCAAACTCGAA-1	SeuratProject	27619	5947		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.77638582135486	4873	2054	4	4
+TCACAGGAGAATAAGA-1	SeuratProject	23638	6380	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.47000592266689	5360	2742	3	3
+TCACCCTCTTAAGATT-1	SeuratProject	19738	5100	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.73077312797649	4747	1998	4	4
+TCACGATGTCCGTGGA-1	SeuratProject	3144	1568	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.33969465648855	4194	1556	1	1
+TCACGCATTGTAGATC-1	SeuratProject	950	589		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.84210526315789	3660	904	0	0
+TCACGTGCCCGATTCA-1	SeuratProject	16789	5177	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.97349455000298	4845	2299	2	2
+TCAGCAGTAGGCCCTG-1	SeuratProject	8034	3309	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.62160816529749	5673	3225	3	3
+TCAGTGTATACGTCAT-1	SeuratProject	21918	5889	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.71010128661374	5233	2593	2	2
+TCATATGAGCTTTGTT-1	SeuratProject	1164	792	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.98281786941581	3566	1025	0	0
+TCATCGATGGTCCCAA-1	SeuratProject	3453	1506	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.14306400231683	4283	1487	1	1
+TCCAACTTTAAATTCT-1	SeuratProject	2018	1171	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.10406342913776	4187	1212	0	0
+TCCAAGCCTAGACACA-1	SeuratProject	2967	1604		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.2015503875969	4072	1600	0	0
+TCCAATAAAGGCTACC-1	SeuratProject	3417	1761	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.16066725197542	4186	1749	0	0
+TCCACCTCTAGCCTTT-1	SeuratProject	22069	5911	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.51764919117314	5142	2540	3	3
+TCCAGGGTATATACGA-1	SeuratProject	5052	2245	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.20665083135392	4949	2217	0	0
+TCCCAAAGACGAAGGA-1	SeuratProject	486	346		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.67078189300411	3326	925	0	0
+TCCCAGCTTTAGTCTG-1	SeuratProject	5108	2426	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.97415818324197	5010	2404	1	1
+TCCCTGGCGTATTAAC-1	SeuratProject	2215	1297	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.72686230248307	4324	1332	1	1
+TCCGCTTATCCCATTA-1	SeuratProject	17347	4557	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.02645990661209	4750	1785	4	4
+TCCGGTTCGTCCGGTC-1	SeuratProject	9571	3597	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.45700553756138	5904	3288	3	3
+TCCTAACCGTCGGGCA-1	SeuratProject	10995	3716	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.41973624374716	5701	2962	2	2
+TCCTACATCCACGGCC-1	SeuratProject	4561	2209		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.51545713659285	4628	2189	0	0
+TCCTAGCAAAGAAGCT-1	SeuratProject	3171	1639	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.47808262377799	4175	1630	0	0
+TCCTCCTAAGACATTC-1	SeuratProject	3691	1476	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.60579788675156	4373	1454	1	1
+TCCTCGGGCTGGGCTT-1	SeuratProject	1714	1008		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.00116686114352	3992	1098	0	0
+TCCTGCGTTGATACTC-1	SeuratProject	994	667	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.92957746478873	3495	983	0	0
+TCCTTTCTTACGCTTA-1	SeuratProject	353	283	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.08215297450425	3138	982	0	0
+TCGAATATCCCGCAGG-1	SeuratProject	3794	1676		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.42488139167106	4387	1662	1	1
+TCGACAACTGAACCCG-1	SeuratProject	5386	2535	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.48793167471222	5140	2513	1	1
+TCGAGACCAACACCGT-1	SeuratProject	5530	2334	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.66003616636528	5167	2317	0	0
+TCGAGCCAGGCAGGCC-1	SeuratProject	24931	6416	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.56307408447315	5327	2672	2	2
+TCGAGTCTACGATTCG-1	SeuratProject	2540	1473		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.08661417322835	3984	1474	1	1
+TCGCCGAAGTTGCGTC-1	SeuratProject	5675	2800	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.11013215859031	5307	2772	2	2
+TCGCTACTGGCTTTGA-1	SeuratProject	24413	6693	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.31327571375906	5374	2918	3	3
+TCGCTCGATATATTCC-1	SeuratProject	1597	1086		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.88227927363807	3676	1194	1	1
+TCGCTGCCAATGCTGT-1	SeuratProject	3120	1690		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.16025641025641	4110	1681	0	0
+TCGGAGAGTATCGGGA-1	SeuratProject	2644	1158	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.26928895612708	4296	1187	1	1
+TCGGGAGACAGCGTAC-1	SeuratProject	23247	5161	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.80440486944552	4641	1628	4	4
+TCGGTCCCGACAATAG-1	SeuratProject	3817	2035	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.47550432276657	4233	2000	1	1
+TCGTATTACCCATTGC-1	SeuratProject	1437	833		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.79401530967293	3706	984	1	1
+TCGTCAAGTACGCGCA-1	SeuratProject	19257	5376	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.4510567585813	4963	2279	2	2
+TCGTCTTAGGCGTTAA-1	SeuratProject	2590	1418		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.91891891891892	4074	1429	0	0
+TCGTGTCACGCTGACA-1	SeuratProject	530	347	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.90566037735849	3436	898	0	0
+TCGTTAGGAGTCCCTA-1	SeuratProject	22736	6161	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.31597466572836	5333	2738	3	3
+TCTAAAGAACAGTCTC-1	SeuratProject	3513	1854	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.75377170509536	4176	1838	1	1
+TCTAATACTGCCTCAG-1	SeuratProject	2247	1432	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.33778371161549	4249	1452	1	1
+TCTAGCAATCTCCGCC-1	SeuratProject	4485	2188	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.31884057971015	4598	2174	2	2
+TCTAGCATGCCCAGAA-1	SeuratProject	41447	7228	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.82642893333655	4588	1758	4	4
+TCTAGTTATCAGAAGA-1	SeuratProject	10532	3003	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.25028484618306	5555	2410	4	4
+TCTCCCTGGGCAGCGT-1	SeuratProject	3425	1795		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.70802919708029	4186	1787	0	0
+TCTCTTACCGCGAACC-1	SeuratProject	2635	1363		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.68121442125237	4168	1372	0	0
+TCTGGGTAGCGCTCAT-1	SeuratProject	1925	1145		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.88311688311688	4114	1195	0	0
+TCTGTTACCCAGCATA-1	SeuratProject	6790	2857	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.47717231222386	5575	2825	3	3
+TCTTGCTCCCGATACT-1	SeuratProject	3775	1861	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.62251655629139	4312	1845	0	0
+TGAATGAGTGTTTCCC-1	SeuratProject	3459	1688		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.06446949985545	4252	1680	0	0
+TGACAGGACAAGTCCA-1	SeuratProject	9242	3634	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.14412464834451	5902	3396	2	2
+TGACCAAATCTTAAAC-1	SeuratProject	1595	976		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.8871473354232	3910	1094	0	0
+TGACGAATATTTCCCT-1	SeuratProject	1448	821	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.31767955801105	3895	993	0	0
+TGAGCCATACAGTCTC-1	SeuratProject	3969	1730	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.40136054421769	4444	1718	0	0
+TGAGCGGAAAGTGTTC-1	SeuratProject	3966	1923		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.85829551185073	4361	1906	0	0
+TGAGGAGTGCCAGCTT-1	SeuratProject	3040	1599	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.25657894736842	4152	1597	0	0
+TGAGTAAATTAGCGTA-1	SeuratProject	4202	1973	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.87767729652546	4483	1960	0	0
+TGAGTGCCTCTTAAAT-1	SeuratProject	8159	3080		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.30922907219022	5606	2967	4	4
+TGATACATTTAGCCGT-1	SeuratProject	33540	7234	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.62909958258795	5755	2858	3	3
+TGATCAGGGAACTGCT-1	SeuratProject	1310	877	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.25954198473282	3560	1080	1	1
+TGATTCCCGGTTACCT-1	SeuratProject	5368	2352	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.08643815201192	5119	2340	0	0
+TGATTCTGTCGCCGGT-1	SeuratProject	7258	2511	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.23201984017636	5503	2472	4	4
+TGATTTATTAGCTGTG-1	SeuratProject	2637	1423	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.19529768676526	4004	1425	0	0
+TGCAGAACTATATCGT-1	SeuratProject	1538	1018	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.5110533159948	3725	1135	0	0
+TGCAGAGTACCGAGCA-1	SeuratProject	4821	2132	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.11138767890479	4799	2110	0	0
+TGCAGATCGTCCTAGG-1	SeuratProject	1278	803	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.92957746478873	3482	996	1	1
+TGCAGCTACGTACTTC-1	SeuratProject	680	454	Adipose tissue	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.64705882352941	3366	924	1	1
+TGCATGTGGTAATCTA-1	SeuratProject	618	434		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.06148867313916	3351	925	0	0
+TGCCAATGGGTACTCT-1	SeuratProject	15599	4969	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.07731264824668	4939	2349	3	3
+TGCCAGTACGTGGAGA-1	SeuratProject	26221	6756		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.16601197513443	5580	3001	3	3
+TGCCGGATGTACGAGC-1	SeuratProject	12689	4603	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.24603987705887	5721	3176	2	2
+TGCCGTGGATCGTCCT-1	SeuratProject	4744	2236	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.44772344013491	4738	2207	0	0
+TGCCTTGGCCAGGCAA-1	SeuratProject	4715	2225		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.48038176033934	4732	2215	3	3
+TGCGACACCCTAGTGC-1	SeuratProject	34662	7116	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.6051583867059	5105	2349	3	3
+TGCGACGGCCGAACGT-1	SeuratProject	7768	2980		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.45880535530381	5636	2925	1	1
+TGCGAGAATATTACCC-1	SeuratProject	11007	3675	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.65285727264468	5775	2970	4	4
+TGCGTAAGAACCTGAT-1	SeuratProject	4526	2112	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.59566946531153	4628	2093	0	0
+TGCGTCATGACTGAGC-1	SeuratProject	5068	2345	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.92028413575375	4973	2319	1	1
+TGCTCGGCGAAACCCA-1	SeuratProject	5379	2371	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.78564788994237	5112	2345	0	0
+TGCTCTTGAGAGTTTG-1	SeuratProject	13554	4501	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.2979194333776	5286	2655	2	2
+TGCTTAGAGAGAATGC-1	SeuratProject	1706	1052	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.27901524032825	3886	1138	1	1
+TGCTTCCCAAGCAGTA-1	SeuratProject	17308	5423	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.68661890455281	4781	2276	2	2
+TGGAAGAAGGGAACGT-1	SeuratProject	1407	925	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.11229566453447	3665	1086	0	0
+TGGACGCAATCCAGCC-1	SeuratProject	2149	1240	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.65425779432294	4265	1271	1	1
+TGGCAAGCACAAGTCG-1	SeuratProject	19882	5356		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.36807162257318	4851	2211	2	2
+TGGCAGATTACGATCA-1	SeuratProject	52892	7227	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.7223776752628	4262	1098	4	4
+TGGCAGCAGTAATAGT-1	SeuratProject	20409	5804	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.72786515752854	5005	2449	0	0
+TGGCATGAAGTTTGGG-1	SeuratProject	2215	1365	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.97968397291196	4307	1402	0	0
+TGGCGATCAAGTTATG-1	SeuratProject	12656	4240	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.8909608091024	5521	2874	3	3
+TGGCTTATGTATAATG-1	SeuratProject	1949	1195	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.23447922011288	4058	1250	1	1
+TGGTCCCACGCTACGG-1	SeuratProject	5461	2435		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.03882072880425	5159	2406	3	3
+TGGTCTGTTGGGCGTA-1	SeuratProject	1580	953		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.9873417721519	3831	1061	1	1
+TGTATAACAGATCCTG-1	SeuratProject	574	409		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.49128919860627	3248	944	0	0
+TGTGAGACTAGCCCAA-1	SeuratProject	8209	3492		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.92471677427214	5692	3369	1	1
+TGTGCCGGTGCCGGAA-1	SeuratProject	1074	672		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.12104283054004	3614	961	0	0
+TGTGGCGGGCTTCTGG-1	SeuratProject	3064	1649	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.80678851174935	4091	1638	0	0
+TGTGGTTGCTAAAGCT-1	SeuratProject	9885	3122	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.24582701062215	5640	2735	4	4
+TGTTCCGCTTCCATGA-1	SeuratProject	1930	1176	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.19689119170984	4080	1229	0	0
+TGTTCGTATTGCGGTG-1	SeuratProject	5466	2283		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.15879985364069	5148	2277	4	4
+TTAACTTCAGGTAGGA-1	SeuratProject	1839	1012	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.82762370853725	4137	1080	0	0
+TTAAGGCCCGTACTTT-1	SeuratProject	1775	1148	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.61971830985915	3843	1230	1	1
+TTAATGTAGACCAGGT-1	SeuratProject	479	356		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.55949895615866	3213	963	0	0
+TTAATTGCTTTGGGTG-1	SeuratProject	21323	6054	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.1811189795057	5099	2618	3	3
+TTACCCTAGGGATTGG-1	SeuratProject	9244	3220	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.47252271743834	5676	2920	4	4
+TTACTCTGGTACGTAC-1	SeuratProject	7649	2847	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.03948228526605	5573	2792	4	4
+TTACTGGGATATTTCA-1	SeuratProject	12742	3150	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.11568042693455	5081	1868	4	4
+TTAGAAGAACATGACT-1	SeuratProject	8121	3111	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.22103189262406	5617	3019	0	0
+TTAGAATAAGGGTCGG-1	SeuratProject	9754	3831	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.2704531474267	5964	3469	2	2
+TTATAGGTAATTGTCT-1	SeuratProject	13579	4660	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.23447971131895	5326	2753	2	2
+TTATATTTGGCAATCC-1	SeuratProject	404	312		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.91089108910891	3128	968	0	0
+TTATCCGGGATCTATA-1	SeuratProject	3594	1654		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.45019476905954	4315	1642	0	0
+TTATCCTCAAGGAATA-1	SeuratProject	11392	4295	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.09796348314607	5994	3399	1	1
+TTATGAATGAAAGGGA-1	SeuratProject	28491	6747	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.90105647397424	5288	2649	3	3
+TTATTAGAGCGTGTTC-1	SeuratProject	22399	5625		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	9.58078485646681	5425	2404	3	3
+TTCACGAAAGGATCAC-1	SeuratProject	7931	2870	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.41306266548985	5556	2777	4	4
+TTCACTCGAGCACCTA-1	SeuratProject	12916	4370	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.55775781975844	5411	2814	0	0
+TTCAGCTGGCGTGCCC-1	SeuratProject	1980	1115		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.3030303030303	4216	1176	0	0
+TTCCAATCTGGCTATC-1	SeuratProject	18126	3971		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.5888778550149	4436	1277	4	4
+TTCCACACAGATTTGA-1	SeuratProject	6471	2077	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.27167362076959	5307	2054	4	4
+TTCCGCGTGAGGCGAT-1	SeuratProject	14548	4688	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.42342590046742	5000	2397	3	3
+TTCCGGCCTTGAGGCT-1	SeuratProject	28130	6793	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.32634198364735	5498	2826	3	3
+TTCCTCGGACTAACCA-1	SeuratProject	4931	2103		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.45386331372947	4884	2082	4	4
+TTCGACAGAGCCCGTG-1	SeuratProject	10985	3751	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.73873463814292	5777	3039	2	2
+TTCGCACTGTACGACA-1	SeuratProject	1914	1101	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.01567398119122	4163	1161	0	0
+TTCGCGCGCCATACGA-1	SeuratProject	16988	5293	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.50317871438663	4816	2279	3	3
+TTCGGGCGCTAGTCTT-1	SeuratProject	5790	2447	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.7979274611399	5280	2423	0	0
+TTCGGTACTGTAGAGG-1	SeuratProject	1767	1038		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.2258064516129	4047	1128	0	0
+TTCTAGAAAGTCTTAT-1	SeuratProject	19688	5413	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.01645672490857	4969	2161	2	2
+TTCTTGAGCCGCGCTA-1	SeuratProject	13762	4458	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.13733468972533	5264	2587	3	3
+TTCTTGGACGATCTGC-1	SeuratProject	2269	1283	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.71573380343764	4385	1302	0	0
+TTGACATGAACGTGGA-1	SeuratProject	21022	5775	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.96460850537532	5205	2544	2	2
+TTGACCGTGTTAATGA-1	SeuratProject	8462	3338	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.41526825809501	5699	3202	3	3
+TTGACTACCATATGGT-1	SeuratProject	4141	1847	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.83965225790872	4480	1828	0	0
+TTGAGAGTACTGCTAA-1	SeuratProject	4220	1944		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.98578199052133	4505	1927	0	0
+TTGATTAGCTGTTTCT-1	SeuratProject	9521	3587		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.78332107971852	5857	3309	3	3
+TTGCACAATTCAGAAA-1	SeuratProject	49475	6434	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	0.947953511874684	4091	756	4	4
+TTGCATGCTGATCACG-1	SeuratProject	5286	2582	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.17555807794173	5091	2554	0	0
+TTGCCATAGCCCGCTC-1	SeuratProject	2876	1539		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.78998609179416	4029	1534	1	1
+TTGCGTCGGCCAACCG-1	SeuratProject	4839	2177	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.78177309361438	4809	2149	0	0
+TTGCTGATCATGTTCG-1	SeuratProject	1278	796	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	7.51173708920188	3694	1017	0	0
+TTGGAAGAATACAGTC-1	SeuratProject	4317	1631	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.15033588139912	4601	1619	4	4
+TTGGACATGTGGCTTA-1	SeuratProject	1262	857	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.75435816164818	3587	1077	0	0
+TTGGATATCGTCTACG-1	SeuratProject	6860	2271		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.52186588921283	5386	2236	4	4
+TTGGTCACACTCGTAA-1	SeuratProject	30240	5803	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	1.95436507936508	4760	1719	4	4
+TTGGTTGCGGTGCGCG-1	SeuratProject	3670	1923		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.10626702997275	4240	1904	1	1
+TTGTAAGGACCTAAGT-1	SeuratProject	25548	6303	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.37591983716925	5485	2736	2	2
+TTGTAATCCGTACTCG-1	SeuratProject	3634	1708	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.07264722069345	4293	1701	0	0
+TTGTACACCTCGAACA-1	SeuratProject	3982	2075	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	8.36263184329483	4325	2055	1	1
+TTGTCACCGCGGTATC-1	SeuratProject	9838	3857	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.90323236430169	6043	3513	2	2
+TTGTGCAGCCACGTCA-1	SeuratProject	16634	5085	In situ Carcinoma*	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.85752074065168	4721	2132	2	2
+TTGTGGTAGGAGGGAT-1	SeuratProject	1545	916	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	4.72491909385113	3893	1047	0	0
+TTGTGTATGCCACCAA-1	SeuratProject	2432	1259	Lymphoid stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	6.08552631578947	4261	1280	0	0
+TTGTGTTTCCCGAAAG-1	SeuratProject	7348	2961		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.44365813826892	5644	2924	0	0
+TTGTTTCACATCCAGG-1	SeuratProject	14693	4828		M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	5.9279929217995	5082	2505	3	3
+TTGTTTCATTAGTCTA-1	SeuratProject	2953	1564	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	2.16728750423298	4050	1571	1	1
+TTGTTTCCATACAACT-1	SeuratProject	2440	1319	Fibrous stroma	M8_CL-like2	GSM6592055	M8	p11_cancer_untreated	cancer_untreated	3.5655737704918	4216	1327	0	0

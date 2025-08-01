@@ -1,0 +1,1223 @@
+CellID	orig.ident	nCount_Spatial	nFeature_Spatial	annotations	sampleid	patient_id	suffix	new_patient_id	condition	percent.mt	nCount_SCT	nFeature_SCT	SCT_snn_res.0.5	seurat_clusters
+AAACACCAATAACTGC-1	SeuratProject	945	602	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84126984126984	4518	1158	0	0
+AAACAGTGTTCCTGGG-1	SeuratProject	4590	2243		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.00871459694989	5196	2223	0	0
+AAACCGTTCGTCCAGG-1	SeuratProject	9542	3422		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.79543072731084	6645	3303	0	0
+AAACGAAGATGGAGTA-1	SeuratProject	2778	1500		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.72354211663067	5187	1551	4	4
+AAACGGTTGCGAACTG-1	SeuratProject	25220	6225	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.10309278350515	6204	2837	6	6
+AAACTCGGTTCGCAAT-1	SeuratProject	30979	6343		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.67684560508732	6209	2676	2	2
+AAACTGCTGGCTCCAA-1	SeuratProject	34489	6890		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.77607353069094	6259	2793	2	2
+AAAGACTGGGCGCTTT-1	SeuratProject	4476	2035	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.92046470062556	5176	2017	3	3
+AAAGGCCCTATAATAC-1	SeuratProject	1233	739	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.9213300892133	4580	1168	0	0
+AAAGGCTACGGACCAT-1	SeuratProject	46772	7351	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.89241426494484	5994	2265	2	2
+AAAGGGCAGCTTGAAT-1	SeuratProject	6391	2493		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.77515255828509	6098	2458	3	3
+AAAGTAGCATTGCTCA-1	SeuratProject	3032	1614	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.31002638522427	5037	1640	0	0
+AAAGTCGACCCTCAGT-1	SeuratProject	6696	2724	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.39247311827957	6236	2701	4	4
+AAATTAATAAGCGCGA-1	SeuratProject	1557	884		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.78034682080925	4650	1199	4	4
+AAATTGATAGTCCTTT-1	SeuratProject	6865	3021	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.17115804806992	6335	2988	5	5
+AAATTTGCGGGTGTGG-1	SeuratProject	5515	2487	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.44242973708069	5605	2471	5	5
+AACAACTGGTAGTTGC-1	SeuratProject	9363	3103		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.66570543629179	6606	2991	1	1
+AACAATACATTGTCGA-1	SeuratProject	6382	2632		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.72203071137574	6103	2604	1	1
+AACAATTACTCTACGC-1	SeuratProject	4950	2064	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.17171717171717	5332	2033	3	3
+AACACGAGACGCGGCC-1	SeuratProject	2203	1154	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.89832047208352	5016	1300	0	0
+AACAGCTGTGTGGCAA-1	SeuratProject	3581	1837		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.44540631108629	5008	1835	5	5
+AACAGGATGGGCCGCG-1	SeuratProject	6056	2290	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.60303830911493	5923	2268	4	4
+AACATTGTGACTCGAG-1	SeuratProject	19620	5156	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.69724770642202	5847	2379	1	1
+AACCAAGACTTCTCTG-1	SeuratProject	1585	842	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.83280757097792	4730	1162	0	0
+AACCCGACAACCCGTG-1	SeuratProject	2810	1563	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.93950177935943	5202	1607	5	5
+AACGCGACCTTGGGCG-1	SeuratProject	19743	4885	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.51370105860305	5870	2228	2	2
+AACGGCCATCTCCGGT-1	SeuratProject	21734	5528		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.54127174013067	5943	2530	5	5
+AACGTACTGTGGGTAC-1	SeuratProject	11020	3844		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.34664246823956	6856	3570	0	0
+AACGTCAGACTAGTGG-1	SeuratProject	27744	6196		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.68209342560554	6214	2687	2	2
+AACGTTATCAGCACCT-1	SeuratProject	4689	1870		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1870334826189	5267	1852	3	3
+AACTCAAGTTAATTGC-1	SeuratProject	5948	2381		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.41492938802959	5880	2358	1	1
+AACTCTCAGTGTGCTC-1	SeuratProject	7609	2975		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.2163227756604	6495	2940	0	0
+AACTTTACGGGAGCTT-1	SeuratProject	4597	2107		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.82923645855993	5210	2092	4	4
+AAGACCCAACTGAACA-1	SeuratProject	19214	4900	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.99344228166962	5849	2268	1	1
+AAGAGATGAATCGGTA-1	SeuratProject	7227	2700	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.42036806420368	6414	2670	3	3
+AAGATGGCACCGGACC-1	SeuratProject	3841	1836		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.22702421244468	5104	1823	0	0
+AAGCATACTCTCCTGA-1	SeuratProject	27049	6080	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.79333801619283	6033	2551	1	1
+AAGCCACTTGCAGGTA-1	SeuratProject	1912	1187	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.52510460251046	4739	1428	4	4
+AAGCGTCCCTCATCGA-1	SeuratProject	14324	4499		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.93409662105557	6734	3363	5	5
+AAGGAGCGGTTGGTGC-1	SeuratProject	19557	5360	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.2878253310835	5923	2529	4	4
+AAGGCGCGTAAAGCTT-1	SeuratProject	30749	6399		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.49286155647338	6277	2686	2	2
+AAGGGACTATGCATTC-1	SeuratProject	1494	871	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56760374832664	4656	1207	0	0
+AAGTAGTGACGCGAGG-1	SeuratProject	3997	1661	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.63222416812609	5161	1648	0	0
+AAGTCTTCTGTGGCCT-1	SeuratProject	2000	1035		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.65	4896	1233	4	4
+AAGTGAGTCGGGTTTA-1	SeuratProject	35443	6830	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.81618373162543	6370	2830	2	2
+AAGTGCAAAGGTAGAC-1	SeuratProject	37814	7418	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.06272809012535	6489	3116	4	4
+AAGTGCGTTAGAATCT-1	SeuratProject	3713	1830	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.43684352275788	5033	1816	0	0
+AAGTGCTTCTCTATTG-1	SeuratProject	1302	817		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.83256528417819	4522	1211	5	5
+AAGTTCGGCCAACAGG-1	SeuratProject	9159	3529	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.21891036139317	6717	3447	5	5
+AATAACACTAGAACAA-1	SeuratProject	12901	4322		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.17789318657468	6918	3636	5	5
+AATACAATGTTTCAGG-1	SeuratProject	2882	1412	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.28660652324774	5062	1464	3	3
+AATACCGGAGGGCTGT-1	SeuratProject	910	599		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.91208791208791	4410	1184	5	5
+AATAGAACAGAGTGGC-1	SeuratProject	5561	2129		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.64952346700234	5648	2112	1	1
+AATAGTCCGTCCCGAC-1	SeuratProject	9099	2931	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.5944609297725	6579	2840	1	1
+AATAGTCGCGAGTCGG-1	SeuratProject	10318	3660	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.14809071525489	6835	3434	3	3
+AATATTGGAGTATTGA-1	SeuratProject	2762	1322	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.72556118754526	5294	1372	0	0
+AATCAGGTTTCATTTA-1	SeuratProject	805	539	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.19875776397516	4336	1180	0	0
+AATCTAGGTTTACTTG-1	SeuratProject	1600	934		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5625	4652	1232	0	0
+AATCTCTACTGTGGTT-1	SeuratProject	3261	1610	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.47562097516099	4990	1623	4	4
+AATCTGGCTTTCTAGT-1	SeuratProject	1370	848		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.2992700729927	4558	1211	0	0
+AATGACAGCAATGTCT-1	SeuratProject	5618	2569	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.36418654325383	5656	2544	5	5
+AATGCAACCGGGTACC-1	SeuratProject	27959	6171	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.64480131621303	6144	2608	6	6
+AATGGTCCACCGTTCA-1	SeuratProject	7328	2714	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.78602620087336	6447	2666	3	3
+AATGTATGGCACTGTA-1	SeuratProject	1178	744		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.7911714770798	4523	1217	0	0
+AATGTGCCCGAGGTGT-1	SeuratProject	3776	1885	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.85911016949153	5084	1883	0	0
+AATTAAAGGTCGGCGT-1	SeuratProject	13734	3664	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.78593272171254	6601	2767	1	1
+AATTAACGGATTTCCA-1	SeuratProject	33832	7070	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.26625679829747	6455	2951	6	6
+AATTACGAGACCCATC-1	SeuratProject	1790	1048		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.87150837988827	4713	1278	0	0
+AATTCATTGTCATGCA-1	SeuratProject	867	578		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.30565167243368	4402	1170	0	0
+AATTCCAAGCATGTAC-1	SeuratProject	25392	6339	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.2763074984247	6246	2886	2	2
+AATTGCGTGGATTACA-1	SeuratProject	1681	955		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.47293277810827	4693	1227	0	0
+ACAAACCATGCGTCCT-1	SeuratProject	1270	743		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.50393700787401	4581	1177	0	0
+ACAAAGAAGGTAGGCC-1	SeuratProject	1844	1018		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.53796095444685	4800	1254	0	0
+ACAACGGTCCCTGCGA-1	SeuratProject	9650	3312		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29015544041451	6713	3151	3	3
+ACAAGCAGTGCCTAGC-1	SeuratProject	2270	1174	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.28193832599119	5003	1316	3	3
+ACAAGCTATATGGAAG-1	SeuratProject	3050	1545		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.0655737704918	5083	1567	4	4
+ACAAGGACAAGAGGTT-1	SeuratProject	17087	5105	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.59337508047053	6559	2947	3	3
+ACAAGTAATTGTAAGG-1	SeuratProject	2441	1377	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.96435886931585	5011	1463	4	4
+ACAATGAATACGGAGA-1	SeuratProject	2705	1448	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.24768946395564	5308	1508	5	5
+ACAATTTAGGAGGCTC-1	SeuratProject	5473	2280	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.09775260369085	5592	2262	4	4
+ACACATGATCAAATCT-1	SeuratProject	1205	743	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.46887966804979	4539	1184	0	0
+ACACCTTAAGTAGGGC-1	SeuratProject	27795	5641		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.92966360856269	6000	2219	2	2
+ACACGGGAACTTAGGG-1	SeuratProject	22603	5513	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.55638632039995	5967	2461	0	0
+ACACTGATCAAGGTGT-1	SeuratProject	16831	4294	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.30425999643515	6165	2360	2	2
+ACAGAACTGAGAACAA-1	SeuratProject	3322	1737	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.9367850692354	4973	1749	0	0
+ACAGGTGGAGGTGAGG-1	SeuratProject	8552	3345		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.94059869036483	6676	3301	0	0
+ACATCAGCTGGGACGC-1	SeuratProject	1464	820	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.81147540983607	4616	1179	4	4
+ACATCGATCGTTTACC-1	SeuratProject	16696	4637	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.68423574508864	6286	2732	6	6
+ACATCGCAATATTCGG-1	SeuratProject	4350	2106	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.26436781609195	5076	2088	3	3
+ACATCGGTCAGCCGCG-1	SeuratProject	4264	1918	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.02063789868668	5166	1900	0	0
+ACATGCTTACGGCAGC-1	SeuratProject	1221	741		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.22440622440622	4509	1192	4	4
+ACCAACGCTTATTTAT-1	SeuratProject	18370	4354	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.6537833424061	5929	2085	2	2
+ACCAATATGCAAGTTA-1	SeuratProject	25480	5829	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.01334379905808	6010	2432	2	2
+ACCACAAGTTTCTATC-1	SeuratProject	29827	6006		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.47980018104402	6120	2448	2	2
+ACCACGTGCAGCTATA-1	SeuratProject	35730	6487	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.08368317940106	6086	2368	2	2
+ACCATCGTATATGGTA-1	SeuratProject	4102	1827		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.24037055095076	5150	1819	1	1
+ACCCACCTACATGCTC-1	SeuratProject	3086	1437	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.71224886584576	5037	1466	3	3
+ACCCGAGCGAAATTAC-1	SeuratProject	1922	1109	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.48074921956296	4823	1323	5	5
+ACCCGGAAACTCCCAG-1	SeuratProject	38165	7397	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.35412026726058	6317	2824	6	6
+ACCCGGTTACACTTCC-1	SeuratProject	4961	2006		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.09090909090909	5376	1985	1	1
+ACCCGTGTCATCAGTA-1	SeuratProject	10066	3379	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.71587522352474	6623	3188	1	1
+ACCCTATGCCATATCG-1	SeuratProject	2886	1471		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.93485793485794	5145	1512	5	5
+ACCGAAGAGTCTGGTT-1	SeuratProject	4798	2052		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.60733639016257	5305	2037	0	0
+ACCGACACATCTCCCA-1	SeuratProject	39893	7439	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.71797057127817	6324	2882	2	2
+ACCGCTAGTCATTGGT-1	SeuratProject	2663	1587	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.30867442733759	5164	1660	3	3
+ACCGGTCAGGTACACC-1	SeuratProject	1231	769		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.84890333062551	4534	1197	0	0
+ACCGTGACCACGTGGG-1	SeuratProject	3317	1591		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.80826047633404	5039	1603	1	1
+ACCTAAGTACCTTTCA-1	SeuratProject	4169	2058		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.34156872151595	5087	2043	5	5
+ACCTACTATAAATCTA-1	SeuratProject	20287	5307	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.15729284763642	5853	2433	2	2
+ACCTCGAACTTATGCT-1	SeuratProject	1179	733		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.54877014418999	4538	1184	0	0
+ACGAAATGGGCGGCAC-1	SeuratProject	1928	1018	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.83195020746888	4855	1221	4	4
+ACGACTGGTCATACTC-1	SeuratProject	3567	1732	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.68152509111298	5032	1740	5	5
+ACGAGGATACCACTCT-1	SeuratProject	1969	1082		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.80548501777552	4862	1291	0	0
+ACGAGGTTTACAACGT-1	SeuratProject	2360	1198		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.47457627118644	5090	1310	0	0
+ACGATACCTATCCTGA-1	SeuratProject	2504	1351		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.82907348242811	5133	1443	4	4
+ACGATGCATATGTTAT-1	SeuratProject	4761	1968		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.24175593362739	5317	1955	1	1
+ACGCAAACTAATAGAT-1	SeuratProject	36555	6808	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.6216659827657	6234	2563	2	2
+ACGCCGCTAGACGACC-1	SeuratProject	18923	4460	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.38133488347514	5778	1971	2	2
+ACGCGAAGTCAGACGA-1	SeuratProject	12305	3754		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.48435595286469	6774	3187	1	1
+ACGCGCTACACAGGGT-1	SeuratProject	3637	1619		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.12840252955733	5124	1613	0	0
+ACGCGTTTCTTAAGAG-1	SeuratProject	24804	6061	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.67698758264796	6164	2733	4	4
+ACGCTGTGAGGCGTAG-1	SeuratProject	2745	1384	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.37887067395264	5260	1428	4	4
+ACGGACGCAGCGACAA-1	SeuratProject	2520	1248		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.12698412698413	5008	1356	4	4
+ACGGGAGTGTCGGCCC-1	SeuratProject	1833	1064	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.76486633933442	4806	1305	0	0
+ACGTAGATTGCTGATG-1	SeuratProject	19191	5204	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.26809441925903	5881	2443	6	6
+ACGTTAATGTCGAAGA-1	SeuratProject	21884	5782	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.44087004203985	5941	2597	6	6
+ACGTTAGATTTGCCCG-1	SeuratProject	6532	2466		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.45070422535211	6161	2450	1	1
+ACGTTCGTTCAGGAAA-1	SeuratProject	9698	3348		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.46545679521551	6596	3214	1	1
+ACGTTGTCGTTGAAAG-1	SeuratProject	3120	1799	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5	4802	1810	3	3
+ACTACATCCCGACAAG-1	SeuratProject	1086	678	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.2744014732965	4549	1172	0	0
+ACTACCAGCTCTCTGG-1	SeuratProject	26021	5732		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.47169593789631	6023	2376	2	2
+ACTACCATCCGAGGGC-1	SeuratProject	4688	2010	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.99402730375427	5222	1996	3	3
+ACTACGCGTTAGAATT-1	SeuratProject	22772	5388	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.35113297031442	5889	2261	2	2
+ACTATTTCCGGGCCCA-1	SeuratProject	4917	2259		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.93512304250559	5309	2238	6	6
+ACTCCAATATCATCAT-1	SeuratProject	1524	909	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.71128608923885	4665	1254	5	5
+ACTCCCTAGAATAGTA-1	SeuratProject	22263	6015	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.79104343529623	5970	2692	6	6
+ACTCGTAACCCGTCCT-1	SeuratProject	2379	1296		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.76754939050021	5096	1387	0	0
+ACTCTAAACCTGGGAT-1	SeuratProject	12329	4276		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.77394760321194	6965	3686	4	4
+ACTCTTGTATAGTAAC-1	SeuratProject	35125	6842	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.57224199288256	6470	2932	2	2
+ACTGCTCGGAAGGATG-1	SeuratProject	1412	806		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.64872521246459	4620	1184	0	0
+ACTGTAGCACTTTGGA-1	SeuratProject	13050	3558		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.38697318007663	6667	2832	1	1
+ACTTGACTCCCTCTTT-1	SeuratProject	21481	4831	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.31809506075136	5780	1974	2	2
+ACTTGGGACCCGGTGG-1	SeuratProject	18386	5569	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.25715218100729	6174	2962	0	0
+ACTTTGACTGCATCCT-1	SeuratProject	1762	978	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.39954597048808	4749	1225	4	4
+ACTTTGGTCGTGCTCC-1	SeuratProject	692	476	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.78034682080925	4311	1158	0	0
+AGAAGGTACACTTCAC-1	SeuratProject	1782	1024		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40740740740741	4725	1249	0	0
+AGAAGGTTGCCGAATT-1	SeuratProject	4929	2049		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.74416717386894	5358	2036	1	1
+AGAAGTGATTCGTGAT-1	SeuratProject	4197	1992	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.50321658327377	5120	1979	5	5
+AGAATAAATCTTCAGG-1	SeuratProject	4413	2098		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.91139814185361	5167	2084	4	4
+AGACAGCTCAGAATCC-1	SeuratProject	5969	2203		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.4551851231362	5885	2166	3	3
+AGACCAAACCACACCT-1	SeuratProject	2119	1099		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36196319018405	4939	1250	0	0
+AGACCATGGGATACAA-1	SeuratProject	10040	3365		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.76693227091633	6755	3128	3	3
+AGACCCACCGCTGATC-1	SeuratProject	25981	6180	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.09052769331434	6164	2724	6	6
+AGACCCGCCCTCCTCG-1	SeuratProject	7480	2620		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.22459893048128	6408	2594	1	1
+AGACGACGATGCCGCT-1	SeuratProject	5801	2644		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.2577141872091	5768	2612	5	5
+AGACTAGCCTTCCAGA-1	SeuratProject	34355	6832	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.98617377383205	6206	2707	6	6
+AGACTGTTACCGGGTC-1	SeuratProject	11510	3707		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.6637706342311	6804	3326	1	1
+AGAGAAGGAGTACAAT-1	SeuratProject	8863	3289	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.95024258151867	6675	3220	5	5
+AGAGATCTCTAAAGCG-1	SeuratProject	9477	3514		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.19637015933312	6731	3372	3	3
+AGAGCAGTTATGAGAC-1	SeuratProject	8576	3088	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.32882462686567	6724	2991	3	3
+AGAGCGTACAAGCTCG-1	SeuratProject	5129	2022		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.2472216806395	5439	2005	3	3
+AGATACCGGTGTTCAC-1	SeuratProject	7472	2723	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.96306209850107	6437	2703	1	1
+AGATGCAAGACGTGCA-1	SeuratProject	1709	972	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.24517261556466	4752	1243	0	0
+AGATTATAGGACGTTT-1	SeuratProject	13404	3901		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.52730528200537	6713	3068	2	2
+AGATTCACAACCGATA-1	SeuratProject	2042	1124		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.10871694417238	4922	1306	0	0
+AGCAACCGAAAGTAAT-1	SeuratProject	1612	937	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.95533498759305	4677	1242	0	0
+AGCACTTAAGGACGCC-1	SeuratProject	8741	2959	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.35613774167715	6628	2901	3	3
+AGCATCATTTCGAAAG-1	SeuratProject	2640	1401	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.32575757575758	5268	1454	0	0
+AGCCAAGCTTTGTGTC-1	SeuratProject	25790	5870	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.4823575029081	6091	2531	2	2
+AGCCCATACATGTAAG-1	SeuratProject	2229	1100	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.46612830865859	5035	1246	1	1
+AGCCCGCAACAAGCAG-1	SeuratProject	12880	3982	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.15683229813665	6834	3306	2	2
+AGCCCGGTAGCCTGTA-1	SeuratProject	34840	6757	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.29678530424799	6394	2763	2	2
+AGCCGTGGCTAAATGT-1	SeuratProject	2392	1349		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.14214046822743	5103	1435	0	0
+AGCCTTAAAGCGGAAG-1	SeuratProject	4757	2161		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.12634013033424	5248	2140	3	3
+AGCGACAGGAACGGTC-1	SeuratProject	8245	3302		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.34202546998181	6671	3274	5	5
+AGCGACCAACGATATT-1	SeuratProject	15405	4292	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.65920155793574	6471	2839	1	1
+AGCGAGACGTGAAGGC-1	SeuratProject	1233	714	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.67802108678021	4587	1172	0	0
+AGCGTGGTATTCTACT-1	SeuratProject	25222	5397	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.96614067084291	5993	2255	2	2
+AGCTAACAAGCAATGT-1	SeuratProject	4939	2359	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.21927515691435	5305	2344	5	5
+AGCTCTTTACTCAGTT-1	SeuratProject	5648	2272		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.64872521246459	5691	2259	1	1
+AGCTGTAACCTCAATC-1	SeuratProject	3805	1930	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.27989487516426	5085	1923	5	5
+AGGAAGCTGTCCGCCG-1	SeuratProject	32209	6465	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.94780961842963	6244	2728	2	2
+AGGACGACCCATTAGA-1	SeuratProject	4809	2059		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.00582241630277	5323	2046	1	1
+AGGATAAAGTCGGGAT-1	SeuratProject	22614	5518	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.5471831608738	5921	2419	6	6
+AGGCAGGGAGCGTACT-1	SeuratProject	29970	6351	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.79813146479813	6282	2746	2	2
+AGGCCACCCGTTATGA-1	SeuratProject	29064	5783	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.95265620699147	6001	2239	1	1
+AGGCCCTAGAACGCCA-1	SeuratProject	1756	963	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.77676537585421	4752	1215	0	0
+AGGCGGTTTGTCCCGC-1	SeuratProject	977	625		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.49539406345957	4512	1175	0	0
+AGGCTATGGTTAGCTT-1	SeuratProject	7885	2931	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.04946100190235	6584	2901	3	3
+AGGCTTCCCGAAGAAG-1	SeuratProject	11706	4014		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.08286348880916	6893	3585	0	0
+AGGCTTGCTAGACACC-1	SeuratProject	2162	1123	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.49306197964847	4944	1292	3	3
+AGGGCGAGCAGCTGAT-1	SeuratProject	1852	985	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.58531317494601	4839	1220	0	0
+AGGGTCAGAGCACTCG-1	SeuratProject	1352	862		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.10059171597633	4514	1249	5	5
+AGGGTGCCGTTCTTTA-1	SeuratProject	889	599	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.89876265466817	4400	1203	5	5
+AGGGTGGATAGTGCAT-1	SeuratProject	20986	5590	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.16401410464119	5832	2439	4	4
+AGGGTTCAGACGGTCC-1	SeuratProject	3726	2120		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.01288244766506	4955	2109	5	5
+AGGTAGATCGAGATAT-1	SeuratProject	11185	3890		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.66696468484578	6848	3538	5	5
+AGGTAGGTACAAAGCT-1	SeuratProject	3204	1455	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.80024968789014	5086	1470	0	0
+AGGTCAGGTGAGAGTG-1	SeuratProject	1511	852		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.06684315023164	4679	1207	0	0
+AGGTGGTGACCTTCGC-1	SeuratProject	20766	5646	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.67427525763267	5923	2613	6	6
+AGGTGTATCGCCATGA-1	SeuratProject	44885	7406	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.30567004567227	5945	2330	1	1
+AGGTTTCACACACCTT-1	SeuratProject	17643	4852	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.36756787394434	6087	2588	6	6
+AGTACGGCCCGTATCG-1	SeuratProject	2400	1253	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.41666666666667	5109	1356	0	0
+AGTATACACAGCGACA-1	SeuratProject	26456	6184	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.25234351375869	6162	2672	2	2
+AGTATGCTGGAGACCA-1	SeuratProject	1407	862	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.52878464818763	4549	1221	0	0
+AGTATTTGGCACGACC-1	SeuratProject	8301	2977	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.97494277797856	6575	2936	6	6
+AGTCAACACCACCATC-1	SeuratProject	5173	2099		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.699014111734	5467	2092	1	1
+AGTCGGCCCAAACGAC-1	SeuratProject	35463	6739		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.47049037024504	6314	2683	2	2
+AGTCGGCTCAACTTTA-1	SeuratProject	2288	1225	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29370629370629	5065	1345	0	0
+AGTCGTGGGCATTACG-1	SeuratProject	3011	1629	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.15144470275656	5026	1653	5	5
+AGTCTCACAAGACTAC-1	SeuratProject	4615	2174	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.13217768147346	5223	2155	5	5
+AGTCTTCTCCTCAAAT-1	SeuratProject	22529	5273	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.93830174441831	5913	2287	2	2
+AGTGACCTACTTTACG-1	SeuratProject	4361	1843	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.12634716808072	5214	1836	1	1
+AGTGCGTAGCTCGTAA-1	SeuratProject	4639	2032		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.43694761802112	5260	2018	1	1
+AGTGGCTCCGTCGGCC-1	SeuratProject	2102	1139	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.18173168411037	4937	1324	4	4
+AGTGGTTGCGTATAGG-1	SeuratProject	1799	1018	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.5047248471373	4747	1263	0	0
+AGTGTGGTCTATTGTG-1	SeuratProject	12977	3890	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.77352238575942	6910	3099	3	3
+AGTTAAACACTTGCGA-1	SeuratProject	23621	5780		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.02184496846027	6069	2618	1	1
+AGTTAAGTCAACCGCT-1	SeuratProject	2808	1529	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.30626780626781	5236	1571	0	0
+AGTTACCCTTAAGACT-1	SeuratProject	6494	2479		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.74468740375731	6157	2450	3	3
+AGTTACCGCACATGGT-1	SeuratProject	10025	3111	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.11471321695761	6727	2868	3	3
+AGTTCCTACAGAATTA-1	SeuratProject	25822	5564	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.96220277282937	6010	2343	2	2
+AGTTCCTATTTATGTT-1	SeuratProject	11589	3820	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.49848994736388	6846	3411	6	6
+AGTTGACGGTCCTTGC-1	SeuratProject	26188	5834		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.88238888040324	6053	2466	2	2
+AGTTTGGCCAGACCTA-1	SeuratProject	4690	2281		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.75479744136461	5225	2257	5	5
+ATAAAGGCTCGGTCGT-1	SeuratProject	10723	3103	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.82001305604775	6630	2847	1	1
+ATAAGTTACCGCGACG-1	SeuratProject	6177	2424		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.61631860126275	5997	2404	1	1
+ATAATAGCTGTTGAAT-1	SeuratProject	29956	6319	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.28695419949259	6194	2660	2	2
+ATACGGAACGTCGTTT-1	SeuratProject	1436	842	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.84401114206128	4615	1213	0	0
+ATACGGTGAAGATGCA-1	SeuratProject	1437	858		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.81976339596381	4524	1229	4	4
+ATACGTACTTAGCCAC-1	SeuratProject	18281	4713	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5324106996335	5924	2319	2	2
+ATACTTGTTCTCGAGC-1	SeuratProject	17014	4868	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.0672387445633	6214	2777	4	4
+ATAGACGAAGAGAAAG-1	SeuratProject	5615	2209		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.74176313446126	5686	2202	1	1
+ATAGGCGGCTATAGAA-1	SeuratProject	4095	1752		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.84004884004884	5157	1735	1	1
+ATATACATGTATGGTA-1	SeuratProject	1430	824		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.06293706293706	4618	1193	0	0
+ATATCTTAGGGCCTTC-1	SeuratProject	16090	4819	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.32753262896209	6468	3051	6	6
+ATATTCAGTTAAACCT-1	SeuratProject	5047	2201		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.64810778680404	5386	2185	1	1
+ATATTCCACATAGTGA-1	SeuratProject	41387	7214	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.60804117234881	6210	2617	2	2
+ATCAAACGAAGGTTTG-1	SeuratProject	5595	2613	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.2171581769437	5652	2600	5	5
+ATCACGTGCTAATTAA-1	SeuratProject	17755	5083		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.4719797240214	6146	2728	5	5
+ATCAGACGGCACGCCG-1	SeuratProject	4826	2093		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.27310401989225	5311	2073	1	1
+ATCATAGATCGACGAG-1	SeuratProject	2666	1392		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.28882220555139	5287	1452	0	0
+ATCCAACGCAGTCATA-1	SeuratProject	36378	6747		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.96789268239046	6205	2553	2	2
+ATCCAGGATTCGTGAA-1	SeuratProject	5932	2337		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.4794335805799	5881	2319	1	1
+ATCCCATCCACAGCGC-1	SeuratProject	881	556	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51305334846765	4436	1150	0	0
+ATCCTACCTAAGCTCT-1	SeuratProject	4383	1840		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.10335386721424	5223	1826	1	1
+ATCCTGCGTGGAATGG-1	SeuratProject	4337	1821		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49965413880563	5213	1805	1	1
+ATCGGAGACAGACGGC-1	SeuratProject	27180	6445	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.08020603384842	6279	2853	6	6
+ATCGGTTACCTAGTAA-1	SeuratProject	1946	1167	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.6289825282631	4794	1427	4	4
+ATCGTATTCCGAGAAC-1	SeuratProject	10696	3826		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.1320119670905	6886	3587	4	4
+ATCTAATATCCTACGG-1	SeuratProject	37001	7182	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.43493419096781	6281	2854	6	6
+ATCTGACATGGAAGGA-1	SeuratProject	2786	1418		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.50179468772434	5247	1463	1	1
+ATCTGCTGTTATCGCC-1	SeuratProject	21158	5498	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.34152566405142	5969	2527	2	2
+ATCTGGGCTGTTCTTG-1	SeuratProject	35099	7150	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.48451522835409	6460	3048	2	2
+ATCTTGACCTGCAACG-1	SeuratProject	35356	6269		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.45683900893766	5996	2209	2	2
+ATGAAGTGGACCCAGC-1	SeuratProject	6775	2868		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.83763837638376	6294	2840	4	4
+ATGACGCGTTCTATCC-1	SeuratProject	3543	1848	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.50381033022862	4999	1854	5	5
+ATGACTATCAGCTGTG-1	SeuratProject	6349	2447		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.70231532524807	6062	2420	1	1
+ATGAGGAGTGTTAATC-1	SeuratProject	45640	7201	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.31726555652936	5971	2257	2	2
+ATGATGCAATGGTACA-1	SeuratProject	7407	2599	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.11394626704469	6408	2583	1	1
+ATGCACGCGCTGTTCA-1	SeuratProject	2177	1152		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.33899862195682	4981	1284	0	0
+ATGCACTACCGCATTG-1	SeuratProject	34388	6388	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.72327556124229	6112	2397	2	2
+ATGCGACAGTCCCATT-1	SeuratProject	35483	6527	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36127159484824	6291	2609	2	2
+ATGCTCAGTGTTGCAT-1	SeuratProject	4874	2067	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51456709068527	5314	2036	3	3
+ATGGAAATTTAAGGAG-1	SeuratProject	2583	1318		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.23964382500968	5210	1392	0	0
+ATGGAGCAGGCCGTGA-1	SeuratProject	26995	5829	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.44563808112613	6044	2416	1	1
+ATGGCAGCATTACGAT-1	SeuratProject	861	596	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.29152148664344	4353	1200	0	0
+ATGGCAGCCGAGAAAC-1	SeuratProject	1466	833		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.50341064120055	4642	1186	4	4
+ATGGGACCTGCTGAAC-1	SeuratProject	2520	1427	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.12698412698413	5182	1526	5	5
+ATGGTATTTACTGATT-1	SeuratProject	1179	702		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.9058524173028	4569	1159	0	0
+ATGTCTTGTTTGACTC-1	SeuratProject	3879	1891		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.54807940190771	5055	1872	4	4
+ATGTGAAAGCCTAATG-1	SeuratProject	1863	1024	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.64197530864197	4827	1244	0	0
+ATGTGCATCCGACGCA-1	SeuratProject	16225	4323	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.75038520801233	6263	2613	1	1
+ATGTGGACATCTTGAT-1	SeuratProject	25080	6073	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.29425837320574	6214	2769	2	2
+ATGTTCGTCGACCCAC-1	SeuratProject	1475	825		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.42372881355932	4639	1178	4	4
+ATGTTGTAGTCTGTTT-1	SeuratProject	21934	5359	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.93298076046321	5863	2295	2	2
+ATTACGCGCTGGCAGG-1	SeuratProject	1731	989		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.7631426920855	4719	1274	4	4
+ATTAGGCGATGCTTTC-1	SeuratProject	25159	6076	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.03199650224572	6129	2692	6	6
+ATTATCGGAATGTACG-1	SeuratProject	6512	2697	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.18857493857494	6179	2676	0	0
+ATTATGAGACCCAATT-1	SeuratProject	1369	789		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.05770635500365	4621	1183	0	0
+ATTATTATGTCCGTCA-1	SeuratProject	2835	1455		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.0652557319224	5180	1513	5	5
+ATTCAGTAGCAGGGTC-1	SeuratProject	2541	1318	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.92640692640693	5129	1420	3	3
+ATTCCCACATAAACAA-1	SeuratProject	2866	1418	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.30425680390789	5137	1455	3	3
+ATTCCTCCGCCAGTGC-1	SeuratProject	24534	5640		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.95500122279286	6065	2462	2	2
+ATTGATCACCACATTT-1	SeuratProject	1487	881		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.8507061197041	4617	1223	0	0
+ATTGCTGCTCCTCCAT-1	SeuratProject	4478	1925		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.0218847699866	5231	1908	1	1
+ATTGGTAGGATCCGCT-1	SeuratProject	10453	3507		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.3573136898498	6822	3223	3	3
+ATTTCCGGGTTCTGCG-1	SeuratProject	12195	3934		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.78966789667897	6826	3420	5	5
+ATTTGCGCGAGTAGCT-1	SeuratProject	3673	1873	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.7990743261639	5012	1868	5	5
+CAAACGAGTATCGCAG-1	SeuratProject	9246	3196		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.2463768115942	6645	3120	1	1
+CAAAGATTATTGGGCC-1	SeuratProject	2155	1210	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.82134570765661	4963	1366	5	5
+CAAATCTCTCACAAGG-1	SeuratProject	1324	763	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.66767371601208	4609	1175	0	0
+CAACGCGATGAGCCAA-1	SeuratProject	6435	2821	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.28360528360528	6144	2793	0	0
+CAACTGCTCATCCGAT-1	SeuratProject	13591	3998	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57251122066073	6742	3123	1	1
+CAAGAGGGCGGAGTAC-1	SeuratProject	20049	4785	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.79335627712105	5763	2032	2	2
+CAAGCAACGTCGGAGT-1	SeuratProject	17029	4431	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.54841740560221	6109	2408	1	1
+CAAGGATCGCATGTTC-1	SeuratProject	14962	4506	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.95762598583077	6624	3148	6	6
+CAAGTAAGTGATAGAC-1	SeuratProject	9929	3627	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.53217846711653	6680	3473	0	0
+CAATACGCTCTGAGGC-1	SeuratProject	1857	1057	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.63920301561659	4796	1307	4	4
+CAATATTCTTGACCTA-1	SeuratProject	10217	3497		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.15640599001664	6673	3326	1	1
+CAATTTCGTATAAGGG-1	SeuratProject	20156	4979	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.76662036118277	5740	2140	6	6
+CACAATGAGCTGCTAT-1	SeuratProject	10339	3374	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.68933165683335	6675	3158	1	1
+CACACAGGGATAGATT-1	SeuratProject	5093	2129	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.24386412723346	5401	2102	3	3
+CACAGAGACGAGGACG-1	SeuratProject	823	540	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.6269744835966	4403	1150	0	0
+CACAGGGCCGTTGTCA-1	SeuratProject	21404	5158		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.79256213791814	5764	2149	1	1
+CACATATTAGCAGGAT-1	SeuratProject	25583	5636	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.23851776570379	6022	2336	2	2
+CACATCGTGCACGCGC-1	SeuratProject	3075	1520		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.16260162601626	5051	1556	5	5
+CACATGATTCAGCAAC-1	SeuratProject	13861	4183	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.47860904696631	6772	3255	6	6
+CACCAGTCAGCATGCA-1	SeuratProject	1028	651	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56031128404669	4525	1160	0	0
+CACCCGGTTTGTGACT-1	SeuratProject	10718	3735		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.8499720097033	6789	3498	0	0
+CACCGCCAGAAGGTTT-1	SeuratProject	14609	4606	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.28379765897734	6778	3389	6	6
+CACCGGTAGAGACATT-1	SeuratProject	1113	672		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.88319856244385	4573	1150	0	0
+CACCGTTAGGGATCAC-1	SeuratProject	10931	3806		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.63534900741012	6836	3544	5	5
+CACCGTTGCGCGATAT-1	SeuratProject	3906	1945	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.27547363031234	5072	1934	5	5
+CACGAAAGTTAGTCCC-1	SeuratProject	2025	1042	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.48148148148148	4933	1228	0	0
+CACGGGATTGAGGGTT-1	SeuratProject	3230	1582	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.72755417956656	5040	1597	4	4
+CACGTCGGCAACCTCT-1	SeuratProject	11990	4100		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.36196830692244	6905	3614	5	5
+CACTCCTATGTAAGAT-1	SeuratProject	6007	2591		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29265856500749	5927	2580	5	5
+CACTCGAGCTGAACAA-1	SeuratProject	39363	6808	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.54835759469553	6116	2407	2	2
+CACTCGGTTAGGAGGA-1	SeuratProject	2094	1085		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.88538681948424	4961	1264	0	0
+CACTCTCAAGCATCGA-1	SeuratProject	15006	5121	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	1.33280021324803	6915	3780	2	2
+CACTGACGATTGTGGA-1	SeuratProject	27108	6201		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.24568393094289	6205	2731	2	2
+CAGACACCGATCGCTG-1	SeuratProject	19602	4401	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.8408325681053	5764	1855	2	2
+CAGACGAACCTGATAC-1	SeuratProject	15887	3950	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.62340278214893	6283	2378	2	2
+CAGAGCATGAGCTTGC-1	SeuratProject	31097	6562	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.08438113001254	6356	2865	2	2
+CAGAGGCGATGCATGA-1	SeuratProject	21009	5412	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.04459993336189	5847	2421	6	6
+CAGATATGAAGATGAC-1	SeuratProject	780	510		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.07692307692308	4348	1152	0	0
+CAGATCCTGGTTTGAA-1	SeuratProject	1552	927	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.53865979381443	4647	1231	0	0
+CAGCGATTCCCTTCAA-1	SeuratProject	5334	2236		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.57405324334458	5533	2222	0	0
+CAGCGCCAACACGATA-1	SeuratProject	3805	1825		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.46254927726675	5085	1812	4	4
+CAGCTCTGGGCTCACT-1	SeuratProject	3665	1827	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.26603001364257	5028	1821	4	4
+CAGCTTAGTAGGTAGC-1	SeuratProject	1578	875	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.87198986058302	4687	1190	4	4
+CAGGCCAGTACCACCT-1	SeuratProject	1210	776		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.42148760330578	4503	1249	4	4
+CAGGCCGTTTGGGTGT-1	SeuratProject	39110	6959		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.76578880081821	6195	2538	2	2
+CAGGCGCACGGTGGTC-1	SeuratProject	1968	1098	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.48577235772358	4845	1305	5	5
+CAGGCGCCATGCTAGG-1	SeuratProject	32859	6452	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.76402203353723	6158	2551	2	2
+CAGGGAGATAGGCCAG-1	SeuratProject	2051	1174		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.67869332033155	4819	1380	4	4
+CAGTAATCCCTCCCAG-1	SeuratProject	17153	4826	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.61691832332537	6460	2697	3	3
+CAGTCTGTATACTGGG-1	SeuratProject	16852	4801	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.25136482316639	6254	2801	0	0
+CAGTTCAAATTGACAC-1	SeuratProject	38747	7028	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.19782176684647	6202	2634	2	2
+CAGTTCCGCGGGTCGA-1	SeuratProject	6214	2478	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.88767299645961	6029	2462	3	3
+CAGTTCGAGGACCCGA-1	SeuratProject	32620	6989	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	1.68914776210914	6576	3161	2	2
+CATAAGAAGCTTGGCT-1	SeuratProject	40963	7205	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.13751434221127	6102	2542	2	2
+CATACACAAAGTCAGC-1	SeuratProject	2626	1362		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.80654988575781	5269	1430	0	0
+CATACACGGTTCCCAC-1	SeuratProject	24387	5278	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.92885553778653	5981	2191	2	2
+CATACTATGTAATTGT-1	SeuratProject	6276	2368	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.289356277884	6034	2345	1	1
+CATACTTCTTTCTCCG-1	SeuratProject	19444	5166	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.05266406089282	5922	2466	2	2
+CATAGCCGCCCGGGAT-1	SeuratProject	3287	1575	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.54882871919684	4966	1592	3	3
+CATAGCGTTGCCCACC-1	SeuratProject	4292	1936		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.03448275862069	5180	1926	1	1
+CATAGGGACACTTGTG-1	SeuratProject	993	650	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.86908358509567	4493	1208	4	4
+CATAGTCCACAAGAAC-1	SeuratProject	2435	1307	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.1170431211499	5129	1398	5	5
+CATATGTCAGGCTACG-1	SeuratProject	1781	1049	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.62549129702414	4724	1279	0	0
+CATCCAATATAGTTTG-1	SeuratProject	718	491		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.6100278551532	4314	1172	0	0
+CATCGTCCGGTTACTA-1	SeuratProject	7150	2446		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.58741258741259	6377	2422	3	3
+CATCTGCAGGATCATT-1	SeuratProject	13932	5180	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	0.947459086993971	7127	4176	4	4
+CATGAGTCCATCACGG-1	SeuratProject	5092	2535	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.22388059701492	5327	2500	3	3
+CATGCCAACTCGCAAA-1	SeuratProject	1255	745	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.88844621513944	4585	1175	0	0
+CATGCGTTGAGAGGAG-1	SeuratProject	15651	4888		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.78250591016548	6673	3338	2	2
+CATGGTAAGTAGCGTT-1	SeuratProject	28836	6020	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.23304203079484	6187	2531	1	1
+CATGGTATTAGTTTGT-1	SeuratProject	1651	948		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.78376741368867	4680	1244	0	0
+CATTATGCTTGTTGTG-1	SeuratProject	28797	5724	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.98357467791784	5964	2208	2	2
+CATTGCGAAATGGGCG-1	SeuratProject	3250	1590	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.09230769230769	5028	1603	4	4
+CATTTGAGTGGTACGT-1	SeuratProject	13375	3950	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.17009345794393	6755	3140	1	1
+CCAACCTTATGTAACT-1	SeuratProject	1839	1082		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.70038064165307	4770	1335	5	5
+CCAAGAAAGTGGGCGA-1	SeuratProject	17277	4287		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49817676679979	6080	2298	2	2
+CCAATAGATTTCATCT-1	SeuratProject	6754	2769		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.80515250222091	6274	2740	4	4
+CCAATGTCACAGCAAG-1	SeuratProject	5899	2275	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.0522122393626	5872	2267	1	1
+CCACACTGAGATATTA-1	SeuratProject	17037	4658	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.68762106004578	6181	2578	6	6
+CCACCAACTTTACTGT-1	SeuratProject	11143	3892		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.3935205958898	6869	3581	0	0
+CCACGGAGCCATAAGA-1	SeuratProject	3266	1628	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.54194733619106	4999	1634	0	0
+CCACTGGTGGCTGGTT-1	SeuratProject	5853	2482		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.25217837006663	5829	2462	4	4
+CCAGAAAGCAACTCAT-1	SeuratProject	11717	3986		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.65844499445251	6898	3557	5	5
+CCAGAGACAAAGCCGG-1	SeuratProject	5781	2282	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.49005362394049	5756	2259	3	3
+CCAGCCTGGACCAATA-1	SeuratProject	30409	6379	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.49449176230721	6186	2646	6	6
+CCAGCTGATGGTACTT-1	SeuratProject	21221	5280	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.55011545167523	5791	2279	1	1
+CCAGCTTCCGCCCGCA-1	SeuratProject	4750	2043	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.83157894736842	5264	2022	3	3
+CCAGGCGAGATGGTCT-1	SeuratProject	1719	989		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.31588132635253	4571	1270	4	4
+CCAGGGACGTGGCCTC-1	SeuratProject	12495	3716		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.85954381752701	6726	3106	1	1
+CCAGTGTACAGACCGA-1	SeuratProject	672	460		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.7797619047619	4317	1179	0	0
+CCATAACCTGTGCAGT-1	SeuratProject	1971	1036		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.50887874175545	4865	1228	0	0
+CCATACTCGCCTCTCC-1	SeuratProject	3293	1721		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.98238688126329	4864	1740	4	4
+CCATGGCAAACGCTCA-1	SeuratProject	5838	2495		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.95032545392258	5817	2475	0	0
+CCATGGCCCTTGTACC-1	SeuratProject	1668	906	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.1726618705036	4735	1198	4	4
+CCATTTCTACCTATTA-1	SeuratProject	32427	6383	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.55934869090573	6198	2587	2	2
+CCCAATGAGATTTGCA-1	SeuratProject	3122	1522		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.71941063420884	5058	1548	0	0
+CCCAGTAAACTTGGGA-1	SeuratProject	1888	1040		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36228813559322	4832	1276	0	0
+CCCGAAGTTTCGCGAA-1	SeuratProject	1305	765		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.43295019157088	4590	1164	0	0
+CCCGGGTCGTTCAGGG-1	SeuratProject	37103	6996		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.47403174945422	6297	2727	2	2
+CCCGGTGGAAGAACCT-1	SeuratProject	3045	1489	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.17733990147783	5020	1520	3	3
+CCCGGTGTATCGGAAT-1	SeuratProject	2369	1258	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.2473617560152	5078	1356	0	0
+CCCGTAGCTGGGAAGA-1	SeuratProject	2835	1425		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.59435626102293	5240	1469	1	1
+CCCTATGTAGAGCAGA-1	SeuratProject	1013	644	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.48963474827246	4538	1188	0	0
+CCCTCAAGCTCTTAGT-1	SeuratProject	7623	2574		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.38554374918011	6492	2525	3	3
+CCCTCATCACAGAGTA-1	SeuratProject	2835	1614	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.68959435626102	5017	1680	4	4
+CCCTGACTAACAAATT-1	SeuratProject	4815	2306		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.18899273104881	5254	2284	4	4
+CCCTGGCTGTTCCTTC-1	SeuratProject	1883	1029		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.75358470525757	4827	1233	0	0
+CCCTTTGACAGGTCTT-1	SeuratProject	5675	2285	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.90308370044053	5702	2265	1	1
+CCGAACCTTCCCGGCC-1	SeuratProject	27271	6228	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.03831909354259	6231	2773	2	2
+CCGAAGTATATTGTTC-1	SeuratProject	8279	2910		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.82449571204252	6642	2842	3	3
+CCGACAAAGGGAGTGC-1	SeuratProject	2081	1080	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.85103315713599	4983	1278	4	4
+CCGACGGGCATGAGGT-1	SeuratProject	2252	1280	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.19360568383659	5000	1395	0	0
+CCGATTCGAGGGACCC-1	SeuratProject	23874	5851	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.09248554913295	6004	2552	6	6
+CCGCACGTGACCTCGG-1	SeuratProject	3937	1767	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.53441706883414	5082	1758	3	3
+CCGCCGGAACTTCTCG-1	SeuratProject	1330	806		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.81954887218045	4541	1188	0	0
+CCGCGATTTGGTAGGT-1	SeuratProject	1537	894	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.45803513337671	4664	1233	4	4
+CCGCGGAATGCGTCAC-1	SeuratProject	5186	2140		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.19514076359429	5472	2127	1	1
+CCGCGGGTACGAAGAA-1	SeuratProject	1963	1048	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.32246561385634	4882	1265	4	4
+CCGCGTAGGTAAGGGC-1	SeuratProject	1014	617	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.07297830374753	4498	1165	4	4
+CCGCTATCAGCACCAG-1	SeuratProject	29505	6154	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.75800711743772	6172	2610	2	2
+CCGCTTACCTCACTCT-1	SeuratProject	14575	4424		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.97598627787307	6747	3290	5	5
+CCGGAATGGTTTCAGT-1	SeuratProject	34779	6471		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.64950113574283	6139	2435	1	1
+CCGGGCTAAGAATTTC-1	SeuratProject	1108	646	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.74729241877256	4544	1130	0	0
+CCGGTTTGTAATTGTG-1	SeuratProject	2283	1215		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.45378887428822	5079	1338	0	0
+CCGTATCTCGTCGTAG-1	SeuratProject	2485	1378	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.43259557344064	5150	1452	0	0
+CCGTGTTAAATTCCAT-1	SeuratProject	11536	3960		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.19556171983356	6895	3573	5	5
+CCTAAATTAACGGTTC-1	SeuratProject	26678	6377	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.41105030362096	6265	2901	4	4
+CCTACATTCACAGACG-1	SeuratProject	5114	2486		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.89127884239343	5380	2468	5	5
+CCTATACCGTCCTGTC-1	SeuratProject	4917	2027		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.21639210900956	5373	2017	1	1
+CCTATATCGTGTCACG-1	SeuratProject	1039	659		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.50721847930703	4559	1179	0	0
+CCTATATTTGTCCTGG-1	SeuratProject	23113	5583	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.08259421105006	5961	2466	2	2
+CCTATGGCTCCTAGTG-1	SeuratProject	1180	709	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49152542372881	4594	1184	0	0
+CCTATGGGTTACCGTC-1	SeuratProject	12673	3876	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51416397064626	6766	3266	1	1
+CCTCCTGAGCCCACAT-1	SeuratProject	2435	1269	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.40451745379877	5130	1359	4	4
+CCTCGGATGCTACCTG-1	SeuratProject	1379	867	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.87382160986222	4482	1260	4	4
+CCTCGGTTTCCTTGCC-1	SeuratProject	1756	999		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.51708428246014	4744	1245	0	0
+CCTCTATCGATTAGCA-1	SeuratProject	2356	1317	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.60271646859083	5073	1417	0	0
+CCTCTCTCCCATCTAG-1	SeuratProject	8888	3131	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.41719171917192	6625	3054	1	1
+CCTGACAAACTCGCGC-1	SeuratProject	5180	2100		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.8030888030888	5449	2072	3	3
+CCTGAGAATAAATGCA-1	SeuratProject	1983	1120	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.06858295511851	4850	1310	0	0
+CCTGCCCGTTGTCTAG-1	SeuratProject	2320	1221	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.62931034482759	5034	1350	4	4
+CCTGGCTAGACCCGCC-1	SeuratProject	7363	2698		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.37118022545158	6420	2673	1	1
+CCTGTAAGACATGATA-1	SeuratProject	5155	2055		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.60232783705141	5480	2046	1	1
+CCTGTGAAACCGTAAC-1	SeuratProject	2712	1438		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.00147492625369	5309	1484	4	4
+CCTTCAGTTAAAGTGA-1	SeuratProject	30606	6334	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.51525844605633	6304	2731	2	2
+CCTTGTGAACGTGGTT-1	SeuratProject	8948	3349		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.72731336611533	6698	3286	2	2
+CCTTTAAGGGAGCACT-1	SeuratProject	26828	6109	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.36007156701953	6116	2597	2	2
+CCTTTGAATTATGGCT-1	SeuratProject	1818	1106		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.61056105610561	4693	1354	0	0
+CGAACCCGCATGCGTC-1	SeuratProject	6718	2480	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.15451027091396	6227	2467	1	1
+CGAAGACGGTGAGTGC-1	SeuratProject	1260	732	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.33333333333333	4570	1164	4	4
+CGAAGGGTTTCAGATT-1	SeuratProject	1159	703		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.76531492666091	4556	1153	0	0
+CGAAGTTGCTCTGTGT-1	SeuratProject	9184	3192	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.12108013937282	6702	3060	3	3
+CGAATGACGCATAATG-1	SeuratProject	26375	6350	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.0218009478673	6254	2872	2	2
+CGACAGTTCGCGTTAT-1	SeuratProject	4710	1982		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.25690021231422	5287	1971	1	1
+CGACCCTTAACGCCGG-1	SeuratProject	2486	1270		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.99919549477072	5146	1339	0	0
+CGACCGTTGGTATTCG-1	SeuratProject	2811	1423	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.96478121664888	5079	1483	3	3
+CGAGCACTTCAAGTTT-1	SeuratProject	5482	2190		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.32652316672747	5588	2165	3	3
+CGAGGCTAAATATGGC-1	SeuratProject	32701	6480	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.98443472676677	6202	2602	6	6
+CGAGGGTATCCAGGTG-1	SeuratProject	29106	5664	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.52401566687281	5938	2141	2	2
+CGAGTACTAAAGAGGA-1	SeuratProject	8068	3069	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.87506197322757	6572	3045	0	0
+CGAGTGAAGGTACCAG-1	SeuratProject	4601	2120	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.43338404694632	5219	2102	5	5
+CGATACCTCGCGGACA-1	SeuratProject	6641	2427	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.7575666315314	6185	2405	1	1
+CGATCCGACCCAGTGC-1	SeuratProject	7335	2596	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.87048398091343	6374	2580	1	1
+CGATCCTCGCAACATA-1	SeuratProject	2149	1225		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.189855746859	4937	1399	5	5
+CGATCTGTTGGAGGAC-1	SeuratProject	1648	955	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.94902912621359	4690	1245	0	0
+CGCAAACACGAGTTAC-1	SeuratProject	34826	6319	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.83460632860507	5989	2265	1	1
+CGCAATTAGGGTAATA-1	SeuratProject	10697	3409		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.50705805365991	6718	3163	1	1
+CGCAATTCTACAATAA-1	SeuratProject	5552	2321	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.6649855907781	5607	2290	3	3
+CGCATTAGCTAATAGG-1	SeuratProject	19587	5063		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.39909123398172	5745	2219	6	6
+CGCCAAGAAGCCGAGT-1	SeuratProject	14117	4791	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.45200821704328	7049	3754	3	3
+CGCCACAGGTCGCGAT-1	SeuratProject	1998	1084		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.25725725725726	4900	1280	0	0
+CGCCCAGCACGCCTAG-1	SeuratProject	15464	4594	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.31971029487843	6582	3061	6	6
+CGCCCTTGAAGGCTGA-1	SeuratProject	2360	1219	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.75423728813559	5030	1327	3	3
+CGCCGACTATTCGCTA-1	SeuratProject	2686	1367		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.71705137751303	5299	1419	0	0
+CGCCGCGTTCTGAACG-1	SeuratProject	6686	2802		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.03828896201017	6251	2779	0	0
+CGCCTCCCTCCTCTAT-1	SeuratProject	9635	3112	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.25116761805916	6592	2992	1	1
+CGCGACACTGCGCAGC-1	SeuratProject	8661	2783	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.90901743447639	6699	2695	3	3
+CGCGAGTCTGCCGGGT-1	SeuratProject	2708	1462	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.64992614475628	5322	1519	0	0
+CGCGCAAATGTCCAGA-1	SeuratProject	1890	1102	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.56613756613757	4809	1336	0	0
+CGCGCATGTTTGATTG-1	SeuratProject	5788	2212		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84796129923981	5777	2200	1	1
+CGCGTTCATGAAATAC-1	SeuratProject	29568	6375		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.02462121212121	6281	2790	2	2
+CGCTACGGGACATTTA-1	SeuratProject	10781	3382		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51498005750858	6695	3120	1	1
+CGCTGTGTGGATGTTG-1	SeuratProject	8439	3039		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.1289252281076	6585	2990	1	1
+CGCTTAGTATTGATAC-1	SeuratProject	23007	5456		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.84139609684009	5918	2342	2	2
+CGGAAAGAATCAAACG-1	SeuratProject	31679	6376	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.82537327567158	6123	2533	2	2
+CGGAACGTAAACATAG-1	SeuratProject	12075	4005		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.08695652173913	6920	3545	1	1
+CGGAGCATGGCGATCC-1	SeuratProject	20001	4906	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.34958252087396	5685	2031	1	1
+CGGATGAATGCTGTGA-1	SeuratProject	1077	688	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.26369545032498	4535	1190	0	0
+CGGATTCTGCCTTATG-1	SeuratProject	4930	2350		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.08519269776876	5305	2330	3	3
+CGGCCAGAGCGACCAT-1	SeuratProject	26329	6061	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.8447719244939	6194	2635	2	2
+CGGGAAGTACCGTGGC-1	SeuratProject	1262	767		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.13153724247227	4578	1199	0	0
+CGGGAATTTATGTAAA-1	SeuratProject	42736	7371	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.75776862598278	6254	2675	2	2
+CGGGATCAATGTAAGA-1	SeuratProject	41210	7348	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.1239990293618	6144	2623	6	6
+CGGTCCGTCGCAAGCC-1	SeuratProject	21840	5312	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.93589743589744	5944	2371	2	2
+CGGTGAAGACTAAAGT-1	SeuratProject	1836	932	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.20479302832244	4840	1176	0	0
+CGGTGCAGATAGAACG-1	SeuratProject	4948	1987	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.62974939369442	5387	1977	1	1
+CGGTGCGCGTTGGTCC-1	SeuratProject	10467	3707		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.28967230342983	6790	3505	5	5
+CGTAACTTCGACACTT-1	SeuratProject	26371	6283	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.25626635319101	6273	2839	2	2
+CGTATTAAGAGATCTA-1	SeuratProject	20908	5099		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.90606466424335	5780	2161	2	2
+CGTCAAGGCTATAAAT-1	SeuratProject	3245	1515	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.68721109399076	5012	1532	3	3
+CGTCACGTCCATTGGT-1	SeuratProject	11717	3798	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.78211146197832	6860	3359	6	6
+CGTCGGGTCTAAGCGC-1	SeuratProject	1699	1008	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.59211300765156	4699	1289	0	0
+CGTGACCAGTCCTCTG-1	SeuratProject	27651	6381	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.53878702397743	6269	2835	6	6
+CGTGGTACCCAAAGGC-1	SeuratProject	2155	1183	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.93503480278422	4982	1350	5	5
+CGTGTCTCGTTACGAC-1	SeuratProject	3956	1953	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.67644084934277	5065	1946	5	5
+CGTTATCATACTTCCA-1	SeuratProject	1331	775		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.33959429000751	4597	1150	0	0
+CGTTCAAGGAAACGGA-1	SeuratProject	7408	3198		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.09233261339093	6517	3158	0	0
+CGTTCAGACCCGCGAA-1	SeuratProject	27935	6065	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.70127080723107	6138	2573	2	2
+CGTTCATGGTGCGCGT-1	SeuratProject	1517	874		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.86684245220831	4639	1201	0	0
+CGTTGAGCGACCGTCG-1	SeuratProject	29053	5846	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.60699411420507	6024	2286	2	2
+CGTTGCCCGCGTGGGA-1	SeuratProject	11014	3581	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.31923007081896	6777	3276	1	1
+CGTTGTAAACGTCAGG-1	SeuratProject	6675	2392		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.45692883895131	6208	2362	3	3
+CGTTTCGCTCATTACA-1	SeuratProject	11944	3490	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.89986604152713	6697	2997	1	1
+CGTTTGTGTAGAGGGT-1	SeuratProject	3389	1644		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.69814104455592	5016	1649	0	0
+CTAAATCCGGTGTACA-1	SeuratProject	13829	4368		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.37486441535903	6834	3452	5	5
+CTAACCGCGCGCCCGT-1	SeuratProject	2804	1322	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.62910128388017	5260	1356	0	0
+CTAACTGGTCCGGTTC-1	SeuratProject	8697	3395	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.58778889272163	6707	3338	5	5
+CTAAGGGAATGATTGG-1	SeuratProject	17052	4378	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.93455313159747	6157	2437	2	2
+CTAATTCGCACGCGCT-1	SeuratProject	8336	3126	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.18234165067178	6647	3082	3	3
+CTACAAGAAATAACCC-1	SeuratProject	4398	2021		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.13960891314234	5167	2006	0	0
+CTACATATCGCGGGAC-1	SeuratProject	1666	957		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.76350540216086	4692	1243	0	0
+CTACGACTAGCTATAA-1	SeuratProject	1906	960		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.9685204616999	4917	1199	0	0
+CTACGATCCTATCCTA-1	SeuratProject	539	398	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.64749536178108	4226	1200	0	0
+CTACTATCATAGGTTT-1	SeuratProject	2065	1195	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.63438256658596	4916	1376	0	0
+CTACTCAAGGTATAGT-1	SeuratProject	4692	2102		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.31031543052003	5250	2084	0	0
+CTACTCTAGGCCCGGC-1	SeuratProject	2010	1060	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.45273631840796	4865	1238	4	4
+CTAGATTTACGACGGC-1	SeuratProject	26029	5362	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.55422797648776	5928	2082	2	2
+CTAGGGATAGGGACAA-1	SeuratProject	7781	3251		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.39532193805424	6613	3218	0	0
+CTAGTCACGTCTTAAG-1	SeuratProject	27682	5857	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.04855140524529	6004	2333	2	2
+CTAGTTACAACCCGGT-1	SeuratProject	26527	6008	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.19440569985298	6049	2561	6	6
+CTAGTTGGGCCCGGTA-1	SeuratProject	32657	6964	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.58707168447806	6502	3148	2	2
+CTATAGGCGTTGATGT-1	SeuratProject	3445	1643		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.79245283018868	5018	1650	5	5
+CTATCGGGTCTCAACA-1	SeuratProject	20590	5640	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.21466731423021	5906	2571	2	2
+CTATGCCCGAATGCAA-1	SeuratProject	22541	5024	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.3865400825163	5863	2128	2	2
+CTCAAACCACTGCCCG-1	SeuratProject	2373	1251		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.9338390223346	5111	1361	5	5
+CTCACCAGTACAAGTG-1	SeuratProject	1435	849		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.31707317073171	4554	1208	4	4
+CTCACTGTGATACTTA-1	SeuratProject	27945	6988	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.84881016281982	6502	3158	6	6
+CTCATGGTAATTTGCG-1	SeuratProject	2434	1334	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.42317173377157	5117	1417	0	0
+CTCATTCGTGAACATC-1	SeuratProject	14297	4699		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.73483947681332	7015	3659	3	3
+CTCCCTCCTTTCGATC-1	SeuratProject	2206	1228	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.57298277425204	4995	1363	0	0
+CTCCGCCCACATGAGG-1	SeuratProject	5360	2239		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.66044776119403	5553	2223	1	1
+CTCCTAGTAATCGTGA-1	SeuratProject	1207	772	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.44490472245236	4496	1243	4	4
+CTCCTCCAGCTCACAC-1	SeuratProject	31874	6627	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.20486917236619	6272	2794	6	6
+CTCGCATTGCATAGCC-1	SeuratProject	850	560	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.88235294117647	4409	1156	0	0
+CTCGGGTTCTCTGGCC-1	SeuratProject	1245	770	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.87951807228916	4556	1215	5	5
+CTCGGTTGTCGGCCCT-1	SeuratProject	1852	1050	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.36933045356372	4784	1298	0	0
+CTCGTTACGGCTACCA-1	SeuratProject	2576	1390		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.90062111801242	5234	1447	0	0
+CTCTACACTGGCGATT-1	SeuratProject	1523	854	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.58634274458306	4695	1192	0	0
+CTCTATTTGGCTGCAG-1	SeuratProject	24567	6352	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.04880530793341	6214	2892	6	6
+CTCTCACAATCGATGA-1	SeuratProject	29496	6498	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.49877949552482	6330	2897	2	2
+CTCTCGCTGTACTATG-1	SeuratProject	10207	3176		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.37797589889292	6784	2930	3	3
+CTCTCTAACTGCCTAG-1	SeuratProject	1597	933		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.14214151534127	4671	1237	0	0
+CTCTGCAGGCATTCTT-1	SeuratProject	1123	706	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.26090828138914	4531	1188	0	0
+CTCTTCTGGAAGTTAG-1	SeuratProject	2961	1434		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51063829787234	5111	1460	0	0
+CTCTTGTCCCGCTTGG-1	SeuratProject	5980	2248	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.48160535117057	5898	2233	1	1
+CTGAATCCGAGACCTC-1	SeuratProject	12913	3889	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.76062882366607	6759	3159	6	6
+CTGATAGTGTATCTCA-1	SeuratProject	1613	890	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.43149411035338	4680	1203	4	4
+CTGATCCCTTTATGCA-1	SeuratProject	899	592		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.67630700778643	4455	1188	0	0
+CTGCACTCCAGTACAG-1	SeuratProject	35413	6730	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.44641798209697	6375	2794	2	2
+CTGCCCACGAAGCGTT-1	SeuratProject	1562	884		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36235595390525	4671	1213	4	4
+CTGCGGGTGAAATGTT-1	SeuratProject	2387	1230	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.09090909090909	5092	1330	4	4
+CTGCTGAGGCCACGAA-1	SeuratProject	10087	3674	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.93833647268762	6676	3479	5	5
+CTGCTTGGCGATAGCT-1	SeuratProject	26247	6266	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.88055777803178	6148	2746	6	6
+CTGGAAATGGATGCTT-1	SeuratProject	18548	4521		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.70174681906405	5829	2045	1	1
+CTGGACGCAGTCCGGC-1	SeuratProject	1931	1036		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.45727602278612	4875	1250	0	0
+CTGGCATCCGAATGAG-1	SeuratProject	2786	1447		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.63531945441493	5236	1496	5	5
+CTGGCGGGAATAAGTA-1	SeuratProject	6003	2318		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.97884391137764	5897	2285	3	3
+CTGGGCCTGCTATATC-1	SeuratProject	3519	1655	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.71867007672634	5046	1651	0	0
+CTGGGTTGAGTTAAAG-1	SeuratProject	1834	1016		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.79716466739367	4829	1265	0	0
+CTGGTCATTCCAATCC-1	SeuratProject	2167	1078	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.81402861098293	4944	1263	3	3
+CTGGTGAATGGGCCTA-1	SeuratProject	1165	724	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.21030042918455	4539	1187	0	0
+CTGTAGCCATCTCACT-1	SeuratProject	7400	2764		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.18918918918919	6420	2739	1	1
+CTGTAGTGAGGATCGA-1	SeuratProject	3026	1692		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.0403172504957	5006	1707	5	5
+CTGTGCAGGGTAGGTC-1	SeuratProject	24899	5460	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.59865858066589	5978	2316	2	2
+CTGTTCATCTCACGGG-1	SeuratProject	36551	6539		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.80547727832344	5980	2221	1	1
+CTGTTGTTCAGTCGTA-1	SeuratProject	799	533	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.13642052565707	4407	1153	0	0
+CTTAAATAAGACCCAT-1	SeuratProject	10849	3490	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.08351000092174	6875	3167	3	3
+CTTAGCCCGGATAGTG-1	SeuratProject	27807	6532	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	1.66145215233574	6324	2961	4	4
+CTTAGGTATAGACCAG-1	SeuratProject	845	567	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.44378698224852	4385	1167	0	0
+CTTCACGCCCTGGTAC-1	SeuratProject	980	615	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.77551020408163	4511	1161	0	0
+CTTCAGTGGTCGCCTA-1	SeuratProject	1526	911	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.47051114023591	4598	1221	0	0
+CTTCCGCTCCGTGAAG-1	SeuratProject	18928	4860	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.72104818258664	5894	2316	2	2
+CTTCGTAGATAGGTGA-1	SeuratProject	5143	2100		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.86642037721174	5460	2093	1	1
+CTTCTATGTTGAAGTA-1	SeuratProject	2572	1382	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.33748055987558	5212	1448	0	0
+CTTCTATTAATGCTAG-1	SeuratProject	11950	3613		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.12970711297071	6749	3108	2	2
+CTTGCCCAGGCTCTAC-1	SeuratProject	8682	2968	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40612762036397	6604	2913	1	1
+CTTGGCCAAGCTGGGA-1	SeuratProject	35800	6746	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.50279329608939	6211	2616	2	2
+CTTTAATATTGGTCGA-1	SeuratProject	26701	6459	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.44556383656043	6295	2975	2	2
+CTTTAGTGCTATTATT-1	SeuratProject	23459	5305	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.92795941856004	5911	2236	2	2
+CTTTCTGTGCGGGCTT-1	SeuratProject	33901	6901	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.37152296392437	6283	2832	2	2
+CTTTGACGTCGCTTCT-1	SeuratProject	1256	772		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.51910828025478	4567	1201	0	0
+CTTTGGCGCTTTATAC-1	SeuratProject	2328	1159	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.98969072164948	5016	1288	3	3
+CTTTGGGATTGTTGCA-1	SeuratProject	6229	2498		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36875903034195	6031	2481	1	1
+GAAACATAGGAAACAG-1	SeuratProject	867	568	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57324106113033	4424	1156	0	0
+GAAACCGAATTACCTT-1	SeuratProject	8877	3080	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.0857271600766	6609	3011	1	1
+GAAACCTATACAAATG-1	SeuratProject	20773	5256	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.11981899581187	5809	2316	1	1
+GAAACTCGTGCGATGC-1	SeuratProject	4176	1876	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29789272030651	5091	1855	3	3
+GAAAGCAGTGCACTTT-1	SeuratProject	12065	3814	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84666390385412	6799	3292	1	1
+GAAAGTGACTAACTGC-1	SeuratProject	22941	5319		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.43032125888148	5923	2120	3	3
+GAAATGGCGGTGTTAG-1	SeuratProject	35880	6513	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.89799331103679	6101	2411	2	2
+GAACGTTAGGAAGACG-1	SeuratProject	1676	917	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.36754176610978	4704	1214	4	4
+GAAGAAACGATATTGT-1	SeuratProject	2992	1538		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.38903743315508	5045	1550	5	5
+GAAGCCGGGTAAGCTC-1	SeuratProject	8612	2898		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.06270320483047	6697	2795	3	3
+GAAGCTCGGACCCGTC-1	SeuratProject	2032	1153	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.25	4872	1327	0	0
+GAAGCTTGCTGACCGC-1	SeuratProject	13989	4025	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84344842376153	6678	3006	3	3
+GAAGGAGTCGAGTGCG-1	SeuratProject	34027	7120	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.58538807417639	6447	3052	2	2
+GAAGTGATTTATCGTG-1	SeuratProject	11013	3507		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.70789067465722	6710	3191	1	1
+GAATAGTGCTCGATTA-1	SeuratProject	3809	1868		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.03596744552376	5092	1858	5	5
+GAATCGACATGGTCAC-1	SeuratProject	23459	5337		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.82041007715589	5854	2199	2	2
+GAATGCCGAAATGACC-1	SeuratProject	4676	2085		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.39948674080411	5239	2058	3	3
+GAATTTCTCGCTGCAG-1	SeuratProject	5803	2292	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.92641737032569	5783	2274	4	4
+GACACTGAGTTCAGTG-1	SeuratProject	4076	1781		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.64180569185476	5159	1768	1	1
+GACATACTGTCGCAGA-1	SeuratProject	8596	2802		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.58445788738948	6673	2706	3	3
+GACATCCGTCGAACTG-1	SeuratProject	20365	5257		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.47213356248466	5726	2258	1	1
+GACATCGATTTATAAC-1	SeuratProject	21945	4720	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.94759626338574	5856	1949	2	2
+GACATTTCGCCCAGCC-1	SeuratProject	884	585		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.16289592760181	4418	1177	0	0
+GACCAGAGCCCTGTAG-1	SeuratProject	8712	2897		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.94031221303949	6555	2838	1	1
+GACCCAATTATGATAC-1	SeuratProject	2276	1265	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.42530755711775	5048	1395	0	0
+GACCGACTGAAGCGTC-1	SeuratProject	1559	860	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.68569595894804	4683	1190	4	4
+GACCGTGCTGACGGTG-1	SeuratProject	10108	3254	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.22200237435695	6647	3084	1	1
+GACCGTTACATGCGAC-1	SeuratProject	3123	1544		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.90906179955171	5049	1565	4	4
+GACGATATCACTGGGT-1	SeuratProject	3069	1588	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.96285434995112	5019	1605	4	4
+GACGGGTTGGCCCGTA-1	SeuratProject	27018	5965		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.55488933303723	6091	2502	2	2
+GACGTGTAGGGATTAT-1	SeuratProject	848	493	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.0188679245283	4507	1097	0	0
+GACTAAGTAGGCTCAC-1	SeuratProject	12134	3776		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.31547717158398	6781	3247	1	1
+GACTCCTTCCAATTGA-1	SeuratProject	1790	1002		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.66480446927374	4771	1238	0	0
+GACTGCGGCACGTGTA-1	SeuratProject	9235	2982	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.63779101245263	6776	2841	3	3
+GACTGCTGGTGAGAAA-1	SeuratProject	1669	969		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.74775314559617	4694	1263	5	5
+GAGAATCTCACGATCA-1	SeuratProject	4369	2025		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.23437857633326	5172	2006	4	4
+GAGACTGATGGGTAGA-1	SeuratProject	23305	5213		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.51727097189444	5844	2129	1	1
+GAGAGCGCAGTCCCTG-1	SeuratProject	20253	5960	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	0.824569199624747	5934	2772	4	4
+GAGAGGGCGCGAGGTT-1	SeuratProject	7233	2598		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.88981059034979	6381	2584	1	1
+GAGAGTCTCGGGAGAG-1	SeuratProject	4784	2164		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.89464882943144	5271	2141	0	0
+GAGCACCTGTGTCCAG-1	SeuratProject	31742	7036	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.62214101190851	6435	2980	6	6
+GAGCGCTGTTAGGTAA-1	SeuratProject	1351	805	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.80829015544041	4590	1198	0	0
+GAGCGGAATGCGGTGT-1	SeuratProject	30088	6866		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.09053443233183	6387	3073	6	6
+GAGGAATATCTCTTTG-1	SeuratProject	8621	3421		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.14348683447396	6726	3385	0	0
+GAGGAATGGAGAGGTT-1	SeuratProject	8160	2884	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.69117647058824	6584	2839	3	3
+GAGGCCCGACTCCGCA-1	SeuratProject	2607	1390	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.367472190257	5249	1450	0	0
+GAGGCTATCAAAGTCG-1	SeuratProject	1760	926	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.48863636363636	4786	1194	0	0
+GAGGGAGTCAGATCGC-1	SeuratProject	1928	1095	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36514522821577	4848	1319	5	5
+GAGGGTAGTAACAAAG-1	SeuratProject	3068	1622	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.77966101694915	5013	1650	5	5
+GAGGTCCGTTCGCTGT-1	SeuratProject	6107	2740		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.27493040772884	5967	2703	3	3
+GAGTATGCCCGCCTTG-1	SeuratProject	10667	3788		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.18421299334396	6836	3579	0	0
+GAGTCAGACCAGAATC-1	SeuratProject	17634	4676	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.46092775320404	6059	2475	2	2
+GAGTTGATGGCAATTT-1	SeuratProject	1957	1095		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.74501788451712	4852	1287	0	0
+GATACGATGGGAGTCA-1	SeuratProject	3822	1737		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.03244374672946	5134	1732	1	1
+GATAGTGCGAGTAAGT-1	SeuratProject	1978	1344		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.22446916076845	4740	1561	5	5
+GATATGGATTACGCGG-1	SeuratProject	5929	2314	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.53213020745488	5876	2288	3	3
+GATCAACATAAAGGGA-1	SeuratProject	17435	4954		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.14482363062805	6180	2779	5	5
+GATCATTCCAAACATT-1	SeuratProject	40210	6693		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.23153444416812	6102	2326	2	2
+GATCCCTTTATACTGC-1	SeuratProject	15948	4576	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.03561575119137	6495	2977	6	6
+GATCCGGGAATTAACA-1	SeuratProject	49635	7235	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.38047748564521	5796	1968	2	2
+GATCCTCGACACTGGC-1	SeuratProject	5024	2402	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.74203821656051	5348	2386	5	5
+GATCGACACTATCTGA-1	SeuratProject	28206	6782	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.61291923704176	6354	3035	6	6
+GATCGCTGTGGTGCGT-1	SeuratProject	1264	788		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.25632911392405	4514	1210	0	0
+GATCGGATAGAACCAT-1	SeuratProject	1434	826	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.6234309623431	4632	1195	4	4
+GATCGGCGATAAGTCG-1	SeuratProject	4465	1953		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.36842105263158	5169	1933	3	3
+GATCGTGACTGATATC-1	SeuratProject	37999	7052	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.15281981104766	6201	2689	1	1
+GATCTAACCGTATTCA-1	SeuratProject	2844	1434		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.48945147679325	5185	1471	0	0
+GATCTTGGAGGGCATA-1	SeuratProject	23893	5250		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.16557150629892	5931	2191	2	2
+GATGACAAGTAGGGCA-1	SeuratProject	4276	2058	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.51356407857811	5130	2047	5	5
+GATGCCAGCAGAAGGC-1	SeuratProject	2625	1327	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.53333333333333	5192	1397	3	3
+GATGCCTTCTGCGGCA-1	SeuratProject	1443	848		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.48440748440748	4625	1202	0	0
+GATGCGAATGGTATTA-1	SeuratProject	13157	4177	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.68191837044919	7003	3374	3	3
+GATGCGTCCTGCATTC-1	SeuratProject	12229	3658		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.14457437239349	6757	3113	1	1
+GATGTAACGAACCACC-1	SeuratProject	2626	1379	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.75019040365575	5241	1448	0	0
+GATGTTCAATCCACGA-1	SeuratProject	19688	5136		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.98780983340106	5867	2316	2	2
+GATTACTGAATTTGGG-1	SeuratProject	10339	3487		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.79359705967695	6687	3284	1	1
+GATTCCTATACGGCGC-1	SeuratProject	3226	1440	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.92746435213887	5021	1460	3	3
+GATTCGACGGTTCACG-1	SeuratProject	31064	5750	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.70667010043781	5973	2105	2	2
+GCAAACCTTGGCCATA-1	SeuratProject	33728	7089	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.07554554079696	6507	3021	6	6
+GCAAAGGGCGTTAGCC-1	SeuratProject	1196	708	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.35785953177258	4589	1179	0	0
+GCAAATATTACGCTTT-1	SeuratProject	6340	2422		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.51104100946372	6068	2409	1	1
+GCAACCCAAGTTGTTT-1	SeuratProject	2744	1393		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.83090379008746	5288	1447	0	0
+GCAAGAATTCCTTGGC-1	SeuratProject	5745	2328	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.61618798955614	5740	2310	1	1
+GCAAGTGCACAGAGAA-1	SeuratProject	21721	4951		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.71506836701809	5814	2113	2	2
+GCAAGTGTAAAGCATG-1	SeuratProject	6795	2848	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.94481236203091	6299	2825	5	5
+GCACAGCACGGGCCGA-1	SeuratProject	6558	2908		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.5288197621226	6214	2872	0	0
+GCACGCCTACTTAGAT-1	SeuratProject	6231	2559		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.40346653827636	6039	2543	5	5
+GCACTGCCTACCTTTA-1	SeuratProject	31536	6208		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.56684424150178	6286	2662	2	2
+GCAGATCCTCGCAAAT-1	SeuratProject	4933	1980	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.85870666936955	5353	1960	3	3
+GCAGATTAGGGATATC-1	SeuratProject	19934	5097	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.86756295776061	5809	2270	6	6
+GCAGCACACAGCCCAG-1	SeuratProject	10784	3450		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.65022255192878	6712	3182	1	1
+GCAGGAACTTAGATCT-1	SeuratProject	2074	1128		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.5824493731919	4943	1301	0	0
+GCATACGAGGTCTTTA-1	SeuratProject	4928	2262	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.79788961038961	5328	2252	4	4
+GCATTCGAAATGAACA-1	SeuratProject	7251	2712	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.41290856433595	6433	2685	3	3
+GCATTGACTTGCGGAA-1	SeuratProject	1616	912		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.17821782178218	4698	1198	0	0
+GCATTGTAATTCATAT-1	SeuratProject	1911	999	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.31449502878074	4845	1209	0	0
+GCCACAATTTAAGGAC-1	SeuratProject	6426	2531		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40740740740741	6119	2506	1	1
+GCCAGGAAAGAACACT-1	SeuratProject	2954	1556	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.89031821259309	5033	1587	4	4
+GCCATCGAGCTGCGTG-1	SeuratProject	12438	3779		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.32127351664255	6757	3158	2	2
+GCCCAGTTGGTATGCC-1	SeuratProject	10380	3458		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1868978805395	6681	3247	1	1
+GCCCGACTTCTTCCCG-1	SeuratProject	3093	1593		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.819592628516	5024	1608	0	0
+GCCCGAGAGTCTAAAT-1	SeuratProject	1486	880		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.3835800807537	4633	1234	0	0
+GCCCGATGCCCAGTTC-1	SeuratProject	893	588		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.18253079507279	4368	1162	4	4
+GCCCGCGCGTAAACGG-1	SeuratProject	12620	4160		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.38193343898574	6898	3536	5	5
+GCCCGCGCGTTTGACA-1	SeuratProject	42933	7171	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.07227540586495	6031	2404	2	2
+GCCCTAGCCGTCGCGA-1	SeuratProject	1917	1050	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.35524256651017	4837	1264	0	0
+GCCGAAATTCCTACGT-1	SeuratProject	4403	1800		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.62979786509198	5227	1788	1	1
+GCCGACCCACGACTGC-1	SeuratProject	2061	1197	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.1916545366327	4905	1412	5	5
+GCCGCATTAGTCCGGC-1	SeuratProject	2996	1476	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.91054739652871	5076	1500	4	4
+GCCGCTTGTGAGAAAC-1	SeuratProject	7112	2584		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.09730033745782	6340	2561	1	1
+GCCGTCGGTTTCGGGC-1	SeuratProject	4399	2047		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.47851784496476	5164	2031	0	0
+GCCTATTCCGATATAG-1	SeuratProject	12860	3845		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.5303265940902	6794	3147	3	3
+GCCTCAGGTACCGGTC-1	SeuratProject	1607	971	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.72059738643435	4562	1294	4	4
+GCGACCCAACCATCTG-1	SeuratProject	6491	2697	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.10214142659066	6167	2678	5	5
+GCGAGGCCCGAGCAGA-1	SeuratProject	9340	3035	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.64025695931478	6559	2927	1	1
+GCGAGTTCTGCAAAGA-1	SeuratProject	30115	6435	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.06857047982733	6243	2819	6	6
+GCGCAAATATATTCAA-1	SeuratProject	2642	1405	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.21347464042392	5282	1472	0	0
+GCGCCGTTCCACGATA-1	SeuratProject	11775	3840	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.28025477707006	6839	3427	1	1
+GCGCGGTCTAGTAACT-1	SeuratProject	14768	4456		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.43716143011918	6672	3206	0	0
+GCGCTAATTGAATAGA-1	SeuratProject	41084	7027	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.45545711225781	6044	2367	2	2
+GCGCTATGCCGAGGCA-1	SeuratProject	5887	2341		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56123662306778	5860	2328	1	1
+GCGGACCGCGTTGTGG-1	SeuratProject	6271	2591		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.33072875139531	6059	2574	0	0
+GCGGAGAAACTTCGCA-1	SeuratProject	11772	4012	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.13931362555216	6912	3580	5	5
+GCGGCAAAGTATTGCC-1	SeuratProject	1731	983	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.64760254188331	4723	1225	0	0
+GCGGCTCTGACGTACC-1	SeuratProject	5895	2298	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.51653944020356	5863	2284	1	1
+GCGGTTCCCTATCATG-1	SeuratProject	5289	2114	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.92418226507846	5523	2106	1	1
+GCGTCCCTAAGACATA-1	SeuratProject	3678	1694		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.72756933115824	5113	1691	1	1
+GCGTCTCTGCATTGGG-1	SeuratProject	24517	5707		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.9271933760248	6017	2454	1	1
+GCGTTATATTTGGAAC-1	SeuratProject	2505	1290	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.38323353293413	5151	1384	3	3
+GCTAAACCTGAGGTGA-1	SeuratProject	6330	2486		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40916271721959	6074	2461	3	3
+GCTAAGTAAAGGCGAT-1	SeuratProject	10385	3347	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.18199325950891	6799	3077	3	3
+GCTACGACTTATTGGG-1	SeuratProject	28236	6489	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.04221561127638	6340	2948	2	2
+GCTAGCTTGAATAGCT-1	SeuratProject	5032	2135		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.53179650238474	5390	2120	0	0
+GCTAGTAGAGCTTGTA-1	SeuratProject	21961	5173	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.94490232685215	5763	2185	2	2
+GCTATCATACTCATGG-1	SeuratProject	30731	5890	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.81722039634245	6049	2257	2	2
+GCTCAATCCGTTTATT-1	SeuratProject	11028	3940	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.95756256800871	6853	3630	6	6
+GCTCAATGTAATACCG-1	SeuratProject	32310	6600	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.48158464871557	6265	2739	6	6
+GCTCCATGCAAAGCAA-1	SeuratProject	6913	2900	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.58556343121655	6347	2885	0	0
+GCTCCTGACATACTGG-1	SeuratProject	2248	1333	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.35943060498221	4983	1460	5	5
+GCTCGCGGTTCCGCTC-1	SeuratProject	11125	3422	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.33707865168539	6980	3065	3	3
+GCTCTAAACCCTGACG-1	SeuratProject	30874	6410	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.66016713091922	6197	2581	6	6
+GCTCTATGTTACGTGC-1	SeuratProject	16641	4321		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.93467940628568	6185	2415	2	2
+GCTCTTTCCGCTAGTG-1	SeuratProject	18710	4925	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.61197220737573	5947	2436	6	6
+GCTGAATCTTCCAATC-1	SeuratProject	1124	693	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.7864768683274	4575	1187	0	0
+GCTGCACGGTTTCTTA-1	SeuratProject	29138	5781		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.02862241746173	5980	2256	2	2
+GCTGCGAAGAATTATT-1	SeuratProject	6300	2629		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.50793650793651	6086	2616	0	0
+GCTGCTAAGTAGTCGA-1	SeuratProject	7538	2706	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.25975059697532	6426	2686	1	1
+GCTGCTACTGCGTAGC-1	SeuratProject	18061	5306	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.57460827196722	6167	2844	6	6
+GCTGGCAGGTGCCGTG-1	SeuratProject	17250	5002		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.11304347826087	6393	2794	3	3
+GCTGGCATATTCACCT-1	SeuratProject	3907	1665	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.75172766828769	5182	1661	4	4
+GCTGGCGGCGCATGCT-1	SeuratProject	38047	6739	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49614949930349	6173	2504	2	2
+GCTGGGAGCGCGTCAA-1	SeuratProject	2705	1455	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.72828096118299	5296	1507	0	0
+GCTGGTTTAGGCCATA-1	SeuratProject	912	573	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.78508771929825	4478	1159	0	0
+GCTGTATTACTGGCCC-1	SeuratProject	15091	4586		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.11563183354317	6712	3309	5	5
+GCTTCGACGTTCAATC-1	SeuratProject	1076	660		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.52788104089219	4551	1175	0	0
+GCTTGATGATAATCAG-1	SeuratProject	13646	3998		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.02432947383849	6744	3079	1	1
+GGAAACAGAGCTTGGG-1	SeuratProject	1658	976	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.40892641737033	4632	1283	4	4
+GGAACCCGAACAAGAA-1	SeuratProject	6918	2566		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.99624168834923	6309	2531	3	3
+GGAACCGTGTAAATTG-1	SeuratProject	7937	2936		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.37848053420688	6533	2912	0	0
+GGAACCTTGACTCTGC-1	SeuratProject	957	611	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56844305120167	4482	1167	0	0
+GGAACGGCCTGCAGCC-1	SeuratProject	8251	2649	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.55059992728154	6575	2591	3	3
+GGACAAGTTGCAGTGA-1	SeuratProject	2084	1143		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.9021113243762	4863	1354	4	4
+GGACCAACAGGATAAC-1	SeuratProject	32440	6398	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.48212083847102	6180	2609	2	2
+GGACCTCTAGGCCGCC-1	SeuratProject	2286	1254	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.00524934383202	5064	1382	5	5
+GGACTAAGTCAGGAGT-1	SeuratProject	25405	6443	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.17280062979728	6214	2892	4	4
+GGACTCGACAGCGCAT-1	SeuratProject	3644	2041		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	1.81119648737651	4958	2030	0	0
+GGACTCGTGAGTGGTC-1	SeuratProject	1959	1073		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.16743236345074	4856	1305	5	5
+GGAGACGACACCTTTG-1	SeuratProject	20921	5917	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.91950671574017	5889	2669	4	4
+GGATCTTGACTCAACC-1	SeuratProject	2121	1209		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.6006600660066	4936	1381	0	0
+GGATGACGCGAGTTTA-1	SeuratProject	4838	1970		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57007027697396	5352	1958	1	1
+GGATGCTGGCGTTCCT-1	SeuratProject	10096	3807	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.38827258320127	6765	3617	6	6
+GGCAAAGGCGCCAATA-1	SeuratProject	19982	5103	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.19057151436293	5839	2345	5	5
+GGCAAATTACTTTACT-1	SeuratProject	6072	2369	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.72859025032938	5922	2336	1	1
+GGCAAGCCCATAGTGG-1	SeuratProject	9161	3496		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.29178037332169	6727	3382	6	6
+GGCAAGGCGAAATAGC-1	SeuratProject	24715	5988		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.8802346752984	6156	2708	6	6
+GGCAATAGTCAATGAG-1	SeuratProject	12025	3678	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.96465696465696	6771	3159	1	1
+GGCATACAGGTAGCGG-1	SeuratProject	2017	1038	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.766980664353	4953	1234	0	0
+GGCCGAGACTCTGGTG-1	SeuratProject	3753	1947	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.87609912070344	5030	1938	5	5
+GGCCGTTTGGGTTTCA-1	SeuratProject	10435	3433		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.59319597508385	6693	3215	1	1
+GGCCTTTGCAACTGGC-1	SeuratProject	3571	1723		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.14897787734528	5045	1719	0	0
+GGCGAGCGAAACGGCA-1	SeuratProject	2217	1166		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.70545782589084	5008	1310	0	0
+GGCGCAGGACATCTTC-1	SeuratProject	1516	830	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.97097625329815	4710	1182	0	0
+GGCGCATGAATTGATG-1	SeuratProject	4938	2100	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.21425678412313	5367	2080	1	1
+GGCGGTAGGATCATTG-1	SeuratProject	25562	5475	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.41092246303106	5984	2293	2	2
+GGCGTCCTATCCGCTG-1	SeuratProject	5698	2124	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.65250965250965	5713	2105	4	4
+GGCTACTATACACTCC-1	SeuratProject	6646	2650	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.58350887752031	6220	2631	1	1
+GGCTATTAAGTTGTAT-1	SeuratProject	4711	1895		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.21248142644874	5307	1878	1	1
+GGCTCCTCCACCTGTT-1	SeuratProject	6772	2890		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.34317779090372	6295	2865	5	5
+GGGAACGGGAGGTTAG-1	SeuratProject	6099	2363	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.32939826201017	5954	2343	1	1
+GGGAACGGTTTCAGAT-1	SeuratProject	2161	1216	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.09810273021749	4981	1383	5	5
+GGGAATTCTGTCCAGT-1	SeuratProject	22905	5885	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.54092992796333	6086	2576	3	3
+GGGACAGAGTTACTCC-1	SeuratProject	1242	783		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.60225442834138	4520	1223	0	0
+GGGACCCGTATATCTT-1	SeuratProject	10971	3708	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.84149120408349	6797	3411	6	6
+GGGAGGATGCCCGAAA-1	SeuratProject	5860	2184	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84641638225256	5842	2172	1	1
+GGGATACGGTAATAAT-1	SeuratProject	8599	2832		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.33806256541458	6695	2743	3	3
+GGGATGGTCGTAACCG-1	SeuratProject	9422	3411		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.79494799405646	6628	3297	0	0
+GGGCAACCGCACGTGC-1	SeuratProject	1897	1052	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.64364786505008	4823	1257	0	0
+GGGCACGAATTGGCCG-1	SeuratProject	5138	2324		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.34021019852083	5417	2310	4	4
+GGGCACGTAGTACTGT-1	SeuratProject	19580	5470		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.42594484167518	5959	2629	2	2
+GGGCAGACGTCACTGC-1	SeuratProject	1774	976		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.77903043968433	4769	1224	0	0
+GGGCCCGTCTTAAACA-1	SeuratProject	32916	6416	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.24109855389476	6162	2491	1	1
+GGGCCCTACGAAAGGG-1	SeuratProject	14369	4373	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.69232375252279	6732	3235	4	4
+GGGCCCTTATCTATAC-1	SeuratProject	1344	819		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.63095238095238	4530	1234	4	4
+GGGCGATATGTGTGAA-1	SeuratProject	26785	6429	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.49990666417771	6204	2642	6	6
+GGGCGGCAAATGAATT-1	SeuratProject	14588	4343		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.95777351247601	6664	3155	0	0
+GGGCGGGTTCCCTACG-1	SeuratProject	3517	1660	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.18879727040091	5033	1660	1	1
+GGGCGTCACCACGTAA-1	SeuratProject	9326	3241	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.245764529273	6655	3156	1	1
+GGGCTACTATTTCGTG-1	SeuratProject	1312	753		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.22256097560976	4617	1158	0	0
+GGGCTATGATCGATGG-1	SeuratProject	29792	6460	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.19965091299678	6249	2795	6	6
+GGGCTGCCTAGGGCGA-1	SeuratProject	35133	6786	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.56835453846811	6333	2774	2	2
+GGGCTGGTTAGTCGCG-1	SeuratProject	29946	5826	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.43004073999866	6022	2240	2	2
+GGGTACTTCATGAACT-1	SeuratProject	6778	2492		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.23576276187666	6240	2473	1	1
+GGGTATGTATGCACTT-1	SeuratProject	3714	1659	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.9122240172321	5107	1647	3	3
+GGGTATTCTAGCAAAC-1	SeuratProject	1280	782	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.734375	4587	1205	0	0
+GGGTCAGGAGCTAGAT-1	SeuratProject	35877	6931	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.34476126766452	6326	2767	2	2
+GGGTCATGCGTACCAT-1	SeuratProject	2929	1398		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.67190167292591	5017	1443	3	3
+GGGTGACACCTTAACT-1	SeuratProject	7852	2749	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.78757004584819	6484	2718	1	1
+GGGTTAACATTTGAGT-1	SeuratProject	16004	4228	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.7725568607848	6244	2486	2	2
+GGTAACCGGGAGGATA-1	SeuratProject	1858	1033	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.98815931108719	4819	1272	0	0
+GGTACATCTGGGACGA-1	SeuratProject	19836	5752	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.13208308126638	5825	2649	6	6
+GGTAGAAGACCGCCTG-1	SeuratProject	24695	5786	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.9734764122292	6011	2489	6	6
+GGTATTGCCGAGTTTA-1	SeuratProject	21866	5046	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.8798134089454	5823	2109	1	1
+GGTCTCTGAATGGACT-1	SeuratProject	5460	2574	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.17582417582418	5558	2554	5	5
+GGTCTTGAGCGCTCTT-1	SeuratProject	23600	5676	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.42796610169492	5928	2430	2	2
+GGTGAAGTACAGGGAT-1	SeuratProject	20594	5551		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.22453141691755	5845	2510	5	5
+GGTGATGAAGGAAGTG-1	SeuratProject	1817	1032		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.77875619152449	4753	1276	0	0
+GGTGCATAAATGATTA-1	SeuratProject	28850	6432	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.51819757365685	6186	2721	2	2
+GGTGCTGATCACAAAG-1	SeuratProject	6779	2644	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.60554654078773	6286	2607	3	3
+GGTGCTGGTACACATT-1	SeuratProject	4657	1959		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56774747691647	5287	1945	1	1
+GGTGGGATTAGGTCCC-1	SeuratProject	7183	3205	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.03731031602395	6479	3153	3	3
+GGTGTAGGTAAGTAAA-1	SeuratProject	14342	4331		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.68846743829312	6798	3268	5	5
+GGTTACCACCCTCGGG-1	SeuratProject	3871	1867		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.53577886850943	5079	1859	5	5
+GGTTAGGCTTGGAGAA-1	SeuratProject	17006	4484	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.75608608726332	6234	2466	3	3
+GGTTAGTTACGGCGCC-1	SeuratProject	2920	1401	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.08219178082192	5031	1432	3	3
+GGTTCGGATTATACTA-1	SeuratProject	2831	1459		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.91239844577888	5157	1504	4	4
+GGTTGTGCTCTTGTCC-1	SeuratProject	7377	2550	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.14070760471736	6431	2505	3	3
+GGTTTAATTACCATCG-1	SeuratProject	2104	1136		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.55703422053232	4968	1308	5	5
+GTAACTACGTAGACCT-1	SeuratProject	2580	1297		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.7984496124031	5021	1408	4	4
+GTAACTGCCCAAGGAG-1	SeuratProject	16444	4490	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.40355144733641	6295	2685	1	1
+GTAAGTAGGGTATACC-1	SeuratProject	21771	5154		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.67994120619172	5782	2164	2	2
+GTAATCTGATTCTTCG-1	SeuratProject	10076	3639		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.88527193330687	6708	3465	6	6
+GTACGCTTCATTGCAC-1	SeuratProject	26779	5689	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.18768437955114	6024	2332	2	2
+GTACGTTTGCCCGTCA-1	SeuratProject	19385	5618		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.53366004642765	5923	2666	6	6
+GTACTAAGATTTGGAG-1	SeuratProject	6817	2476		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.37611852721138	6251	2461	1	1
+GTAGAAACGGGTGGAG-1	SeuratProject	3174	1484	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.85318210459987	5008	1516	3	3
+GTAGACACGCCTGACT-1	SeuratProject	25527	5787	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.12367297371411	6108	2569	2	2
+GTAGAGGGAGACAAGT-1	SeuratProject	3597	1876	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.22574367528496	4986	1874	5	5
+GTAGCGGCTATACACT-1	SeuratProject	27523	5711	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.39018275624024	5990	2288	1	1
+GTAGCTCCGGGAGGCT-1	SeuratProject	1069	715		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.95135640785781	4477	1243	5	5
+GTAGTTCGAAGGCGAA-1	SeuratProject	1869	1059		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.34670947030498	4786	1302	5	5
+GTATGAAATTTCACTC-1	SeuratProject	2536	1352	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.55993690851735	5175	1418	0	0
+GTATTCTGAGAAACGA-1	SeuratProject	20688	5479		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.14249806651199	5888	2487	2	2
+GTCAAAGAAGTGGTGT-1	SeuratProject	1351	853	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.29015544041451	4553	1252	0	0
+GTCACTCTCCAAATCT-1	SeuratProject	25606	5814		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.86487541982348	5944	2356	4	4
+GTCAGAATAGTCTATG-1	SeuratProject	4420	1813	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.61538461538462	5265	1799	4	4
+GTCAGTTTGGTAGTCG-1	SeuratProject	5514	2376	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.25933986216902	5606	2351	3	3
+GTCATCCCAAACTCAC-1	SeuratProject	2947	1527	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.46725483542586	4979	1562	4	4
+GTCATTAGAGCGAACG-1	SeuratProject	11098	3338	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.11857992431069	6742	3035	1	1
+GTCATTGCATTGACCC-1	SeuratProject	7268	2644	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.46230049532196	6432	2597	3	3
+GTCCAATATTTAGCCT-1	SeuratProject	23397	5419	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.77450100440227	5883	2253	2	2
+GTCCAGGCACGTGTGC-1	SeuratProject	6064	2777		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.75395778364116	5951	2755	0	0
+GTCCGAGAGCAATCAT-1	SeuratProject	1855	1062		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.22371967654987	4757	1291	4	4
+GTCCGGCTGAATTGCG-1	SeuratProject	21931	5168		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.53271624640919	5832	2226	2	2
+GTCCTACTCTACGGGC-1	SeuratProject	1863	1051		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.81696188942566	4788	1253	0	0
+GTCCTATTGTTGTGGT-1	SeuratProject	27413	6491	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	1.87137489512275	6295	2928	4	4
+GTCCTTCTACAACCCA-1	SeuratProject	11040	3292		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.94202898550725	6893	2907	3	3
+GTCGAATTTGGGCGCT-1	SeuratProject	1462	867		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.81395348837209	4583	1202	4	4
+GTCGCCGTTGTGTGTT-1	SeuratProject	3127	1492		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.60249440358171	5057	1512	0	0
+GTCGGATATCTCAGAC-1	SeuratProject	20637	5673	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.37868876290158	6065	2419	3	3
+GTCGGGAACATGGTAG-1	SeuratProject	1598	924		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.07259073842303	4674	1246	0	0
+GTCGGGAAGCAGAAAC-1	SeuratProject	32414	6948	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.02431048312458	6396	2901	6	6
+GTCGTACCATCTCGGG-1	SeuratProject	20263	4996	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.08552534175591	5827	2261	2	2
+GTCTACTCAATTACAA-1	SeuratProject	3835	1879	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.37940026075619	5086	1872	4	4
+GTCTATCTGAGTTTCT-1	SeuratProject	24813	5996		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.0744770886229	6081	2627	1	1
+GTCTCAAGGCCCGGCT-1	SeuratProject	37459	7137	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.71667690007742	6245	2785	2	2
+GTCTCCTGCCAGTATG-1	SeuratProject	1505	903		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.91362126245847	4624	1214	0	0
+GTCTGGGCGGTCGAGA-1	SeuratProject	4798	2024		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.06586077532305	5320	2010	1	1
+GTCTGTAGGTTGAACA-1	SeuratProject	5406	2399		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.60488346281909	5539	2377	0	0
+GTCTTCCTCACCTAAG-1	SeuratProject	2704	1395		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.43639053254438	5302	1448	0	0
+GTGAAGTCACGACTCG-1	SeuratProject	1690	938		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.87573964497041	4731	1213	0	0
+GTGACTTCAGTAGTGC-1	SeuratProject	5574	2307	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.60674560459275	5640	2278	1	1
+GTGAGATAACCTTATA-1	SeuratProject	1874	1094		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.7769477054429	4803	1321	0	0
+GTGAGCGTGCTGCACT-1	SeuratProject	1412	792	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.13597733711048	4640	1154	0	0
+GTGAGTCTAAGACGGA-1	SeuratProject	8984	3014	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.58014247551202	6747	2879	3	3
+GTGATTCGCCGCTCAA-1	SeuratProject	11347	3928		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.45932845686084	6853	3566	5	5
+GTGCACCAGCTTCAAC-1	SeuratProject	29841	6056	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.74850038537582	6197	2494	2	2
+GTGCCATCACACGGTG-1	SeuratProject	3069	1533	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.64483545128707	5018	1565	4	4
+GTGCCGCTTCAAAGGT-1	SeuratProject	4783	2056		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.23750784026761	5299	2045	1	1
+GTGCGAAATCGAACAC-1	SeuratProject	5088	2117		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.27437106918239	5412	2098	1	1
+GTGCTGCAGATAAGGA-1	SeuratProject	3160	1555	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.76582278481013	4989	1565	4	4
+GTGGACCAACCCGATT-1	SeuratProject	3190	1546	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.18495297805643	5020	1559	0	0
+GTGGAGTCGGCGGTTG-1	SeuratProject	15626	4467		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.05874824011263	6430	2894	5	5
+GTGGCAAACAGCGGCA-1	SeuratProject	2656	1368		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.89006024096386	5320	1436	0	0
+GTGGCGGTCCCAGCGT-1	SeuratProject	3978	1863	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.89894419306184	5093	1852	4	4
+GTGGGAACAAACCGGG-1	SeuratProject	23000	5850		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.88260869565217	6122	2758	2	2
+GTGGGCTTAGACACAC-1	SeuratProject	10611	3324		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.17076618603336	6674	3093	4	4
+GTGGTATAGTCTGCCG-1	SeuratProject	2799	1390		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.32440157199	5253	1443	0	0
+GTGTCAGTGTACGTGG-1	SeuratProject	2061	1227		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.04609412906356	4820	1400	5	5
+GTGTCGTATAGCGTTC-1	SeuratProject	13207	3894	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.89081547664118	6759	3118	2	2
+GTTAAGGGTGCGATGT-1	SeuratProject	40944	7288	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.35042985541227	6236	2708	2	2
+GTTAATGTCTATCTTA-1	SeuratProject	5150	2266	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.02912621359223	5434	2253	4	4
+GTTACAATTGGTGACG-1	SeuratProject	2735	1285	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.46983546617916	5293	1336	0	0
+GTTACCTACAACTTGC-1	SeuratProject	31400	6831	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.40764331210191	6341	2971	6	6
+GTTACTTTGGGCCTAG-1	SeuratProject	7715	2654	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1548930654569	6472	2628	1	1
+GTTAGGCTACCCGTTT-1	SeuratProject	1086	662		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57642725598527	4573	1156	0	0
+GTTATTAACGTGGGAG-1	SeuratProject	2487	1273		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.4788902291918	5072	1365	3	3
+GTTCACAGGAGTCTAG-1	SeuratProject	4980	2083	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.24899598393574	5366	2065	3	3
+GTTCCGTCCGCCTGCA-1	SeuratProject	2944	1594		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.7554347826087	5075	1622	0	0
+GTTCGACAATTGTATA-1	SeuratProject	1040	640	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.84615384615385	4555	1162	0	0
+GTTCGCCATAAGTGCC-1	SeuratProject	5152	2116	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.14208074534161	5453	2097	1	1
+GTTGAACCGGTTCCAT-1	SeuratProject	5928	2360		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.5863697705803	5874	2339	1	1
+GTTGCCCTAACGGGTG-1	SeuratProject	853	572		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49589683470106	4400	1198	4	4
+GTTTATGGGATTTAGA-1	SeuratProject	4012	1784		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.7048853439681	5058	1773	3	3
+GTTTCTGCAGTCTCCC-1	SeuratProject	32690	6260	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.22178036096666	6127	2395	2	2
+GTTTGGTGATCGGTGC-1	SeuratProject	1004	624		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.76494023904383	4536	1186	5	5
+TAAACCCAGGAGGGCA-1	SeuratProject	26632	5888		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.07044157404626	6039	2464	2	2
+TAAAGCGGTATTTCCA-1	SeuratProject	35625	6991	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.00280701754386	6348	2776	2	2
+TAAATGAATCCGTTTC-1	SeuratProject	7938	2837		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.4421768707483	6590	2784	3	3
+TAAATTTAGTAACACC-1	SeuratProject	4192	1999		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.72519083969466	5109	1987	0	0
+TAACAATATTTGTTGC-1	SeuratProject	7381	2645	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.98834846226799	6475	2617	3	3
+TAACAGCGTTTGTGCT-1	SeuratProject	3916	1828		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.74157303370786	5103	1818	5	5
+TAACATACAATGTGGG-1	SeuratProject	38117	7184	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.90550148227825	6295	2719	2	2
+TAACATACACGCGATC-1	SeuratProject	3186	1631	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.68549905838041	4991	1656	0	0
+TAACGCTTTGAGAGCG-1	SeuratProject	5423	2173	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.76323068412318	5585	2160	3	3
+TAACTCATCCGCGCGG-1	SeuratProject	9277	3121	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.5322841435809	6637	3026	1	1
+TAAGCAGGCGACACGC-1	SeuratProject	2545	1250		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.7229862475442	5225	1324	0	0
+TAAGGCATAACATCAA-1	SeuratProject	30893	5973	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.37082834299032	6150	2409	2	2
+TAAGTAACATCTTGAC-1	SeuratProject	8651	3140		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.44445728817478	6633	3084	1	1
+TAAGTCGCCGAGTATC-1	SeuratProject	5720	2477	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.54195804195804	5718	2462	5	5
+TAAGTGAATAGTCTAC-1	SeuratProject	1330	817	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.77443609022556	4554	1207	0	0
+TAATAGAACAGAGTTA-1	SeuratProject	11074	3964		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.26223586779845	6886	3653	5	5
+TAATGAAAGACCCTTG-1	SeuratProject	4833	2002	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.80736602524312	5302	1983	3	3
+TACATCCCTATCCCTG-1	SeuratProject	1071	672		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.00280112044818	4548	1167	0	0
+TACATGACCTTATCCG-1	SeuratProject	5509	2203		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.17008531493919	5603	2178	3	3
+TACCAGAAGTAGGTTC-1	SeuratProject	8875	3076	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.71830985915493	6618	3000	1	1
+TACCGGCTCACTGCCC-1	SeuratProject	31408	6360	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.84538970962812	6194	2645	2	2
+TACCGGTCGTTTCCAT-1	SeuratProject	1988	917		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.55734406438632	4937	1144	0	0
+TACCGTAGGTTAACTA-1	SeuratProject	10214	3336	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.05619737615038	6620	3145	1	1
+TACCGTGCCTCGGACC-1	SeuratProject	34078	6693	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.17471682610482	6322	2779	2	2
+TACCTACTCCCAGTAT-1	SeuratProject	41747	7154		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.94787649411934	6146	2530	2	2
+TACCTCAGTTGTCTGT-1	SeuratProject	23632	5637	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.66740013540961	6005	2468	2	2
+TACCTGCTGCACTGTG-1	SeuratProject	5556	2237	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.08351331893448	5617	2208	3	3
+TACCTTAAGATTTCCC-1	SeuratProject	3985	1971	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.36260978670013	5078	1961	5	5
+TACGAACACGACTTCA-1	SeuratProject	21629	5274		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.43580378195941	5843	2289	1	1
+TACGACTGCCTCTTAG-1	SeuratProject	20475	5480		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.59096459096459	5847	2444	2	2
+TACGATGTTGATCATC-1	SeuratProject	4249	1815	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57872440574253	5201	1806	0	0
+TACGCAGTTCTTTCCT-1	SeuratProject	7476	2638	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.4804708400214	6422	2621	1	1
+TACGCCGAGGGTACCC-1	SeuratProject	6777	2716		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.3336284491663	6267	2689	5	5
+TACGCTCCTAGAACTG-1	SeuratProject	14909	4511		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.52746663089409	6785	3287	2	2
+TACGTACTAGTGCTGA-1	SeuratProject	4877	2117		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.6891531679311	5333	2095	1	1
+TACTATGGTTCCTCAG-1	SeuratProject	9610	3275		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.42976066597295	6610	3155	1	1
+TACTCACAACGTAGTA-1	SeuratProject	9170	3091		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.17884405670665	6619	2968	3	3
+TACTCCTCTAGTTGAC-1	SeuratProject	2283	1256		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.75295663600526	5024	1383	5	5
+TACTCGGCACGCCGGG-1	SeuratProject	6589	2610		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.24267718925482	6189	2591	4	4
+TACTCTTTCGTCTTCA-1	SeuratProject	12096	3829		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.32440476190476	6811	3334	1	1
+TACTGAACAGATTTAG-1	SeuratProject	4513	1965		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.77465100819854	5231	1951	1	1
+TACTGAGGGAAGAAAG-1	SeuratProject	2022	1127		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.13254203758655	4904	1308	0	0
+TACTTTCCGCACGCCA-1	SeuratProject	1545	896		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.6084142394822	4649	1223	0	0
+TAGAAATTCACGTATA-1	SeuratProject	2492	1296		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.86516853932584	5161	1390	4	4
+TAGACTCAGTTGGCCT-1	SeuratProject	1057	682		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.09555345316935	4559	1202	0	0
+TAGAGATCATGCAACT-1	SeuratProject	1659	907	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.88547317661242	4743	1194	0	0
+TAGAGTCTAAGCGAAC-1	SeuratProject	42023	6755		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.21400185612641	5934	2133	2	2
+TAGATTCAAAGTGCGG-1	SeuratProject	1604	989		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.48129675810474	4625	1286	0	0
+TAGATTCCTGGTTATT-1	SeuratProject	2110	1063	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.38388625592417	4935	1245	3	3
+TAGCAACCTGTCACAA-1	SeuratProject	11860	3468		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.25295109612142	7014	2917	3	3
+TAGCGTCCGGTGTGGT-1	SeuratProject	29294	6171	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5237249948795	6098	2506	1	1
+TAGCGTCGAATATTGA-1	SeuratProject	1337	796	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.4794315632012	4581	1180	0	0
+TAGCGTTGGGTCTTAC-1	SeuratProject	14100	4076	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.85106382978723	6662	3057	1	1
+TAGCTAAGTCCGGGAG-1	SeuratProject	35901	6687	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.0721985460015	6112	2468	1	1
+TAGCTAGTGATGATGG-1	SeuratProject	30295	6332	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.80920944050173	6340	2762	2	2
+TAGGTCCAAGTAAGGA-1	SeuratProject	5248	2192	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.44969512195122	5462	2158	3	3
+TAGGTGAGCCCTACTC-1	SeuratProject	7232	2547	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.91426991150442	6329	2524	4	4
+TAGGTTCGAGTTCGTC-1	SeuratProject	18708	5145	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.70429762668377	5982	2578	2	2
+TAGTACCACAACTTTC-1	SeuratProject	1138	704	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.26010544815466	4569	1173	0	0
+TAGTACCTTAGTGGTC-1	SeuratProject	14172	4324	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.21450747953712	7029	3240	3	3
+TAGTAGCTTATACCAG-1	SeuratProject	5463	2306		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.25553725059491	5591	2285	1	1
+TAGTCCCGGAGACCAC-1	SeuratProject	28228	6405	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.96159841292334	6355	2908	2	2
+TAGTCCGCAGAGAATG-1	SeuratProject	5282	2097	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.03067020068156	5522	2085	1	1
+TAGTCCTGCACTAAGC-1	SeuratProject	603	394	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.28689883913764	4320	1182	0	0
+TAGTCTAACAACGAGA-1	SeuratProject	2524	1311	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40887480190174	5186	1379	5	5
+TAGTCTGCGGCACATT-1	SeuratProject	1958	1121		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.81409601634321	4822	1303	0	0
+TAGTGCCCTCCAGAGT-1	SeuratProject	27531	5624	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.58054556681559	6033	2256	2	2
+TAGTGTCAGAAACGGC-1	SeuratProject	4601	1971		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.9550097804825	5230	1948	3	3
+TATAAGTGAGGATAGC-1	SeuratProject	12417	3717		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.18901505999839	6746	3109	1	1
+TATACGCGTCATCACT-1	SeuratProject	39631	7415	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.10633090257627	6308	2866	2	2
+TATAGAGTCGCTTGAA-1	SeuratProject	4479	1616		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.12212547443626	5266	1613	1	1
+TATAGCGCACGTTATC-1	SeuratProject	1363	782		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.45634629493764	4601	1156	0	0
+TATAGGGTACTCATGA-1	SeuratProject	9889	3330	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.85832743452321	6638	3197	1	1
+TATATAGGGCTTTACG-1	SeuratProject	3629	1845	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.92449710664095	5017	1833	5	5
+TATATATCGAGAAATG-1	SeuratProject	1586	953		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.44010088272383	4656	1240	5	5
+TATATCAAAGTGATCT-1	SeuratProject	2512	1349		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.64808917197452	5180	1431	0	0
+TATATCATTGATCAGT-1	SeuratProject	9930	3626	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.34340382678751	6674	3459	4	4
+TATATGCTGGGTTGCC-1	SeuratProject	5765	2265		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.08846487424111	5741	2238	3	3
+TATCAAAGGTCTGTAA-1	SeuratProject	27630	6429	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.35866811436844	6335	2851	3	3
+TATCAGTGGCGTAGTC-1	SeuratProject	1627	934		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.14628149969269	4681	1226	0	0
+TATCCAATTGGTTATC-1	SeuratProject	19830	4857		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.39132627332325	5781	2142	2	2
+TATCCATCTCGGTTAG-1	SeuratProject	1017	647	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.58800393313668	4528	1166	0	0
+TATCCGCACCGTCGGG-1	SeuratProject	9815	3164	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.54661232806928	6590	3024	1	1
+TATCTACAGAGGTAAT-1	SeuratProject	2364	1197	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.62944162436548	5031	1323	3	3
+TATCTAGCCTAAAGGA-1	SeuratProject	1200	708		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.83333333333333	4580	1153	0	0
+TATCTGAGCCGATATT-1	SeuratProject	883	594		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.7757644394111	4427	1178	0	0
+TATCTTGCAATACAAC-1	SeuratProject	1327	786		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.74152223059533	4546	1199	0	0
+TATGAAGACAGGTGCG-1	SeuratProject	6214	2265	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.5980045059543	6022	2247	3	3
+TATGACCTTGCGCTGG-1	SeuratProject	1541	861		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.86372485399091	4695	1197	0	0
+TATGCTCCCTACTTAC-1	SeuratProject	13813	3995	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.90371389270977	6657	3024	1	1
+TATGGATGTGCTACGC-1	SeuratProject	8203	2741	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.58186029501402	6513	2708	1	1
+TATGGCCCGGCCTCGC-1	SeuratProject	3172	1422	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.33165195460277	5087	1438	4	4
+TATGTAAAGTGCTTAA-1	SeuratProject	6945	2780	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.12742980561555	6322	2756	1	1
+TATTAACACCAAAGCA-1	SeuratProject	2038	1149		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.72227674190383	4914	1328	0	0
+TATTAACCTGACCGCG-1	SeuratProject	7648	2840		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.42677824267782	6504	2823	1	1
+TATTATGTTTGCCTGC-1	SeuratProject	841	570		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.27467300832342	4403	1173	0	0
+TATTCCACTCAGCTCG-1	SeuratProject	5716	2303	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.60461861441567	5725	2286	1	1
+TATTCCTCCGCCCACT-1	SeuratProject	4766	2262	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.87452790600084	5266	2252	5	5
+TCAAACAACCGCGTCG-1	SeuratProject	18537	4831	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.72109834385284	5958	2370	6	6
+TCAAAGTCACGGCGTC-1	SeuratProject	1231	768		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.910641754671	4514	1204	0	0
+TCAAATTTGAGACTCA-1	SeuratProject	39698	7316	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.81409642803164	6153	2727	1	1
+TCAACAAAGATAATTC-1	SeuratProject	3893	1970	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.44567171846905	5067	1957	5	5
+TCAACATAGCGCCCTA-1	SeuratProject	8835	3142		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.09677419354839	6624	3082	1	1
+TCAACGCAGGAAATAA-1	SeuratProject	5412	2484	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.69549150036955	5545	2456	5	5
+TCAACTAACGTATAAC-1	SeuratProject	10317	3382	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.79625860230687	6774	3129	3	3
+TCAATACAATTGCTGC-1	SeuratProject	5043	2290		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.79873091413841	5361	2265	4	4
+TCACAGCAAACTCGAA-1	SeuratProject	20554	4579	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.92546462975577	5780	1884	2	2
+TCACAGGAGAATAAGA-1	SeuratProject	27647	6044	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.4672478026549	6194	2609	2	2
+TCACATCTTATCTGAT-1	SeuratProject	5932	2296	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.03506405933918	5878	2269	3	3
+TCACGATGTCCGTGGA-1	SeuratProject	3023	1569	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.96195831955012	5012	1586	5	5
+TCACGCATTGTAGATC-1	SeuratProject	13693	3911	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.56693200905572	6696	2994	6	6
+TCACGGCCCAAGAGAG-1	SeuratProject	883	579		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.51302378255946	4435	1164	0	0
+TCACGTGCCCGATTCA-1	SeuratProject	15718	4241		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.78088815370912	6371	2711	1	1
+TCAGACGCTATAGAAG-1	SeuratProject	23700	5977	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.62869198312236	5979	2552	6	6
+TCAGCAGTAGGCCCTG-1	SeuratProject	3837	1753		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.87073234297628	5117	1747	1	1
+TCAGGGCGACTTCCTT-1	SeuratProject	9271	3033		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.93247761837989	6779	2906	3	3
+TCAGGGCGCAAACTCG-1	SeuratProject	2848	1398		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.07584269662921	5144	1444	3	3
+TCAGTAGGGACTATAA-1	SeuratProject	4795	2091	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.40458811261731	5296	2083	1	1
+TCAGTGTATACGTCAT-1	SeuratProject	5689	2537		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.45297943399543	5693	2515	5	5
+TCATACTTACAGATCC-1	SeuratProject	6959	2504		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.58988360396609	6306	2464	3	3
+TCATCGATGGTCCCAA-1	SeuratProject	1940	1089	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.35051546391752	4826	1283	5	5
+TCCAACTTTAAATTCT-1	SeuratProject	37658	7302		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.24079876785809	6383	2930	1	1
+TCCAATAAAGGCTACC-1	SeuratProject	24482	5771	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.01666530512213	5982	2425	1	1
+TCCACCTCTAGCCTTT-1	SeuratProject	16971	4632	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.92946791585646	6187	2650	1	1
+TCCAGAGCACCGGTTC-1	SeuratProject	24022	5999	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.92648405628174	6150	2728	6	6
+TCCATCAATACTAATC-1	SeuratProject	956	600		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.57740585774059	4518	1152	0	0
+TCCCAAACATCCTCTA-1	SeuratProject	7649	3254	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.70649758138319	6587	3217	6	6
+TCCCAAAGACGAAGGA-1	SeuratProject	25093	5726	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.79926672777269	5952	2383	4	4
+TCCCAGGCTTAGCTAA-1	SeuratProject	16536	4311	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.38558297048863	6151	2435	1	1
+TCCCGCGTACTCCTGG-1	SeuratProject	24191	5969	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.86094001901534	6242	2782	0	0
+TCCCGGGTGTGCTGCT-1	SeuratProject	2658	1310	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.17983446200151	5264	1369	4	4
+TCCCTGGCTCGCTGGA-1	SeuratProject	2244	1150	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.31372549019608	5040	1286	0	0
+TCCGAACTTGGCTTAC-1	SeuratProject	1611	881	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.49720670391061	4702	1197	4	4
+TCCGACCGCTAATCAA-1	SeuratProject	1729	1013	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.46096009253904	4709	1266	0	0
+TCCGATGGTGCGACAT-1	SeuratProject	24634	5964	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.06064788503694	5959	2495	6	6
+TCCGATTACATTGCCG-1	SeuratProject	4956	1982	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.56416464891041	5390	1963	4	4
+TCCGGTTCGTCCGGTC-1	SeuratProject	6050	2249	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.43801652892562	5938	2239	1	1
+TCCTAACCGTCGGGCA-1	SeuratProject	20042	5035		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.94042510727472	5784	2220	2	2
+TCCTAGCAAAGAAGCT-1	SeuratProject	16743	4619		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.17231081646061	6245	2678	1	1
+TCCTCCTAAGACATTC-1	SeuratProject	1556	890		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.90488431876607	4646	1221	4	4
+TCCTCTACGAGATGGC-1	SeuratProject	24215	5366	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.84926698327483	5881	2198	4	4
+TCCTCTCCAGTTGTCC-1	SeuratProject	4786	2086	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1667363142499	5278	2061	3	3
+TCGAAATTTAGGACCA-1	SeuratProject	16997	4248		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.8840971936224	6080	2310	1	1
+TCGAATATCCCGCAGG-1	SeuratProject	3306	1680	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.01935874168179	4985	1696	5	5
+TCGACAACTGAACCCG-1	SeuratProject	1077	672		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.98514391829155	4569	1176	0	0
+TCGACATAGCGTAGCG-1	SeuratProject	947	607	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.44772967265047	4484	1177	0	0
+TCGAGACCAACACCGT-1	SeuratProject	4693	1888	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.73790752184104	5307	1873	1	1
+TCGAGCCAGGCAGGCC-1	SeuratProject	4200	2074		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.64285714285714	5100	2057	5	5
+TCGCAAAGATGCATTT-1	SeuratProject	15167	4133	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1273158831674	6494	2763	2	2
+TCGCCGAAGTTGCGTC-1	SeuratProject	7380	2883		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.27642276422764	6449	2866	0	0
+TCGCCGCACCGCGTGA-1	SeuratProject	1469	817		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.50918992511913	4661	1166	0	0
+TCGCCGGATGGGCAAG-1	SeuratProject	18187	5176		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.90938582503986	6305	2707	3	3
+TCGGAATGCGCTCTGA-1	SeuratProject	3357	1593	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.26422400953232	5008	1596	4	4
+TCGGAGAGTATCGGGA-1	SeuratProject	1296	772	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.71913580246914	4583	1197	0	0
+TCGGCGTACTGCACAA-1	SeuratProject	2368	1283		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.58783783783784	5084	1371	0	0
+TCGGTCCCGACAATAG-1	SeuratProject	1598	892	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.3854818523154	4689	1204	0	0
+TCGTACCGACGTCAAG-1	SeuratProject	15530	4520	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.75466838377334	6565	3027	2	2
+TCGTCAAGTACGCGCA-1	SeuratProject	3929	1816		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.61007890048358	5103	1801	5	5
+TCGTCACACTGTTAGC-1	SeuratProject	3966	1700	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.41301059001513	5065	1692	3	3
+TCGTCCGCTGGCGTCT-1	SeuratProject	13354	3822		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.86625730118316	6689	3005	1	1
+TCGTGTCACGCTGACA-1	SeuratProject	266	211	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.77443609022556	4176	1319	0	0
+TCGTTGACAGGGTCCC-1	SeuratProject	11980	4087		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.92153589315526	6976	3617	4	4
+TCGTTGCTATCCGGTC-1	SeuratProject	5998	2324		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.03634544848283	5902	2301	1	1
+TCTAAAGAACAGTCTC-1	SeuratProject	1625	930		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.2	4689	1228	0	0
+TCTAACTGTATGTAAA-1	SeuratProject	15214	4724	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.62166425660576	6752	3326	3	3
+TCTAATACTGCCTCAG-1	SeuratProject	1517	927	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.05339485827291	4633	1264	0	0
+TCTACCGTCCACAAGC-1	SeuratProject	34101	6676	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.70358640509076	6219	2683	2	2
+TCTACGCACGATCTCC-1	SeuratProject	1694	1018	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.62219598583235	4657	1305	5	5
+TCTAGCAATCTCCGCC-1	SeuratProject	3155	1627	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.45166402535658	4968	1632	5	5
+TCTAGCATGCCCAGAA-1	SeuratProject	25944	5983	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.84165895775516	6075	2592	2	2
+TCTCTTACCGCGAACC-1	SeuratProject	5824	2344		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.9842032967033	5807	2327	1	1
+TCTGCAGATTCGAGTC-1	SeuratProject	11971	3912		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.66126472308078	7007	3407	3	3
+TCTGGCGCAAGCCGGG-1	SeuratProject	1598	900	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.07259073842303	4678	1216	4	4
+TCTGGGTAGCGCTCAT-1	SeuratProject	3093	1544	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.40381506627869	5046	1562	0	0
+TCTGTTACCCAGCATA-1	SeuratProject	6097	2725	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.1823847793997	5977	2703	5	5
+TCTTACGGCATCCGAC-1	SeuratProject	6001	2343		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.89885019163473	5908	2321	3	3
+TCTTCGAATAGACGTT-1	SeuratProject	27742	6256	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.63347992213972	6274	2800	6	6
+TCTTGCTCCCGATACT-1	SeuratProject	32046	6541	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.2225550770767	6319	2836	2	2
+TCTTGGTCAATGATAC-1	SeuratProject	1213	787		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.72794723825227	4502	1262	0	0
+TGAACTGCTATGACTT-1	SeuratProject	1810	1050		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.11602209944751	4761	1285	0	0
+TGAATGAGTGTTTCCC-1	SeuratProject	27110	6083	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.3862043526374	6291	2750	2	2
+TGACAGGACAAGTCCA-1	SeuratProject	1994	1059		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.22768304914744	4891	1257	0	0
+TGACTATAATCCTTTC-1	SeuratProject	29967	6793		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.19461407548303	6412	3061	6	6
+TGACTCCGAATCATAC-1	SeuratProject	1199	750	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.92243536280234	4517	1171	0	0
+TGAGCCATACAGTCTC-1	SeuratProject	4383	1945		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.52908966461328	5197	1933	1	1
+TGAGCGGAAAGTGTTC-1	SeuratProject	34688	6480	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.42112546125461	6078	2431	2	2
+TGAGGTGTGTGGCGGA-1	SeuratProject	5855	2657	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.24338172502135	5825	2629	5	5
+TGAGTGCCTCTTAAAT-1	SeuratProject	4363	1985		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.4719229887692	5168	1972	1	1
+TGATACATTTAGCCGT-1	SeuratProject	3724	1671		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.86143931256713	5118	1660	1	1
+TGATAGCGGGATTCTA-1	SeuratProject	10699	3749	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.63585381811384	6828	3504	4	4
+TGATCACCACACTGAC-1	SeuratProject	33104	6982	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.19913001449976	6499	3063	2	2
+TGATCAGGGAACTGCT-1	SeuratProject	1932	1006	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.05797101449275	4888	1215	0	0
+TGATCGGTTTGACCCT-1	SeuratProject	9622	2998		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.93785075867803	6548	2875	1	1
+TGATCTCCGGCGCCAG-1	SeuratProject	27508	6295		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.11909262759924	6239	2802	2	2
+TGATTCCCGGTTACCT-1	SeuratProject	27497	6212		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.92042768301997	6297	2768	2	2
+TGATTCTGTCGCCGGT-1	SeuratProject	12821	4150		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.57842601981125	6927	3538	0	0
+TGCAGAGTACCGAGCA-1	SeuratProject	5634	2245		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.85694000709975	5689	2229	1	1
+TGCAGATCGTCCTAGG-1	SeuratProject	1206	731	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.62852404643449	4576	1180	0	0
+TGCAGTGGTAGGGAAC-1	SeuratProject	1051	638	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56327307326356	4536	1143	0	0
+TGCATGTGACCCATAG-1	SeuratProject	1296	779		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.5679012345679	4570	1232	5	5
+TGCCAGTACGTGGAGA-1	SeuratProject	27965	6289	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.570177006973	6198	2785	2	2
+TGCCCGTACCGTTAAA-1	SeuratProject	27849	5762		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.39703400481166	6023	2330	1	1
+TGCCGGATGTACGAGC-1	SeuratProject	12544	4151	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.7468112244898	6947	3569	5	5
+TGCCGTGGATCGTCCT-1	SeuratProject	43584	7464	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.63160792951542	6168	2641	2	2
+TGCGACACCCTAGTGC-1	SeuratProject	5402	2278		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.08996667900777	5566	2267	4	4
+TGCGACGGCCGAACGT-1	SeuratProject	3532	1801	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.89807474518686	4991	1807	5	5
+TGCGAGAATATTACCC-1	SeuratProject	10202	3778		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.17565183297393	6772	3593	0	0
+TGCGATGCTAATGGCT-1	SeuratProject	9195	3014		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.89450788471996	6802	2874	3	3
+TGCGCGATTAACGGAG-1	SeuratProject	9268	3147		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.45921450151057	6607	3039	1	1
+TGCGTAAGAACCTGAT-1	SeuratProject	5188	2159		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.0763299922899	5454	2140	1	1
+TGCGTCATGACTGAGC-1	SeuratProject	2188	1218	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.9872029250457	4996	1368	0	0
+TGCTCAAAGGATGCAC-1	SeuratProject	1590	940	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.29559748427673	4600	1270	4	4
+TGCTGTTGAAGAACTC-1	SeuratProject	25355	5807	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.21179254584895	6100	2541	6	6
+TGCTTCCCAAGCAGTA-1	SeuratProject	29773	6284	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.29701407315353	6242	2721	2	2
+TGGAAGAAGGGAACGT-1	SeuratProject	2401	1226	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57934194085798	5124	1327	0	0
+TGGAATTAGACGCTTT-1	SeuratProject	4585	1832	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.4340239912759	5212	1798	3	3
+TGGACACCGTTGCTTG-1	SeuratProject	7778	2700		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.5312419645153	6563	2640	3	3
+TGGACGCAATCCAGCC-1	SeuratProject	942	604	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.11252653927813	4469	1153	0	0
+TGGAGAATAATCGTCC-1	SeuratProject	8132	3406		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.91047712739793	6650	3356	6	6
+TGGCAAGCACAAGTCG-1	SeuratProject	43554	7373	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.99628047940488	6339	2704	2	2
+TGGCATGAAGTTTGGG-1	SeuratProject	1766	986		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.73952434881087	4769	1235	0	0
+TGGCCGTATATTGACC-1	SeuratProject	39048	6432		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.6099160008195	6002	2130	2	2
+TGGCGACTGCTCCAAA-1	SeuratProject	21243	5338		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.33888810431672	5815	2285	1	1
+TGGCGATCAAGTTATG-1	SeuratProject	6003	2437	Tumor Stroma	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.71181076128602	5913	2419	1	1
+TGGGAAATGCCTTTCC-1	SeuratProject	6676	2482		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.99520671060515	6207	2449	3	3
+TGGGTTTCGGGCGTAC-1	SeuratProject	1497	934	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.81362725450902	4546	1272	4	4
+TGGTCCCACGCTACGG-1	SeuratProject	30590	6891	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.72670807453416	6419	3120	2	2
+TGGTCGATATACCTCT-1	SeuratProject	4293	2114		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.0314465408805	5113	2099	0	0
+TGGTCTAGCTTACATG-1	SeuratProject	6783	2541		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.19445673006045	6259	2501	3	3
+TGGTGATCGTATTTGT-1	SeuratProject	6608	2343	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.78087167070218	6195	2319	3	3
+TGGTTAACTTACATTT-1	SeuratProject	1138	755		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.2390158172232	4488	1201	0	0
+TGGTTATGCTTGCGGT-1	SeuratProject	5076	2230		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.59968479117415	5389	2207	3	3
+TGGTTCAACGGGTAAT-1	SeuratProject	34435	7041	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.83142151880354	6475	3049	2	2
+TGTAATGACCACAATA-1	SeuratProject	3534	1759	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.38539898132428	5007	1758	4	4
+TGTACGAACAAATCCG-1	SeuratProject	32374	6283		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.74145919565083	6342	2648	2	2
+TGTCCGTGGCGCCTTT-1	SeuratProject	4441	1883	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.53006079711777	5174	1868	3	3
+TGTCCTAAGTCACCGC-1	SeuratProject	1586	878	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.4577553593947	4728	1181	0	0
+TGTCGTTATCACATAT-1	SeuratProject	816	549	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.61764705882353	4362	1144	0	0
+TGTGCTTTACGTAAGA-1	SeuratProject	7798	2864	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.56629905103873	6486	2838	0	0
+TGTGGCGGGCTTCTGG-1	SeuratProject	26403	5902	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.35556565541795	6190	2590	2	2
+TGTGGTTGCTAAAGCT-1	SeuratProject	29506	6441	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.10106419033417	6324	2829	2	2
+TGTGTCGCGAGTTGCA-1	SeuratProject	38268	6944		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.51897146440891	6276	2621	2	2
+TGTGTTCGTATCCAAG-1	SeuratProject	1824	1021	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.90789473684211	4717	1289	3	3
+TGTTCATAAATGTGCT-1	SeuratProject	21306	5679	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	2.75509246221722	5942	2538	3	3
+TTAAACCTGGTTCCTT-1	SeuratProject	13051	3747	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.32526243199755	7048	3010	3	3
+TTAACACCTCGAACAT-1	SeuratProject	2930	1428	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.53242320819113	5095	1466	3	3
+TTAACTCACGCGTGGA-1	SeuratProject	7897	2639	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.0026592376852	6564	2597	3	3
+TTAACTTCAGGTAGGA-1	SeuratProject	1856	1079	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.54956896551724	4745	1311	0	0
+TTAAGGCCCGTACTTT-1	SeuratProject	1203	702	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.31005818786367	4586	1165	0	0
+TTAATTGCTTTGGGTG-1	SeuratProject	32584	6963	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.76098698747852	6394	3052	6	6
+TTACCCTAACAGTCCT-1	SeuratProject	3374	1619	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.58743331357439	4955	1632	3	3
+TTACCCTAGGGATTGG-1	SeuratProject	19467	4692	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.77212718960292	5859	2121	2	2
+TTACTATCGGCTTCTC-1	SeuratProject	1334	766		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.3208395802099	4590	1158	4	4
+TTACTCTGGTACGTAC-1	SeuratProject	2080	1067		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.08653846153846	4958	1244	0	0
+TTAGAATAAGGGTCGG-1	SeuratProject	13635	4138		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.96002933626696	6844	3284	2	2
+TTAGCCATAGGGCTCG-1	SeuratProject	1317	836	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.27638572513288	4501	1244	4	4
+TTAGCTCTGTAATCCG-1	SeuratProject	1540	876	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.85714285714286	4652	1205	4	4
+TTAGGTCATAACCGAC-1	SeuratProject	2992	1487		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.7927807486631	5088	1513	5	5
+TTATCCTCAAGGAATA-1	SeuratProject	2370	1288	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.9915611814346	5068	1374	0	0
+TTATCGCCTGCGAAGC-1	SeuratProject	3650	1668	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.23287671232877	5017	1670	3	3
+TTATGACAAACTGGAT-1	SeuratProject	48539	7485	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.93302293001504	5972	2278	2	2
+TTATGTTTGCGATAGA-1	SeuratProject	3543	1650	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.95540502399097	4973	1647	3	3
+TTATTAGAGCGTGTTC-1	SeuratProject	25285	5776	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.83685979829939	6084	2481	2	2
+TTCACTCGAGCACCTA-1	SeuratProject	35230	6752	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.04144195288107	6234	2705	2	2
+TTCACTTCCTAGAACG-1	SeuratProject	22868	5591	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.43711736924961	6068	2531	2	2
+TTCAGTTCAAGAGGAG-1	SeuratProject	3685	1804		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29579375848033	5040	1800	0	0
+TTCAGTTTGTGGCAGC-1	SeuratProject	10665	4404	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	0.881387716830755	6980	4155	4	4
+TTCCAATCTGGCTATC-1	SeuratProject	10147	3513		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.15945599684636	6699	3366	0	0
+TTCCACACAGATTTGA-1	SeuratProject	5663	2259		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.22885396432986	5692	2243	1	1
+TTCCAGTGGGTTTCGT-1	SeuratProject	2910	1453		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.70103092783505	5131	1486	0	0
+TTCCGCGTGAGGCGAT-1	SeuratProject	37231	7090	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.19459590126507	6318	2775	2	2
+TTCCGGCCTTGAGGCT-1	SeuratProject	4105	1807		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.79415347137637	5163	1801	1	1
+TTCCTCTGCCCGAATA-1	SeuratProject	2926	1494	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.03144224196856	5113	1532	4	4
+TTCGAACGAAACATGC-1	SeuratProject	3903	1877		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.61183704842429	5092	1859	0	0
+TTCGACAGAGCCCGTG-1	SeuratProject	29406	6139	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.95735564170577	6189	2599	2	2
+TTCGACGGGAAGGGCG-1	SeuratProject	21199	4812		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.42497287607906	5743	1959	2	2
+TTCGCACTCGCGTGCT-1	SeuratProject	32630	6279		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.1345387680049	6030	2373	2	2
+TTCGCCGCTCGCGCTA-1	SeuratProject	2512	1321		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.11624203821656	5209	1406	0	0
+TTCGCGCGCCATACGA-1	SeuratProject	32875	6475		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.48745247148289	6274	2679	2	2
+TTCGGGCGCTAGTCTT-1	SeuratProject	9934	3329		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.73766861284478	6590	3146	1	1
+TTCGTACTCCAGAACG-1	SeuratProject	4514	1948	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.57022596366859	5227	1942	4	4
+TTCTAGAAAGTCTTAT-1	SeuratProject	21723	5235		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.15937025272752	5895	2276	2	2
+TTCTATTAAACGCAGC-1	SeuratProject	23052	5617	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.34235641159119	6051	2485	2	2
+TTCTCAATTGCTACAA-1	SeuratProject	836	548		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.13397129186603	4411	1161	0	0
+TTCTGCCGCGCCTAGA-1	SeuratProject	28663	6709	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.47266510832781	6360	3068	6	6
+TTCTGCGAGCGCCCTT-1	SeuratProject	1659	911	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.94575045207957	4686	1219	4	4
+TTCTGTTTCCTGTCGC-1	SeuratProject	7294	2521		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.1573896353167	6414	2492	3	3
+TTCTTGAGCCGCGCTA-1	SeuratProject	7648	2933		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.72698744769875	6525	2911	0	0
+TTCTTGGACGATCTGC-1	SeuratProject	3405	1800	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.1086637298091	4938	1808	5	5
+TTCTTGTAACCTAATG-1	SeuratProject	45668	6937		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.56468424279583	5819	1956	2	2
+TTCTTGTGTCCATCAG-1	SeuratProject	18460	5240	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.00108342361863	5993	2614	4	4
+TTGAAGAATTCCCAGG-1	SeuratProject	19111	4667	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.8797027889697	5799	2089	2	2
+TTGAATCGTTGTATAA-1	SeuratProject	1963	1031		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.04890473764646	4905	1246	0	0
+TTGACATGAACGTGGA-1	SeuratProject	4767	1979	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.02034822739668	5318	1968	5	5
+TTGACCGTGTTAATGA-1	SeuratProject	4820	2330	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.48547717842324	5254	2314	5	5
+TTGACTACCATATGGT-1	SeuratProject	5884	2426		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.13800135961931	5847	2402	1	1
+TTGAGAGTACTGCTAA-1	SeuratProject	5326	2255		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5666541494555	5531	2238	1	1
+TTGATGCCGCTCGTCG-1	SeuratProject	1500	891	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.46666666666667	4591	1245	4	4
+TTGATTAGCTGTTTCT-1	SeuratProject	6035	2667		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.44656172328086	5943	2647	5	5
+TTGATTATGCAGATGA-1	SeuratProject	28630	6067		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.49912679008033	6071	2452	4	4
+TTGCATGCTGATCACG-1	SeuratProject	2352	1216	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.18367346938776	5092	1333	0	0
+TTGCCATAGCCCGCTC-1	SeuratProject	2154	1192	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.19591457753018	4986	1355	0	0
+TTGCCGCAGACCTACA-1	SeuratProject	1110	674		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.64864864864865	4594	1174	0	0
+TTGCGCTCTCTCGCTT-1	SeuratProject	5656	2193		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.29420084865629	5675	2167	3	3
+TTGCGGAAAGCTGCCC-1	SeuratProject	6751	2704		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.11761220559917	6268	2689	0	0
+TTGCGGCATCAGAAAG-1	SeuratProject	4712	2007		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.06196943972835	5302	1998	1	1
+TTGCGTAGTTTGAGGA-1	SeuratProject	2443	1277	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.16332378223496	5055	1372	3	3
+TTGCGTCGGCCAACCG-1	SeuratProject	9511	3504		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.66827883503312	6671	3398	0	0
+TTGCTGCACCTATCCA-1	SeuratProject	4081	1884		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.66503308012742	5063	1860	3	3
+TTGGAAGAATACAGTC-1	SeuratProject	2952	1538	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.11517615176152	5083	1571	0	0
+TTGGACATGTGGCTTA-1	SeuratProject	2890	1324	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.61937716262976	5172	1367	1	1
+TTGGCTCGCATGAGAC-1	SeuratProject	26712	5753		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.12833183587901	6076	2408	2	2
+TTGGGACACTGCCCGC-1	SeuratProject	18532	5433	Artifacts	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.25037772501619	6186	2797	6	6
+TTGGTCACACTCGTAA-1	SeuratProject	4163	1815		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	9.34422291616623	5159	1803	1	1
+TTGGTTGCGGTGCGCG-1	SeuratProject	2460	1343	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.78861788617886	5174	1438	0	0
+TTGTAAGGACCTAAGT-1	SeuratProject	3940	1928	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.40609137055838	5083	1922	5	5
+TTGTAATCCGTACTCG-1	SeuratProject	9556	3278	Tumor cells	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5554625366262	6620	3139	6	6
+TTGTCTCGGCAAGATG-1	SeuratProject	3925	1865		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	5.01910828025478	5088	1848	0	0
+TTGTGGTAGGAGGGAT-1	SeuratProject	3297	1728	Adipose tissue	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.27661510464058	4957	1735	5	5
+TTGTTCTAGATACGCT-1	SeuratProject	6094	2318		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.69609451919921	5959	2292	3	3
+TTGTTGGCAATGACTG-1	SeuratProject	5234	2545	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	3.97401604891097	5402	2506	3	3
+TTGTTTCACATCCAGG-1	SeuratProject	4359	2028		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	6.4923147510897	5162	2014	0	0
+TTGTTTCATTAGTCTA-1	SeuratProject	1200	765		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	7.5	4537	1231	5	5
+TTGTTTCCATACAACT-1	SeuratProject	1719	977	Fibrosis	M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	8.78417684700407	4718	1220	0	0
+TTGTTTGTATTACACG-1	SeuratProject	5274	2429		M4_Unstable2	GSM6592051	M4	p8_cancer_untreated	cancer_untreated	4.77815699658703	5466	2406	0	0
